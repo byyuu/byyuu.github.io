@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iloveu</title>
+  
+  <subtitle>I meet you.</subtitle>
+  <link href="http://byyuu.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://byyuu.github.io/"/>
+  <updated>2022-10-24T12:29:41.784Z</updated>
+  <id>http://byyuu.github.io/</id>
+  
+  <author>
+    <name>iloveu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android 洛雪音乐 v0.14.0</title>
+    <link href="http://byyuu.github.io/posts/d536d99b.html"/>
+    <id>http://byyuu.github.io/posts/d536d99b.html</id>
+    <published>2022-10-24T12:06:12.000Z</published>
+    <updated>2022-10-24T12:29:41.784Z</updated>
+    
+    <content type="html"><![CDATA[<p>洛雪音乐电脑版本很出名，手机版本同样是一个作者开发的产品，使用React native开发的安卓版本，软件界面清新，功能强大，该有的功能都有。同时，软件已经开源，允许所有人学习源码。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR971U.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="新增"><a href="#新增" class="headerlink" title="新增"></a>新增</h4><p>1.同步功能新增对列表位置调整的支持（需v1.15.3以上的PC端版本才支持）<br>2.新增播放详情页歌词字体大小调整设置，可在详情页右上角的按钮进行调整<br>3.新增同步服务地址历史列表功能<br>4.横屏播放详情页新增评论入口<br>5.我的列表歌曲三个点的菜单新增复制歌曲名</p><h4 id="优化"><a href="#优化" class="headerlink" title="优化"></a>优化</h4><p>1.修改对播放模块的调用，杜绝应用显示正在播放的歌曲与实际播放歌曲不一致的问题（这是播放模块歌曲队列与应用内歌曲队列在某些情况下出现不一致时导致的）<br>2.支持PC端同步功能添加对列表顺序调整的控制，确保手动调整位置后的列表与不同的电脑同步时，列表位置不会被还原<br>3.调整横屏下的导航栏、播放详情页布局，提高屏幕空间利用率并使其更易操作<br>4.调整歌单类别、我的列表弹出层界面<br>5.播放栏移除上一曲按钮，将多出来的空间加给播放、下一曲按钮<br>6.现在点击、长按播放栏歌曲标题也可以进入详情页、定位当前播放歌曲了</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复kw源某些歌曲的歌词提取异常的问题</p><h4 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h4><p>1.升级react-native到v0.66.4</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-mobile">https://github.com/lyswhut/lx-music-mobile</a><br><a href="https://www.123pan.com/s/v0HKVv-eWDHH">https://www.123pan.com/s/v0HKVv-eWDHH</a><br><a href="https://ghpym.lanzoui.com/b010hmjsd">https://ghpym.lanzoui.com/b010hmjsd</a> 密码:d72k<br><a href="https://pan.quark.cn/s/85b46af9bc8c">https://pan.quark.cn/s/85b46af9bc8c</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;洛雪音乐电脑版本很出名，手机版本同样是一个作者开发的产品，使用React native开发的安卓版本，软件界面清新，功能强大，该有的功能都有。同时，软件已经开源，允许所有人学习源码。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s1.ax1x.com/2022/10/</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Listen1(多平台音乐播放) v2.26.2</title>
+    <link href="http://byyuu.github.io/posts/28532f1a.html"/>
+    <id>http://byyuu.github.io/posts/28532f1a.html</id>
+    <published>2022-10-24T11:37:47.000Z</published>
+    <updated>2022-10-24T12:25:28.287Z</updated>
+    
+    <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h4 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h4><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。&lt;/p&gt;
+&lt;p&gt;并且支持Win，Linux，MAC还有网页。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s1.ax1x.</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>洛雪音乐助手 v1.22.3 绿色版</title>
+    <link href="http://byyuu.github.io/posts/28532f1a.html"/>
+    <id>http://byyuu.github.io/posts/28532f1a.html</id>
+    <published>2022-10-24T11:37:47.000Z</published>
+    <updated>2022-10-24T12:07:48.298Z</updated>
+    
+    <content type="html"><![CDATA[<p>洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。<br>虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！</p><p>软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。</p><p><img src="https://s1.ax1x.com/2022/10/24/x2xZbq.jpg"></p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：<br>Electron 10<br>Vue 2</p><p>已支持的平台：<br>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复因音源的域名到期导致的音源失效的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>GitHub：<a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br>本站只镜像win版本，软件目前不支持下载无损<br><a href="https://www.123pan.com/s/v0HKVv-ZWDHH">https://www.123pan.com/s/v0HKVv-ZWDHH</a><br><a href="https://pan.quark.cn/s/d50e86c91a1d">https://pan.quark.cn/s/d50e86c91a1d</a><br><a href="https://www.lanzoui.com/b00z8le7g">https://www.lanzoui.com/b00z8le7g</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。&lt;br&gt;虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！&lt;/p&gt;
+&lt;p&gt;软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+</feed>
