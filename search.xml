@@ -79,31 +79,6 @@
     
     
     <entry>
-      <title>洛雪音乐助手 v1.22.3 绿色版</title>
-      <link href="/posts/26532f1a.html"/>
-      <url>/posts/26532f1a.html</url>
-      
-        <content type="html"><![CDATA[<p>洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。<br>虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！</p><p>软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。</p><p><img src="https://s1.ax1x.com/2022/10/24/x2xZbq.jpg"></p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：<br>Electron 10<br>Vue 2</p><p>已支持的平台：<br>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复因音源的域名到期导致的音源失效的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>GitHub：<a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br>本站只镜像win版本，软件目前不支持下载无损<br><a href="https://www.123pan.com/s/v0HKVv-ZWDHH">https://www.123pan.com/s/v0HKVv-ZWDHH</a><br><a href="https://pan.quark.cn/s/d50e86c91a1d">https://pan.quark.cn/s/d50e86c91a1d</a><br><a href="https://www.lanzoui.com/b00z8le7g">https://www.lanzoui.com/b00z8le7g</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 软件分享 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Windows软件 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Microsoft Edge v106.0.1370.52 便携增强版</title>
       <link href="/posts/28432f1a.html"/>
       <url>/posts/28432f1a.html</url>
@@ -134,6 +109,31 @@
       <url>/posts/28532f1a.html</url>
       
         <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>洛雪音乐助手 v1.22.3 绿色版</title>
+      <link href="/posts/26532f1a.html"/>
+      <url>/posts/26532f1a.html</url>
+      
+        <content type="html"><![CDATA[<p>洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。<br>虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！</p><p>软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。</p><p><img src="https://s1.ax1x.com/2022/10/24/x2xZbq.jpg"></p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：<br>Electron 10<br>Vue 2</p><p>已支持的平台：<br>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复因音源的域名到期导致的音源失效的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>GitHub：<a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br>本站只镜像win版本，软件目前不支持下载无损<br><a href="https://www.123pan.com/s/v0HKVv-ZWDHH">https://www.123pan.com/s/v0HKVv-ZWDHH</a><br><a href="https://pan.quark.cn/s/d50e86c91a1d">https://pan.quark.cn/s/d50e86c91a1d</a><br><a href="https://www.lanzoui.com/b00z8le7g">https://www.lanzoui.com/b00z8le7g</a></p>]]></content>
       
       
       <categories>
