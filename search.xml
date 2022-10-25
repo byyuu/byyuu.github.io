@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>Android 椒盐音乐播放器 v7.10.2</title>
+      <link href="/posts/4936c02b.html"/>
+      <url>/posts/4936c02b.html</url>
+      
+        <content type="html"><![CDATA[<p>椒盐音乐是一款好用的本地音乐播放器软件，支持多种音频格式，软件的界面非常的美观，而且会根据封面的色彩产生流光元素，非常多的主题可以选择，还支持横屏模式和桌面歌词等。</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>1.沉浸模式<br>2.状态栏歌词(部分机型)<br>3.自动匹配网络歌词<br>4.音频输出高级设置</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/25/xRUhhn.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>1.新增压限器（Compressor）选项，使音乐响亮的部分更安静，而安静的部分更响亮<br>2.优化歌词滚动流畅性<br>3.修复读取 FLAC 音频标题可能乱码的问题<br>4.修复强制高性能输出同时启用自适应音频采样率时无法播放 DSD 音频的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/9bee13e38378">https://pan.quark.cn/s/9bee13e38378</a><br><a href="https://ghpym.lanzouo.com/b0118ghba">https://ghpym.lanzouo.com/b0118ghba</a> 密码: b2hg</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>RunningCheese Firefox 106.0 便携版</title>
+      <link href="/posts/267b9470.html"/>
+      <url>/posts/267b9470.html</url>
+      
+        <content type="html"><![CDATA[<p>RunningCheese Firefox是第三方定制的一款浏览器，更符合国人的使用。</p><p>RunningCheese Firefox 是一款旨在提高Firefox易用性的浏览器，界面优美功能强大，操作简单容易上手是它的特色，为你在工作学习上提供极大的便利。V系列Firefox 将坚定地朝这个方向前进，力求简洁易用，让更多的人加入 Firefox 阵营。</p><p>开发前后经历4年的 RunningCheese Firefox V10 正式版发布了！全新的架构让 Firefox 焕发了第二春，有史以来最棒的 Firefox，高速流畅，一别卡顿。在速度比肩 Chrome 浏览器的同时，还保留了 Firefox 的强大功能，正式版V10已经可以完全替代传统架构的V9，如果你追求的是简洁高效，那么这款 Firefox 浏览器一定适合你 ~~</p><p><img src="https://s1.ax1x.com/2022/10/25/xRUElV.jpg"></p><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><p><strong>1、打开 Firefox 后，显示的是 Firefox 的原版界面？</strong><br>不要把文件放在有中文的路径下，也不要放在有空格的路径下，比如 Program Files 这样的路径下，还可以尝试换一个路径解压，使用管理员身份运行。</p><p><strong>2、打开选项出现“Windows Script Host 错误：无效字符”？</strong><br>点击“火箭图标—&gt;脚本文件夹”右键点击“userChrome.js”，选择“属性”，在打开方式中选择“记事本”即可，同时也可以点击“火箭图标—&gt;系统工具—&gt;关联记事本”，让 Notepad2 代替默认的记事本。</p><p><strong>3、如何升级更新？</strong><br>如果是小幅度更新：<br>点击“火箭图标—&gt;更新修复—&gt;自动更新” 即可一键更新，同时删除“Cache”这个缓存文件夹。</p><p>如果是建议全新下载：<br>1，下载更新的压缩包后，登录 Firefox 帐号，书签就会自动同步，拓展和用户脚本建议手动更新，同步容易出错。<br>2，转移旧版书签和历史记录，将旧版配置文件夹下的 “\Profiles\V10\places.sqlite” 覆盖到新版同名文件。<br>3，书签图标如果是空白的，将旧版配置文件夹下的 “\Profiles\V10\favicons.sqlite” 覆盖到新版同名文件。<br>4，转移旧版搜索引擎列表，将旧版配置文件夹下的 “\Profiles\V10\search.json.mozlz4” 覆盖到新版同名文件。<br>5，如果你有自己的内容修改，建议备份保存修改内容，然后再重新添加到新版本里去。</p><p>更多问题参考：<a href="https://www.runningcheese.com/firefox-usage">https://www.runningcheese.com/firefox-usage</a></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://mp.weixin.qq.com/s/ou7xf6xE7FoHd1V7Ny5QDg">https://mp.weixin.qq.com/s/ou7xf6xE7FoHd1V7Ny5QDg</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>绿色免安装，下载解压后，点击 “开始.bat” 就是创建快捷方式启动。<br><a href="https://www.lanzouv.com/b0ufrtlc">https://www.lanzouv.com/b0ufrtlc</a><br><a href="https://www.123pan.com/s/v0HKVv-QCDHH">https://www.123pan.com/s/v0HKVv-QCDHH</a><br><a href="https://cloud.189.cn/t/UraMNvEvAFZn">https://cloud.189.cn/t/UraMNvEvAFZn</a> (访问码:88yf)<br><a href="https://pan.baidu.com/s/1rv3wjNNkGGi_sGjVC758vA">https://pan.baidu.com/s/1rv3wjNNkGGi_sGjVC758vA</a> 提取码：fihx</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Android 洛雪音乐 v0.14.0</title>
       <link href="/posts/d536d99b.html"/>
       <url>/posts/d536d99b.html</url>
@@ -29,11 +79,11 @@
     
     
     <entry>
-      <title>Microsoft Edge v106.0.1370.52 便携增强版</title>
-      <link href="/posts/28432f1a.html"/>
-      <url>/posts/28432f1a.html</url>
+      <title>Listen1(多平台音乐播放) v2.26.2</title>
+      <link href="/posts/28532f1a.html"/>
+      <url>/posts/28532f1a.html</url>
       
-        <content type="html"><![CDATA[<p>新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"><br><img src="https://s1.ax1x.com/2022/10/24/xRAZSx.png"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>1.基于不带更新组件及服务的官方版，删除了无用webit文件多语言pak<br>2.加入Chrome增强软件便携式劫持补丁edge++ 1.5.1 x64（version.dll）</p><p><strong>edge++增强特点：</strong><br>├—双击关闭标签页<br>├—保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>├—鼠标悬停标签栏滚动<br>├—按住右键时滚轮滚动标签栏<br>├—移除flash锁区，移除2020年过期警告（下载加载flash需要你自己处理）<br>├—移除管理员运行警告<br>├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）<br>├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）<br>├—移除更新错误警告</p><p>启动软件app/msedge.exe，增强功能通过app/version.dll补丁实现。<br>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹。<br>注意：不要去删除或改动目录内 [说明.txt]，否则导致version.dll无效！</p><p>3.加入MyChrome v3.8.35，解决便携数据Data换系统后不读取问题。</p><p>说明1：安全软件会误报version.dll, MyChrome.exe威胁，请加入排除！<br>说明2：由于便携式的特殊性，不支持放系统盘%ProgramFiles%运行哦</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>87.0.664.75为最后一个支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-LWDHH">https://www.123pan.com/s/v0HKVv-LWDHH</a><br><a href="https://pan.quark.cn/s/8be58bf7def4">https://pan.quark.cn/s/8be58bf7def4</a><br><a href="https://www.aliyundrive.com/s/JHLMLcYWpxh">https://www.aliyundrive.com/s/JHLMLcYWpxh</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
       
       
       <categories>
@@ -54,11 +104,11 @@
     
     
     <entry>
-      <title>Listen1(多平台音乐播放) v2.26.2</title>
-      <link href="/posts/28532f1a.html"/>
-      <url>/posts/28532f1a.html</url>
+      <title>Microsoft Edge v106.0.1370.52 便携增强版</title>
+      <link href="/posts/28432f1a.html"/>
+      <url>/posts/28432f1a.html</url>
       
-        <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
+        <content type="html"><![CDATA[<p>新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"><br><img src="https://s1.ax1x.com/2022/10/24/xRAZSx.png"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>1.基于不带更新组件及服务的官方版，删除了无用webit文件多语言pak<br>2.加入Chrome增强软件便携式劫持补丁edge++ 1.5.1 x64（version.dll）</p><p><strong>edge++增强特点：</strong><br>├—双击关闭标签页<br>├—保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>├—鼠标悬停标签栏滚动<br>├—按住右键时滚轮滚动标签栏<br>├—移除flash锁区，移除2020年过期警告（下载加载flash需要你自己处理）<br>├—移除管理员运行警告<br>├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）<br>├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）<br>├—移除更新错误警告</p><p>启动软件app/msedge.exe，增强功能通过app/version.dll补丁实现。<br>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹。<br>注意：不要去删除或改动目录内 [说明.txt]，否则导致version.dll无效！</p><p>3.加入MyChrome v3.8.35，解决便携数据Data换系统后不读取问题。</p><p>说明1：安全软件会误报version.dll, MyChrome.exe威胁，请加入排除！<br>说明2：由于便携式的特殊性，不支持放系统盘%ProgramFiles%运行哦</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>87.0.664.75为最后一个支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-LWDHH">https://www.123pan.com/s/v0HKVv-LWDHH</a><br><a href="https://pan.quark.cn/s/8be58bf7def4">https://pan.quark.cn/s/8be58bf7def4</a><br><a href="https://www.aliyundrive.com/s/JHLMLcYWpxh">https://www.aliyundrive.com/s/JHLMLcYWpxh</a></p>]]></content>
       
       
       <categories>
