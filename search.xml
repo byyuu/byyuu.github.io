@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Android NP管理器 v3.0.56</title>
+      <link href="/posts/df5f0713.html"/>
+      <url>/posts/df5f0713.html</url>
+      
+        <content type="html"><![CDATA[<p>NP管理器是一款强大的安卓反编译或反汇编工具，虽然这个NPManager反编译或反汇编工具没有APK逆向修改神器”MT管理器“强大，但是也多了一个选择，NP管理器 NPManager 由吹牛儿原创开发，支持Apk 签名、共存、去除签名校验、对话框取消、去除 VPN/代理检测，常见字符串转换，如 base64、des、md5、16 进制、Unicode、去空白等。</p><p><img src="https://s1.ax1x.com/2022/10/25/xRONzd.png"></p><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>Apk、Dex、Jar、Smali、Pdf、视频和音频文件的简单应用，Dex、Jar、Smali 文件的相互转换，Dex 文件合并、分割。<br>Apk 签名、共存、去除签名校验、对话框取消、去除 VPN/代理检测，Pdf 合并、加密、分割、提取、解除加密限制、删页。<br>视频转码、剪切、提取音频/视频流、自定义音频/视频操作，文件夹转码 GBK&lt;–&gt;UTF-8，So 文件查看字符常量。<br>Apk 加固判断，Dex 编辑(批量删除类)，高兼容性字符串加密(Apk、dex)。<br>工具箱(常见字符串转换，如 base64、des、md5、16 进制、Unicode、去空白等)。<br>一键添加 Xposed 检测，一键添加弹窗、对话框，axml 反编译/回编译、arsc 文件查看字符常量。<br>一键 LOG 注入，一键去除所有弹窗(Toast) 一键注入字符串解密 LOG，Dex 文件换包名。<br>多种 Apk 字符串加密方案(推荐控制流混淆中的字符串加密) 一键添加禁止截屏，一键添加Apk崩溃日志记录。<br>XML 文本代码格式化，Smali 文件转 Java，Dex 文件查看字符常量，Apk 功能–DEX 混淆对抗。<br>Apk 超级混淆 3.0–高效率直接对 dex 混淆，支持混淆四大组件，支持多 dex。<br>Dex 编辑 Plus(支持搜索、编辑Smali和查看字符常量) 支持 Smali、Java、AXML 等编辑器内语法高亮。<br>一键提取Dex混淆字典，加密 Dex 中的资源 ID，Apk 对齐优化，Dex 批量修复，超强版去除签名校验。<br>assets 和 res 资源加密保护，Dex 文件对比，文本文件对比，class 文件和 jar 包反编译，Dex 功能-属性查看。<br>Apk 功能–控制流混淆 5.0- 高效率全量加密字符串，方法隐藏，加密资源 id，指令替换，dex 优化，反射保护，扁平化等。<br>Smali 执行流程图查看(编辑器-&gt;导航-&gt;长按方法名-&gt;查看流程图)。<br>Smali 方法 CodeOffset 大小查看(编辑器-&gt;导航) Smali 方法 IR 查看(编辑器-&gt;导航)，Smali 语法查询。<br>Svg 和 android vectorDrawable XML——互转和预览功能(多选批量)。<br>Json 文件可视化、格式化、校验、压缩、转义以及和 xml 互转，Apk、dex、jar 混淆和字符串加密，Res 资源混淆(支持自定义字典)。<br>网络接口测试工具NPMan，支持常见网络请求测试、Ping 测试；支持读取 HttpCanary 保存的请求文件 request.hcy 和 request_body.bin；支持上传二进制文件作为请求体。<br>Apk-VM 保护，支持配置注解和类名方法名规则，Apk-Res 反混淆。<br>支持单独对 Jar 或者 Dex 文件进行控制流混淆，Apk-Dex 字符串解密，控制流-防字符串一键解密。</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://ypj.lanzout.com/b00ote89a">https://ypj.lanzout.com/b00ote89a</a> 提取码：ahck<br><a href="https://pan.quark.cn/s/a4b13a595047">https://pan.quark.cn/s/a4b13a595047</a><br><a href="https://cloud.189.cn/t/FjMNjeuaUvUz">https://cloud.189.cn/t/FjMNjeuaUvUz</a> (访问码:2yu8)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Android 椒盐音乐播放器 v7.10.2</title>
       <link href="/posts/4936c02b.html"/>
       <url>/posts/4936c02b.html</url>
