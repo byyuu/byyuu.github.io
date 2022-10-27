@@ -6,7 +6,7 @@
   <link href="http://byyuu.github.io/atom.xml" rel="self"/>
   
   <link href="http://byyuu.github.io/"/>
-  <updated>2022-10-26T03:20:23.671Z</updated>
+  <updated>2022-10-27T02:44:19.132Z</updated>
   <id>http://byyuu.github.io/</id>
   
   <author>
@@ -15,6 +15,80 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>腾讯视频 v11.55.2024 去广告纯净版</title>
+    <link href="http://byyuu.github.io/posts/612741fc.html"/>
+    <id>http://byyuu.github.io/posts/612741fc.html</id>
+    <published>2022-10-27T02:38:29.000Z</published>
+    <updated>2022-10-27T02:44:19.132Z</updated>
+    
+    <content type="html"><![CDATA[<p>腾讯视频PC版去广告绿色清爽版，免升级，看视频免等待，无任何广告弹窗干扰！腾讯视频-中国最大在线视频媒体平台，海量高清视频在线观看。腾讯视频客户端，精彩剧集提前更新，支持在线点播及电视台直播，包含了大量独播英美剧、独播NBA版权，支持三倍流畅播放、免费享受蓝光画质。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/27/xfQEUx.jpg"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p><strong>@423down</strong></p><p>01.反汇编处理，去安全效验、去所有广告视频秒播！<br>02.去迷你腾讯弹窗、禁止任务栏通知区域定时推送弹窗<br>03.去所有的广告：缓冲广告、暂停广告、播放中等广告<br>04.去主界面游戏中心按钮禁止拉取、去设置界面游戏管理项<br>05.修改默认点关闭按钮不最小化到托盘，而是彻底完全退出<br>06.禁止每次启动在磁盘目录生成QLDownloadGame文件夹<br>07.禁止检测升级，禁止后续强制在后台下载新版安装包升级<br>08.禁止播放本地视频关闭返回界面后弹出“QQ影音下载安装”询问弹窗<br>09.禁止驻留后台，去设置界面项：允许腾讯视频驻留、允许推送迷你页面<br>10.去主菜单和托盘菜单无用项：迷你腾讯、在线升级、修复与反馈，帮助<br>11.禁止在系统后台 %AppData%\Tencent\目录里面生成logs产品日志的文件夹<br>12.删除服务程序、自动升级插件、安全修复相关模块等大量无用的不必要的文件</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/bcea7c48c19f">https://pan.quark.cn/s/bcea7c48c19f</a></p><p><a href="https://www.lanzoui.com/b00z9prpc">https://www.lanzoui.com/b00z9prpc</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;腾讯视频PC版去广告绿色清爽版，免升级，看视频免等待，无任何广告弹窗干扰！腾讯视频-中国最大在线视频媒体平台，海量高清视频在线观看。腾讯视频客户端，精彩剧集提前更新，支持在线点播及电视台直播，包含了大量独播英美剧、独播NBA版权，支持三倍流畅播放、免费享受蓝光画质。&lt;/p&gt;</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Google翻译修复工具 v1.3</title>
+    <link href="http://byyuu.github.io/posts/558a6141.html"/>
+    <id>http://byyuu.github.io/posts/558a6141.html</id>
+    <published>2022-10-27T01:39:18.000Z</published>
+    <updated>2022-10-27T01:56:06.661Z</updated>
+    
+    <content type="html"><![CDATA[<p>10月份，Google翻译API被误伤，官方干脆直接停用了。虽然网页翻译给停用了，但是API并没有停，稍微修改一下host就能解决。</p><p>鉴于使用不方便，我做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻译功能。</p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>打开后会自动获取IP，获取成功会展示所有可用IP，然后点击测试延迟，软件会依次进行延迟测试</p><p>点击一键修复，软件自动选择一个本机延迟最低的IP，设置HOST。</p><p>最后，设置完成以后，可用测试一下翻译接口是否正常。正常的话，本机所有使用Google翻译的功能，将恢复使用。</p><img src=" https://s1.ax1x.com/2022/10/27/xfnwAf.png " width="50%"><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><strong>v1.3</strong><br>修改可用IP<br>新增接口可用性检测，能在设置IP之前，先检测此IP是否可用，以应对有些IP虽然能联通，但是不能使用<br>新增清除host菜单项目，可用快速删除设置的Google翻译HOST一项，不影响其他的HOST。</p><p><strong>v1.2</strong><br>修复1.1版本设置IP无效问题<br>新增单条IP延迟测试</p><p><strong>v1.1</strong><br>修改HOST替换方式，不再覆盖原来HOST的内容<br>新增菜单打开HOST，可以一键打开HOST文件，查看内容<br>IP列表新增右键菜单，可以选择指定IP进行设置</p><h2 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h2><p>软件非常有可能会被杀毒干掉，请关闭或者信任以后使用</p><p><strong>压缩包解压密码：123</strong></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-9NDHH">https://www.123pan.com/s/v0HKVv-9NDHH</a></p><p><a href="https://pan.quark.cn/s/c0278aad2ad1">https://pan.quark.cn/s/c0278aad2ad1</a></p><p><a href="https://ghpym.lanzouv.com/b0124sv2j">https://ghpym.lanzouv.com/b0124sv2j</a> 密码:chme</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;10月份，Google翻译API被误伤，官方干脆直接停用了。虽然网页翻译给停用了，但是API并没有停，稍微修改一下host就能解决。&lt;/p&gt;
+&lt;p&gt;鉴于使用不方便，我做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻译功</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IObit Uninstaller Pro v12.1.0.5 便携修改版</title>
+    <link href="http://byyuu.github.io/posts/99417ff1.html"/>
+    <id>http://byyuu.github.io/posts/99417ff1.html</id>
+    <published>2022-10-27T01:16:52.000Z</published>
+    <updated>2022-10-27T01:36:41.237Z</updated>
+    
+    <content type="html"><![CDATA[<p>IObit Uninstalller是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p><p>IObit Uninstaller是一款功能强大且体积小巧的绿色软件，能够有效地取代Windows自带的卸载功能。通过它，你可以彻底卸载不需要的软件，不留下软件的相关信息，并且不会造成系统崩溃。</p><p>IObit Uninstaller(软件卸载工具)是款轻巧的软件卸载工具，它虽然小巧可是五脏俱全，它包含的功能有一键移除工具列,批次移除和强制移除等功能。</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>支持强制卸载和文件粉碎功能；</p><p>支持谷歌浏览器、火狐浏览器、IE浏览器、欧朋浏览器的插件卸载。一键卸载提升浏览器速度和安全；</p><p>支持批量卸载，支持强力扫描卸载</p><p>支持浏览器插件评分评级</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@果核剥壳</p><p><strong>便携修改制作</strong></p><p><font color="#FF0000">注:修改版无法开机自启，关闭程序以后无法关闭后台</font></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/27/xfmWfe.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-HNDHH">https://www.123pan.com/s/v0HKVv-HNDHH</a></p><p><a href="https://pan.quark.cn/s/861a683bb18e">https://pan.quark.cn/s/861a683bb18e</a></p><p><a href="https://ghpym.lanzoui.com/b010x1uwd">https://ghpym.lanzoui.com/b010x1uwd</a> 密码: euzo</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;IObit Uninstalller是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。&lt;/p&gt;
+&lt;p&gt;IObit Uninstaller是一款功能强大且体积小巧的绿色软件，能够有效地取代Windo</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>蓝奏云第三方客户端(electron版)v3.4.2 绿色版</title>
@@ -191,6 +265,31 @@
   </entry>
   
   <entry>
+    <title>Microsoft Edge v106.0.1370.52 便携增强版</title>
+    <link href="http://byyuu.github.io/posts/28432f1a.html"/>
+    <id>http://byyuu.github.io/posts/28432f1a.html</id>
+    <published>2022-10-24T11:37:47.000Z</published>
+    <updated>2022-10-25T11:04:18.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>1.基于不带更新组件及服务的官方版，删除了无用webit文件多语言pak<br>2.加入Chrome增强软件便携式劫持补丁edge++ 1.5.1 x64（version.dll）</p><p><strong>edge++增强特点：</strong><br>├—双击关闭标签页<br>├—保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>├—鼠标悬停标签栏滚动<br>├—按住右键时滚轮滚动标签栏<br>├—移除flash锁区，移除2020年过期警告（下载加载flash需要你自己处理）<br>├—移除管理员运行警告<br>├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）<br>├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）<br>├—移除更新错误警告</p><p>启动软件app/msedge.exe，增强功能通过app/version.dll补丁实现。<br>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹。<br>注意：不要去删除或改动目录内 [说明.txt]，否则导致version.dll无效！</p><p>3.加入MyChrome v3.8.35，解决便携数据Data换系统后不读取问题。</p><p>说明1：安全软件会误报version.dll, MyChrome.exe威胁，请加入排除！<br>说明2：由于便携式的特殊性，不支持放系统盘%ProgramFiles%运行哦</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>87.0.664.75为最后一个支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-LWDHH">https://www.123pan.com/s/v0HKVv-LWDHH</a><br><a href="https://pan.quark.cn/s/8be58bf7def4">https://pan.quark.cn/s/8be58bf7def4</a><br><a href="https://www.aliyundrive.com/s/JHLMLcYWpxh">https://www.aliyundrive.com/s/JHLMLcYWpxh</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Listen1(多平台音乐播放) v2.26.2</title>
     <link href="http://byyuu.github.io/posts/28532f1a.html"/>
     <id>http://byyuu.github.io/posts/28532f1a.html</id>
@@ -205,31 +304,6 @@
     <summary type="html">&lt;p&gt;Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。&lt;/p&gt;
 &lt;p&gt;并且支持Win，Linux，MAC还有网页。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://s1.ax1x.</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Microsoft Edge v106.0.1370.52 便携增强版</title>
-    <link href="http://byyuu.github.io/posts/28432f1a.html"/>
-    <id>http://byyuu.github.io/posts/28432f1a.html</id>
-    <published>2022-10-24T11:37:47.000Z</published>
-    <updated>2022-10-25T11:04:18.343Z</updated>
-    
-    <content type="html"><![CDATA[<p>新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>1.基于不带更新组件及服务的官方版，删除了无用webit文件多语言pak<br>2.加入Chrome增强软件便携式劫持补丁edge++ 1.5.1 x64（version.dll）</p><p><strong>edge++增强特点：</strong><br>├—双击关闭标签页<br>├—保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>├—鼠标悬停标签栏滚动<br>├—按住右键时滚轮滚动标签栏<br>├—移除flash锁区，移除2020年过期警告（下载加载flash需要你自己处理）<br>├—移除管理员运行警告<br>├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）<br>├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）<br>├—移除更新错误警告</p><p>启动软件app/msedge.exe，增强功能通过app/version.dll补丁实现。<br>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹。<br>注意：不要去删除或改动目录内 [说明.txt]，否则导致version.dll无效！</p><p>3.加入MyChrome v3.8.35，解决便携数据Data换系统后不读取问题。</p><p>说明1：安全软件会误报version.dll, MyChrome.exe威胁，请加入排除！<br>说明2：由于便携式的特殊性，不支持放系统盘%ProgramFiles%运行哦</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>87.0.664.75为最后一个支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-LWDHH">https://www.123pan.com/s/v0HKVv-LWDHH</a><br><a href="https://pan.quark.cn/s/8be58bf7def4">https://pan.quark.cn/s/8be58bf7def4</a><br><a href="https://www.aliyundrive.com/s/JHLMLcYWpxh">https://www.aliyundrive.com/s/JHLMLcYWpxh</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https</summary>
       
     
     
