@@ -45,15 +45,15 @@
     <link href="http://byyuu.github.io/posts/558a6141.html"/>
     <id>http://byyuu.github.io/posts/558a6141.html</id>
     <published>2022-10-27T01:39:18.000Z</published>
-    <updated>2022-10-27T01:56:06.661Z</updated>
+    <updated>2022-10-27T03:08:42.235Z</updated>
     
-    <content type="html"><![CDATA[<p>10月份，Google翻译API被误伤，官方干脆直接停用了。虽然网页翻译给停用了，但是API并没有停，稍微修改一下host就能解决。</p><p>鉴于使用不方便，我做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻译功能。</p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>打开后会自动获取IP，获取成功会展示所有可用IP，然后点击测试延迟，软件会依次进行延迟测试</p><p>点击一键修复，软件自动选择一个本机延迟最低的IP，设置HOST。</p><p>最后，设置完成以后，可用测试一下翻译接口是否正常。正常的话，本机所有使用Google翻译的功能，将恢复使用。</p><img src=" https://s1.ax1x.com/2022/10/27/xfnwAf.png " width="50%"><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><strong>v1.3</strong><br>修改可用IP<br>新增接口可用性检测，能在设置IP之前，先检测此IP是否可用，以应对有些IP虽然能联通，但是不能使用<br>新增清除host菜单项目，可用快速删除设置的Google翻译HOST一项，不影响其他的HOST。</p><p><strong>v1.2</strong><br>修复1.1版本设置IP无效问题<br>新增单条IP延迟测试</p><p><strong>v1.1</strong><br>修改HOST替换方式，不再覆盖原来HOST的内容<br>新增菜单打开HOST，可以一键打开HOST文件，查看内容<br>IP列表新增右键菜单，可以选择指定IP进行设置</p><h2 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h2><p>软件非常有可能会被杀毒干掉，请关闭或者信任以后使用</p><p><strong>压缩包解压密码：123</strong></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-9NDHH">https://www.123pan.com/s/v0HKVv-9NDHH</a></p><p><a href="https://pan.quark.cn/s/c0278aad2ad1">https://pan.quark.cn/s/c0278aad2ad1</a></p><p><a href="https://ghpym.lanzouv.com/b0124sv2j">https://ghpym.lanzouv.com/b0124sv2j</a> 密码:chme</p>]]></content>
+    <content type="html"><![CDATA[<p>10月份，Google翻译API被误伤，官方干脆直接停用了。虽然网页翻译给停用了，但是API并没有停，稍微修改一下host就能解决。</p><p>鉴于使用不方便，某大佬做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻译功能。</p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>打开后会自动获取IP，获取成功会展示所有可用IP，然后点击测试延迟，软件会依次进行延迟测试</p><p>点击一键修复，软件自动选择一个本机延迟最低的IP，设置HOST。</p><p>最后，设置完成以后，可用测试一下翻译接口是否正常。正常的话，本机所有使用Google翻译的功能，将恢复使用。</p><img src=" https://s1.ax1x.com/2022/10/27/xfnwAf.png " width="50%"><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><strong>v1.3</strong><br>修改可用IP<br>新增接口可用性检测，能在设置IP之前，先检测此IP是否可用，以应对有些IP虽然能联通，但是不能使用<br>新增清除host菜单项目，可用快速删除设置的Google翻译HOST一项，不影响其他的HOST。</p><p><strong>v1.2</strong><br>修复1.1版本设置IP无效问题<br>新增单条IP延迟测试</p><p><strong>v1.1</strong><br>修改HOST替换方式，不再覆盖原来HOST的内容<br>新增菜单打开HOST，可以一键打开HOST文件，查看内容<br>IP列表新增右键菜单，可以选择指定IP进行设置</p><h2 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h2><p>软件非常有可能会被杀毒干掉，请关闭或者信任以后使用</p><p><strong>压缩包解压密码：123</strong></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-9NDHH">https://www.123pan.com/s/v0HKVv-9NDHH</a></p><p><a href="https://pan.quark.cn/s/c0278aad2ad1">https://pan.quark.cn/s/c0278aad2ad1</a></p><p><a href="https://ghpym.lanzouv.com/b0124sv2j">https://ghpym.lanzouv.com/b0124sv2j</a> 密码:chme</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;10月份，Google翻译API被误伤，官方干脆直接停用了。虽然网页翻译给停用了，但是API并没有停，稍微修改一下host就能解决。&lt;/p&gt;
-&lt;p&gt;鉴于使用不方便，我做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻译功</summary>
+&lt;p&gt;鉴于使用不方便，某大佬做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻</summary>
       
     
     
