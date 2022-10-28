@@ -6,7 +6,7 @@
   <link href="http://byyuu.github.io/atom.xml" rel="self"/>
   
   <link href="http://byyuu.github.io/"/>
-  <updated>2022-10-27T13:08:29.475Z</updated>
+  <updated>2022-10-28T12:43:13.665Z</updated>
   <id>http://byyuu.github.io/</id>
   
   <author>
@@ -17,11 +17,112 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Google Chrome v107.0.5304.88 便携增强版</title>
+    <link href="http://byyuu.github.io/posts/Chromebx.html"/>
+    <id>http://byyuu.github.io/posts/Chromebx.html</id>
+    <published>2022-10-28T12:06:32.000Z</published>
+    <updated>2022-10-28T12:43:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>谷歌浏览器，是一个由Google（谷歌）公司开发的开放原始码网页浏览器。该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><h4 id="增强功能"><a href="#增强功能" class="headerlink" title="增强功能"></a>增强功能</h4><p>双击关闭标签页<br>保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>鼠标悬停标签栏滚动<br>按住右键时滚轮滚动标签栏<br>移除开发者模式警告<br>便携设计，程序放在App目录，数据放在Data目录（不兼容原版数据，可以重装系统换电脑不丢数据）<br>移除更新错误警告（因为是绿色版没有自动更新功能）</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><h4 id="报毒来源"><a href="#报毒来源" class="headerlink" title="报毒来源"></a>报毒来源</h4><p>1.启动器报毒，由于启动器是汇编代码写的，只有29KB大小，除去图标文件，只有6KB大小，很多杀毒软件会拦截。(果核版)</p><p>2.GreenChrome报毒，由于GreenChrome是谷歌增强插件，通过version.dll对谷歌劫持来实现增强功能，大部分软件会报毒version.dll</p><p>3.增强功能通过App/chrome++.dll实现，有可能会报毒。【最新Google Chrome】</p><h2 id="更新说明"><a href="#更新说明" class="headerlink" title="更新说明"></a>更新说明</h2><p>优先HTTPS连接</p><p>支持AV1视频编码</p><p>重命名窗口</p><p>WebXR深度API</p><p>性能信息悬浮层</p><p>安全提升</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/28/x4DTHI.jpg"></p><h2 id="配置升级"><a href="#配置升级" class="headerlink" title="配置升级"></a>配置升级</h2><p>升级先把老版本App重命名为App2。<br>然后把新下载的所有文件覆盖到老文件夹内。<br>包括App、Data和说明.txt。<br>运行测试正常后可以安全删除App2老版本。<br>建议保留上个版本压缩包以便出问题时还原。</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>从88版本开始，已经移除了对flash的支持，用插件也不行，网盘保留了87.0.4280.141，是最后一个版本支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-kODHH">https://www.123pan.com/s/v0HKVv-kODHH</a></p><p><a href="https://pan.quark.cn/s/57b4b1ae98eb">https://pan.quark.cn/s/57b4b1ae98eb</a></p><p><a href="https://www.aliyundrive.com/s/TXmHcGfrjxJ">https://www.aliyundrive.com/s/TXmHcGfrjxJ</a></p><p><a href="https://www.lanzoui.com/b00z8efsb">https://www.lanzoui.com/b00z8efsb</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;谷歌浏览器，是一个由Google（谷歌）公司开发的开放原始码网页浏览器。该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。&lt;/p&gt;
+&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a href=&quot;#修改</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android 速享(开源局域网传输工具) v2.1.7-3</title>
+    <link href="http://byyuu.github.io/posts/SuXiang.html"/>
+    <id>http://byyuu.github.io/posts/SuXiang.html</id>
+    <published>2022-10-28T11:50:34.000Z</published>
+    <updated>2022-10-28T12:14:59.798Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一款完全基于局域网的文件互传终端，速享不使用任何服务器，不使用您的移动流量，不收集任何用户数据，完全的点对点传输。</p><p>可以快速共享文本消息，图片或其他文件，文件夹。</p><p>适用于局域网中的文件互传，解决 QQ，微信等上传文件会经过服务器的问题，或者部分测试手机，没有这类聊天软件。</p><h2 id="作者的话"><a href="#作者的话" class="headerlink" title="作者的话"></a>作者的话</h2><p><strong>软件作者@梦魇兽</strong></p><p>我常常会遇到这样的情况，我想要把PC上下载的一些大文件传到手机，或者我想把手机上的大文件传到电脑，例如刷机包，电影，于是打开了QQ或者微信的文件助手，点击上传，100kb/s的上传网速，瞬间不开心了😩。</p><p>当我在公司入职后，这样的场景就变得更加的频繁，这个时候就想通过MIUI+的方式来传文件，就我来说，从上大学，90%在用的系统就是macOS(黑苹果)，MIUI+所以也不顶用了，而且MIUI+不支持手机热点PC连的情况，在公司也是macOS，用公司的内网app，一样经过一次服务器，而且一般上行速度比下载速度小很多。</p><p>而有以上的需求，一般手机与电脑是在一个局域网的，例如我，常常是手机热点带的电脑。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/28/x4wgN8.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>会员功能上线</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/nightmare-space/speed_share">https://github.com/nightmare-space/speed_share</a></p><p><a href="https://www.123pan.com/s/v0HKVv-EODHH">https://www.123pan.com/s/v0HKVv-EODHH</a></p><p><a href="https://pan.quark.cn/s/0ad1b4b620b1">https://pan.quark.cn/s/0ad1b4b620b1</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一款完全基于局域网的文件互传终端，速享不使用任何服务器，不使用您的移动流量，不收集任何用户数据，完全的点对点传输。&lt;/p&gt;
+&lt;p&gt;可以快速共享文本消息，图片或其他文件，文件夹。&lt;/p&gt;
+&lt;p&gt;适用于局域网中的文件互传，解决 QQ，微信等上传文件会经过服务器的问题，或者部</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android 清浊 v1.9.1 高级版</title>
+    <link href="http://byyuu.github.io/posts/QingZhuo.html"/>
+    <id>http://byyuu.github.io/posts/QingZhuo.html</id>
+    <published>2022-10-28T10:39:19.000Z</published>
+    <updated>2022-10-28T12:14:28.137Z</updated>
+    
+    <content type="html"><![CDATA[<p>清浊一个简洁但功能毫不逊色的清理工具 ，界面清爽，功能强大，有非常多的专门清理功能，并且还提供ROOT清理的功能。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@Black Hawk or @耗子</p><p>修改高级功能</p><p><img src="https://s1.ax1x.com/2022/10/28/x4GYuT.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-QODHH">https://www.123pan.com/s/v0HKVv-QODHH</a></p><p><a href="https://pan.quark.cn/s/2b8b96a0dcbb">https://pan.quark.cn/s/2b8b96a0dcbb</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;清浊一个简洁但功能毫不逊色的清理工具 ，界面清爽，功能强大，有非常多的专门清理功能，并且还提供ROOT清理的功能。&lt;/p&gt;
+&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a href=&quot;#修改说明&quot; class=&quot;headerlink&quot; title=&quot;修改说明&quot;&gt;&lt;/a&gt;修改说明&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网盘太多不好管理？用上这个神器试试！Alist v3.2.1</title>
+    <link href="http://byyuu.github.io/posts/Alist.html"/>
+    <id>http://byyuu.github.io/posts/Alist.html</id>
+    <published>2022-10-28T00:56:01.000Z</published>
+    <updated>2022-10-28T12:12:12.484Z</updated>
+    
+    <content type="html"><![CDATA[<p>网盘太多不好管理？用上这个神器试试！</p><p>之前有一款可以把网盘整变成硬盘的工具-CloudDrive，可以直接挂载网盘，网速过得去的话，使用文件就像是在使用本地内容一样方便，但CloudDrive从出场以来就有不少争议，比如软件不开源、占用过高、以及网盘授权失败等问题。</p><p>在今年，另一款叫做AList的工具引起了大家的注意。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210271.webp"></p><p>在2022年的热度一直飙升，到现在已经是一款支持非常多网盘的文件列表程序了，但AList准确来说不是网盘挂载工具，因为它也支持其他类型的存储。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210272.webp"></p><h4 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h4><p>AList是开源的工具，具体实现感兴趣有能力的也可以自己翻阅代码，安全程度相比起来稍微高一点，另外就是你可以将AList部署在服务器上，这样就有了一款聚合多家网盘空间的资源分享站点。支持文件预览、文件打包下载、音视频(包括歌词字幕)预览、游客网页上传文件与离线下载等不少实用的功能。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210273.webp"></p><p>整理好自己网盘里的文件就相当于分享了，还不用自己去生成分享链接等等，很方便。</p><p>另外有朋友担心部署到自己的服务器上，这些流量一大顶不住怎么办？其实这些走的并不是服务器的流量，主要的拉取和数据下载都是通过网盘原本的服务器，Alist相当于中间人。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210274.webp"></p><p>具体支持的储存有下面这些类型，基本上常用的主流网盘都在这，其中像是免费的123网盘、蓝奏云盘、以及老司机比较喜欢的PikPak都支持，除了网盘，谷歌相册和一刻相册也支持，还有对大家来说比较小众的视频创作协助平台-分秒帧也在支持列表里面。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210275.webp"></p><p>除此之外，AList更新也比较勤快，这个月已经更新四个版本了，当然不是因为Bug多才更新修复的，而是一直在加功能，像是mega网盘和谷歌相册就是最近加上的。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210276.webp"></p><h4 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h4><p>下面就用Windows的版本给大家介绍一下怎么使用吧，下载之后按住SHIFT键+鼠标右键打开命令行窗口。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210277.webp"></p><p>在命令行模式下输入 .\alist.exe admin 先查看管理AList后台的账号和密码。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210278.webp"></p><p>之后使用 .\alist.exe server 来启动，启动成功之后，再在浏览器访问 127.0.0.1:5244 这个本地主页地址，就可以登录进行管理。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210279.png"></p><p>这些都是非常简化的步骤了，更详细的内容可以访问软件作者给出的文档查看。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/10.webp"></p><p>添加一个阿里网盘试试，需要填写一些参数，每个网盘添加的方式都有一点区别。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/11.webp"></p><p>具体的还是需要去看文档，想要使用这个工具，作者的文档是非常重要的，像是阿里网盘就可以通过文档里的链接，来获取刷新令牌。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102712.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102713.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102714.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102715.webp"></p><p>挂载路径可以填写自己想要的名字，之后再访问本地主页地址，就能看到网盘的内容已经加载出来了，点开可以看到详情。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102716.webp"></p><p>然后就能用第三方软件RaiDrive挂载到本地了。使用RaiDrive填写好下面的地址，就能看到多出来的盘。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102717.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102718.webp"></p><p>看视频是什么的也是唰唰的，或者以后想要从其他网盘来转移文件，也比较简单了。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/19.webp"></p><p>另外，还有一个问题就是，这些配置好之后，重启电脑你会发现AList没有跟着启动，这就需要用到一个小脚本。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102720.webp"></p><p>首先需要将RaiDrive的开机自动启动关闭，因为在它启动之前，需要先将AList启动才能连通，所以我们直接用脚本启动两个软件，不需要它自己动。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102721.webp"></p><p>这个脚本是网上找来的，但是由于在现在的版本里面需要 server 启动命令，如果你直接下载下来会发现是不能用的，所以要先加上，另外将脚本里面的RaiDrive路径，替换成你的安装路径。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102722.png"></p><p>之后Windows键+R调出快速运行界面，输入 shell:startup 打开系统的启动目录，然后创建一个脚本的快捷方式放进去。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/23.webp"></p><p>这样开机会自动加载完成，并完成窗口的隐藏，体验会好很多。有了AList后可以让网盘发挥最大的价值，自己用的话，抽时间配置一下，就能愉快使用了！这么好用的免费神器值得收藏一个，赶紧去试试吧。</p><h4 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h4><p><a href="https://github.com/alist-org/alist">https://github.com/alist-org/alist</a><br><a href="https://www.123pan.com/s/v0HKVv-zNDHH">https://www.123pan.com/s/v0HKVv-zNDHH</a><br><a href="https://ghpym.lanzouv.com/b0126jbkf">https://ghpym.lanzouv.com/b0126jbkf</a> 密码: fixs</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;网盘太多不好管理？用上这个神器试试！&lt;/p&gt;
+&lt;p&gt;之前有一款可以把网盘整变成硬盘的工具-CloudDrive，可以直接挂载网盘，网速过得去的话，使用文件就像是在使用本地内容一样方便，但CloudDrive从出场以来就有不少争议，比如软件不开源、占用过高、以及网盘授权失败等</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Teracopy(复制增强) v3.9.2 官方中文版</title>
-    <link href="http://byyuu.github.io/posts/bfe2ba5h.html"/>
-    <id>http://byyuu.github.io/posts/bfe2ba5h.html</id>
+    <link href="http://byyuu.github.io/posts/Teracopy.html"/>
+    <id>http://byyuu.github.io/posts/Teracopy.html</id>
     <published>2022-10-27T13:02:20.000Z</published>
-    <updated>2022-10-27T13:08:29.475Z</updated>
+    <updated>2022-10-28T12:17:25.838Z</updated>
     
     <content type="html"><![CDATA[<p>TeraCopy是一款文件复制传输利器，旨在于发挥系统最快的拷贝速度而设计，是 Windows 复制、移动功能的增强版，通过智能缓冲技术来提升复制、移动大文件时的速度。自动接管系统默认复制剪切功能。</p><p>TeraCopy还支持暂停传输和断点续传功能，你可以在任何时间暂停你的拷贝工作，当系统空闲的时候再恢复它。</p><p>家庭用户免费使用，商业使用需要付费。</p><h2 id="软件优势"><a href="#软件优势" class="headerlink" title="软件优势"></a>软件优势</h2><p>-更快的复制/移动文件：TeraCopy 使用动态调整磁盘缓冲区，以减少寻道时间。异步复制加速两个物理硬盘之间的文件传输。<br>-断点续传文件传输功能：你可以暂停复制文件过程以释放系统资源，并在想继续传输时通过一次单击即可从上次传输点继续。<br>-错误恢复保护机制：遇到复制错误，TeraCopy 会自动重新尝试，即使尝试不成功也只是跳过该文件，并不会终止整个传输。<br>-可以和著名的文件管理器Total Commander和Directory Opus整合在一起！方便你快速的移动和复制文件！<br>-与Windows资源管理器紧密集成：TeraCopy 完全可以替换资源管理器中复制和移动功能，像往常一样甚至比以往更方便地传输文件。<br>-支持命令行！<br>-原生支持Windows 7 X64</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>1.复制后验证文件<br>2.保留日期时间戳<br>3.复制锁定的文件<br>4.与Windows资源管理器集成<br>5.传输完成时运行Shell脚本<br>6.生成并验证校验与文件<br>7.安全删除文件<br>8.在商业环境中使用<br>9.编辑文件列表<br>10.管理收藏夹<br>11.以HTML与CSV格式导出报告</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/27/xhQSSO.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>安装包打开会检测更新，等待一会跳过即可</p><p>设置-Language-切换中文</p><p><a href="https://www.123pan.com/s/v0HKVv-8NDHH">https://www.123pan.com/s/v0HKVv-8NDHH</a></p><p><a href="https://ghpym.lanzouv.com/b0126c88d">https://ghpym.lanzouv.com/b0126c88d</a> 密码:81h1</p>]]></content>
     
@@ -43,10 +144,10 @@
   
   <entry>
     <title>腾讯视频 v11.55.2024 去广告纯净版</title>
-    <link href="http://byyuu.github.io/posts/612741fc.html"/>
-    <id>http://byyuu.github.io/posts/612741fc.html</id>
+    <link href="http://byyuu.github.io/posts/txvideow.html"/>
+    <id>http://byyuu.github.io/posts/txvideow.html</id>
     <published>2022-10-27T02:38:29.000Z</published>
-    <updated>2022-10-27T02:44:19.132Z</updated>
+    <updated>2022-10-28T12:20:07.293Z</updated>
     
     <content type="html"><![CDATA[<p>腾讯视频PC版去广告绿色清爽版，免升级，看视频免等待，无任何广告弹窗干扰！腾讯视频-中国最大在线视频媒体平台，海量高清视频在线观看。腾讯视频客户端，精彩剧集提前更新，支持在线点播及电视台直播，包含了大量独播英美剧、独播NBA版权，支持三倍流畅播放、免费享受蓝光画质。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/27/xfQEUx.jpg"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p><strong>@423down</strong></p><p>01.反汇编处理，去安全效验、去所有广告视频秒播！<br>02.去迷你腾讯弹窗、禁止任务栏通知区域定时推送弹窗<br>03.去所有的广告：缓冲广告、暂停广告、播放中等广告<br>04.去主界面游戏中心按钮禁止拉取、去设置界面游戏管理项<br>05.修改默认点关闭按钮不最小化到托盘，而是彻底完全退出<br>06.禁止每次启动在磁盘目录生成QLDownloadGame文件夹<br>07.禁止检测升级，禁止后续强制在后台下载新版安装包升级<br>08.禁止播放本地视频关闭返回界面后弹出“QQ影音下载安装”询问弹窗<br>09.禁止驻留后台，去设置界面项：允许腾讯视频驻留、允许推送迷你页面<br>10.去主菜单和托盘菜单无用项：迷你腾讯、在线升级、修复与反馈，帮助<br>11.禁止在系统后台 %AppData%\Tencent\目录里面生成logs产品日志的文件夹<br>12.删除服务程序、自动升级插件、安全修复相关模块等大量无用的不必要的文件</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/bcea7c48c19f">https://pan.quark.cn/s/bcea7c48c19f</a></p><p><a href="https://www.lanzoui.com/b00z9prpc">https://www.lanzoui.com/b00z9prpc</a></p>]]></content>
     
@@ -67,10 +168,10 @@
   
   <entry>
     <title>Google翻译修复工具 v1.3</title>
-    <link href="http://byyuu.github.io/posts/558a6141.html"/>
-    <id>http://byyuu.github.io/posts/558a6141.html</id>
+    <link href="http://byyuu.github.io/posts/Googlefanyi-xf.html"/>
+    <id>http://byyuu.github.io/posts/Googlefanyi-xf.html</id>
     <published>2022-10-27T01:39:18.000Z</published>
-    <updated>2022-10-27T03:08:42.235Z</updated>
+    <updated>2022-10-28T12:16:19.161Z</updated>
     
     <content type="html"><![CDATA[<p>10月份，Google翻译API被误伤，官方干脆直接停用了。虽然网页翻译给停用了，但是API并没有停，稍微修改一下host就能解决。</p><p>鉴于使用不方便，某大佬做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻译功能。</p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>打开后会自动获取IP，获取成功会展示所有可用IP，然后点击测试延迟，软件会依次进行延迟测试</p><p>点击一键修复，软件自动选择一个本机延迟最低的IP，设置HOST。</p><p>最后，设置完成以后，可用测试一下翻译接口是否正常。正常的话，本机所有使用Google翻译的功能，将恢复使用。</p><img src=" https://s1.ax1x.com/2022/10/27/xfnwAf.png " width="50%"><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><strong>v1.3</strong><br>修改可用IP<br>新增接口可用性检测，能在设置IP之前，先检测此IP是否可用，以应对有些IP虽然能联通，但是不能使用<br>新增清除host菜单项目，可用快速删除设置的Google翻译HOST一项，不影响其他的HOST。</p><p><strong>v1.2</strong><br>修复1.1版本设置IP无效问题<br>新增单条IP延迟测试</p><p><strong>v1.1</strong><br>修改HOST替换方式，不再覆盖原来HOST的内容<br>新增菜单打开HOST，可以一键打开HOST文件，查看内容<br>IP列表新增右键菜单，可以选择指定IP进行设置</p><h2 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h2><p>软件非常有可能会被杀毒干掉，请关闭或者信任以后使用</p><p><strong>压缩包解压密码：123</strong></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-9NDHH">https://www.123pan.com/s/v0HKVv-9NDHH</a></p><p><a href="https://pan.quark.cn/s/c0278aad2ad1">https://pan.quark.cn/s/c0278aad2ad1</a></p><p><a href="https://ghpym.lanzouv.com/b0124sv2j">https://ghpym.lanzouv.com/b0124sv2j</a> 密码:chme</p>]]></content>
     
@@ -92,10 +193,10 @@
   
   <entry>
     <title>IObit Uninstaller Pro v12.1.0.5 便携修改版</title>
-    <link href="http://byyuu.github.io/posts/99417ff1.html"/>
-    <id>http://byyuu.github.io/posts/99417ff1.html</id>
+    <link href="http://byyuu.github.io/posts/IObit-Uninstaller.html"/>
+    <id>http://byyuu.github.io/posts/IObit-Uninstaller.html</id>
     <published>2022-10-27T01:16:52.000Z</published>
-    <updated>2022-10-27T01:36:41.237Z</updated>
+    <updated>2022-10-28T12:16:49.231Z</updated>
     
     <content type="html"><![CDATA[<p>IObit Uninstalller是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p><p>IObit Uninstaller是一款功能强大且体积小巧的绿色软件，能够有效地取代Windows自带的卸载功能。通过它，你可以彻底卸载不需要的软件，不留下软件的相关信息，并且不会造成系统崩溃。</p><p>IObit Uninstaller(软件卸载工具)是款轻巧的软件卸载工具，它虽然小巧可是五脏俱全，它包含的功能有一键移除工具列,批次移除和强制移除等功能。</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>支持强制卸载和文件粉碎功能；</p><p>支持谷歌浏览器、火狐浏览器、IE浏览器、欧朋浏览器的插件卸载。一键卸载提升浏览器速度和安全；</p><p>支持批量卸载，支持强力扫描卸载</p><p>支持浏览器插件评分评级</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@果核剥壳</p><p><strong>便携修改制作</strong></p><p><font color="#FF0000">注:修改版无法开机自启，关闭程序以后无法关闭后台</font></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/27/xfmWfe.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-HNDHH">https://www.123pan.com/s/v0HKVv-HNDHH</a></p><p><a href="https://pan.quark.cn/s/861a683bb18e">https://pan.quark.cn/s/861a683bb18e</a></p><p><a href="https://ghpym.lanzoui.com/b010x1uwd">https://ghpym.lanzoui.com/b010x1uwd</a> 密码: euzo</p>]]></content>
     
@@ -117,10 +218,10 @@
   
   <entry>
     <title>蓝奏云第三方客户端(electron版)v3.4.2 绿色版</title>
-    <link href="http://byyuu.github.io/posts/344a3295.html"/>
-    <id>http://byyuu.github.io/posts/344a3295.html</id>
+    <link href="http://byyuu.github.io/posts/wlzele.html"/>
+    <id>http://byyuu.github.io/posts/wlzele.html</id>
     <published>2022-10-26T03:12:00.000Z</published>
-    <updated>2022-10-26T03:20:23.671Z</updated>
+    <updated>2022-10-28T12:18:50.580Z</updated>
     
     <content type="html"><![CDATA[<p>这是一款第三方蓝奏云软件，实现了各种功能，使用electron开发，界面尚可，功能该有的都有。</p><h2 id="实现功能"><a href="#实现功能" class="headerlink" title="实现功能"></a>实现功能</h2><p>批量上传 / 下载；<br>URL 解析，自动合并文件；<br>任意格式、大文件上传，支持断点功能；<br>快速分享，一件复制分享信息到粘贴板。</p><p><img src="https://s1.ax1x.com/2022/10/26/xWlkge.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复：下载文件后，文件名不会自动还原的情况</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>软件开源：<a href="https://github.com/chenhb23/lanzouyun-disk">https://github.com/chenhb23/lanzouyun-disk</a><br><a href="https://www.123pan.com/s/v0HKVv-DCDHH">https://www.123pan.com/s/v0HKVv-DCDHH</a><br><a href="https://pan.quark.cn/s/3de97d923602">https://pan.quark.cn/s/3de97d923602</a></p>]]></content>
     
@@ -142,10 +243,10 @@
   
   <entry>
     <title>苹果称将遵守欧盟USB-C充电法:iPhone要告别Lightning接口了</title>
-    <link href="http://byyuu.github.io/posts/bfe2ba5b.html"/>
-    <id>http://byyuu.github.io/posts/bfe2ba5b.html</id>
+    <link href="http://byyuu.github.io/posts/News221026-1030.html"/>
+    <id>http://byyuu.github.io/posts/News221026-1030.html</id>
     <published>2022-10-26T02:30:40.000Z</published>
-    <updated>2022-10-27T12:35:51.291Z</updated>
+    <updated>2022-10-28T12:22:27.359Z</updated>
     
     <content type="html"><![CDATA[<p>最新报道显示，苹果全球营销高级副总裁格雷格·乔斯维亚克（Greg Joswiak）称，苹果将“不得不遵守”欧盟有关电子设备统一充电接口的规定。</p><p>据悉，欧洲理事会前两天已经正式批准新提案：自2024年起各类在欧盟范围内销售的手机、平板、数码相机等电子设备必须统一使用Type-C充电接口，笔记本电脑使用统一充电接口被允许有40个月的宽限期。</p><p>这也就意味着，苹果需要在明年9月份的iPhone 15全系统一使用Type-C接口，否者在2024年将无法在欧盟范围内进行销售。</p><p><img src="https://img.lovestu.com/uploads/2022/10/new202210260101.webp"></p><p>苹果此前曾强烈反对这个提议，称强制使用Type-C接口就是扼杀创新，损害消费者利益，同时还会产生更多的电子垃圾，因为会有更多Ligtning生态系统里的配件无法使用。</p><p>但苹果显然只是为了维护自己的利益，因为Ligtning生态中任何配件产品都需要通过MFi认证，每年能为苹果带来上百亿的收入。</p><p>而目前除了iPhone之外，其他几乎所有数码产品都在转向Type-C接口，包括安卓手机、笔记本电脑、数码相机等等。</p><p>基于Type-C接口能实现支持超高规格的协议，满足任何厂商对于快充、数据传输的需求。</p>]]></content>
     
@@ -167,10 +268,10 @@
   
   <entry>
     <title>Android 酷我音乐 v10.2.1.2 去除广告直装解锁VIP版</title>
-    <link href="http://byyuu.github.io/posts/4201083b.html"/>
-    <id>http://byyuu.github.io/posts/4201083b.html</id>
+    <link href="http://byyuu.github.io/posts/KWmusic-vip.html"/>
+    <id>http://byyuu.github.io/posts/KWmusic-vip.html</id>
     <published>2022-10-26T01:51:28.000Z</published>
-    <updated>2022-10-26T03:05:46.559Z</updated>
+    <updated>2022-10-28T12:13:21.225Z</updated>
     
     <content type="html"><![CDATA[<p>任意账户登录可畅享以下特权，无需内购免费试听下载版权收费歌曲/专辑/无损音乐，任意账户登录即可免费使用极速下载特权，畅享加速专属服务器，VIP尊贵标识、下载高画质MV、过滤乐库广告、使用VIP皮肤等！</p><p><img src="https://s1.ax1x.com/2022/10/26/xWQSfS.png"></p><p>酷我音乐手机版，原生免费支持免登陆试听及下载无损音乐！酷我音乐是专业在线音乐播放软件，提供强大的音乐搜索和高速下载歌曲功能；最全音乐曲库，最专业音频解码核心技术，实现各种音频格式的高保真播放；云音乐，随时随地更随心，桌子上，口袋里，沙发上都可以，曲库惊奇，歌词MV惊艳！</p><h2 id="软件说明"><a href="#软件说明" class="headerlink" title="软件说明"></a>软件说明</h2><p>By <em>烈火米咔</em><br><strong>免登录特性：</strong><br>1.解锁付费歌曲无损试听和下载【免登录】<br>2.解锁单章VIP小说试听和下载【免登录】<br>3.解锁单章付费小说试听和下载【免登录】<br>4.解锁SVIP会员极速下载【免登录】<br>5.解锁了HI-Fi音乐下载【免登录】<br>6.解锁会员音效，动效【免登录】<br>7.解锁付费音乐批量下载【免登录】<br>8.解锁VIP小说批量下载【免登录】<br>9.解锁付费小说批量下载【免登录】<br>10.解锁主题下载【免登录】</p><p><strong>解锁特性：</strong><br>1.解锁SVIP会员，解锁SVIP会员极速下载<br>2.解锁单曲购买<br>3.解锁专辑微信内购<br>4.点亮年费VIP图标，解锁会员音效，动效<br>5.解锁灰色歌曲<br>6.去“应版权方要求暂不能下载，先在线听听吧。”限制<br>7.去除我的页面直播入口，发现、活动<br>8.去除所有广告<br>9.解锁主题下载<br>10.去除启动页广告<br>11.解锁酷我畅听VIP书籍<br>12.移除“好音质，用酷我”启动音<br>13.解除海外下载歌曲限制<br>14.精简侧边栏<br>15.精简我的页面<br>16.精简侧边栏消息小红点<br>17.去直播广告弹窗<br>18.去播放页听书专辑推广弹窗<br>19.精简搜索音乐页正在演唱广告<br>20.去音乐播放页下滑视频MV<br>21.修改启动软件默认进入界面为“我的”<br>22.去除下载本月下载配额已用完提醒<br>23.去除“已添加播放，%s首会员歌曲开通后畅享”弹窗<br>24.精简顶部Tab栏<br>25.去除底部曲库和直播<br>26.去除更新<br>27.其它细节修改</p><h2 id="弹窗声明"><a href="#弹窗声明" class="headerlink" title="弹窗声明"></a>弹窗声明</h2><p>此软件为第三方人员修改，<font color="#FF0000">弹窗的加QQ群提示与本站无关</font><br>请大家不要轻信，<font color="#FF0000">弹窗直接点击关闭不在提示即可</font></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><font color="#FF0000">注：直接下载和飞机下载为v10.0.9.4版本，城通下载为此版内容</font></p><p><a href="https://share.nite07.com/api/v3/file/source/23117/cn.kuwo.player_v10.0.9.4.apk?sign=Q0ifB80p7Y_h8RKsIoQcbVLBbVqv_raaPjgRwFySUO4=:0">直接下载</a> <a href="https://www.feijix.com/s/leDRgs9">飞机下载</a> <a href="https://url94.ctfile.com/d/17401394-48507134-f23701?p=YPOJIE">城通下载</a></p>]]></content>
     
@@ -192,10 +293,10 @@
   
   <entry>
     <title>Android 蓝云 v1.2.7.5</title>
-    <link href="http://byyuu.github.io/posts/2aece49f.html"/>
-    <id>http://byyuu.github.io/posts/2aece49f.html</id>
+    <link href="http://byyuu.github.io/posts/lanyun3a.html"/>
+    <id>http://byyuu.github.io/posts/lanyun3a.html</id>
     <published>2022-10-26T01:30:34.000Z</published>
-    <updated>2022-10-26T01:46:06.166Z</updated>
+    <updated>2022-10-28T12:20:19.875Z</updated>
     
     <content type="html"><![CDATA[<p>蓝云APP是一款蓝奏云盘第三方管理软件，比官方出品的蓝奏云盘安卓版功能强大，支持手机上传文件，分享链接生成二维码。提供蓝奏云盘官方版所有功能以外各种特色功能，例如：文件搜索、蓝奏直链解析服务、自动识别链接、个性化布局等。</p><p><img src="https://s1.ax1x.com/2022/10/26/xWnyzd.png"></p><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>提供更细致化的自定义显示布局，支持启用搜索功能，自动更新索引。支持上传不支持文件时修改后缀为zip，查看身份Cookies 备份和恢复账户。保证账户登陆安全，默认使用匿名数据统计服务，支持自动识别蓝奏云链接。支持蓝奏直链解析服务，支持第三方文件选择器和下载器、自定义下载功能。</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.lanzouo.com/b083z1nsj">https://pan.lanzouo.com/b083z1nsj</a><br><a href="https://ypj.lanzout.com/b00pb431a">https://ypj.lanzout.com/b00pb431a</a> 提取码：c3tm</p>]]></content>
     
@@ -217,10 +318,10 @@
   
   <entry>
     <title>Android NP管理器 v3.0.56</title>
-    <link href="http://byyuu.github.io/posts/df5f0713.html"/>
-    <id>http://byyuu.github.io/posts/df5f0713.html</id>
+    <link href="http://byyuu.github.io/posts/NPglq.html"/>
+    <id>http://byyuu.github.io/posts/NPglq.html</id>
     <published>2022-10-25T11:10:11.000Z</published>
-    <updated>2022-10-25T11:58:44.056Z</updated>
+    <updated>2022-10-28T12:12:34.302Z</updated>
     
     <content type="html"><![CDATA[<p>NP管理器是一款强大的安卓反编译或反汇编工具，虽然这个NPManager反编译或反汇编工具没有APK逆向修改神器”MT管理器“强大，但是也多了一个选择，NP管理器 NPManager 由吹牛儿原创开发，支持Apk 签名、共存、去除签名校验、对话框取消、去除 VPN/代理检测，常见字符串转换，如 base64、des、md5、16 进制、Unicode、去空白等。</p><p><img src="https://s1.ax1x.com/2022/10/25/xRONzd.png"></p><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>Apk、Dex、Jar、Smali、Pdf、视频和音频文件的简单应用，Dex、Jar、Smali 文件的相互转换，Dex 文件合并、分割。<br>Apk 签名、共存、去除签名校验、对话框取消、去除 VPN/代理检测，Pdf 合并、加密、分割、提取、解除加密限制、删页。<br>视频转码、剪切、提取音频/视频流、自定义音频/视频操作，文件夹转码 GBK&lt;–&gt;UTF-8，So 文件查看字符常量。<br>Apk 加固判断，Dex 编辑(批量删除类)，高兼容性字符串加密(Apk、dex)。<br>工具箱(常见字符串转换，如 base64、des、md5、16 进制、Unicode、去空白等)。<br>一键添加 Xposed 检测，一键添加弹窗、对话框，axml 反编译/回编译、arsc 文件查看字符常量。<br>一键 LOG 注入，一键去除所有弹窗(Toast) 一键注入字符串解密 LOG，Dex 文件换包名。<br>多种 Apk 字符串加密方案(推荐控制流混淆中的字符串加密) 一键添加禁止截屏，一键添加Apk崩溃日志记录。<br>XML 文本代码格式化，Smali 文件转 Java，Dex 文件查看字符常量，Apk 功能–DEX 混淆对抗。<br>Apk 超级混淆 3.0–高效率直接对 dex 混淆，支持混淆四大组件，支持多 dex。<br>Dex 编辑 Plus(支持搜索、编辑Smali和查看字符常量) 支持 Smali、Java、AXML 等编辑器内语法高亮。<br>一键提取Dex混淆字典，加密 Dex 中的资源 ID，Apk 对齐优化，Dex 批量修复，超强版去除签名校验。<br>assets 和 res 资源加密保护，Dex 文件对比，文本文件对比，class 文件和 jar 包反编译，Dex 功能-属性查看。<br>Apk 功能–控制流混淆 5.0- 高效率全量加密字符串，方法隐藏，加密资源 id，指令替换，dex 优化，反射保护，扁平化等。<br>Smali 执行流程图查看(编辑器-&gt;导航-&gt;长按方法名-&gt;查看流程图)。<br>Smali 方法 CodeOffset 大小查看(编辑器-&gt;导航) Smali 方法 IR 查看(编辑器-&gt;导航)，Smali 语法查询。<br>Svg 和 android vectorDrawable XML——互转和预览功能(多选批量)。<br>Json 文件可视化、格式化、校验、压缩、转义以及和 xml 互转，Apk、dex、jar 混淆和字符串加密，Res 资源混淆(支持自定义字典)。<br>网络接口测试工具NPMan，支持常见网络请求测试、Ping 测试；支持读取 HttpCanary 保存的请求文件 request.hcy 和 request_body.bin；支持上传二进制文件作为请求体。<br>Apk-VM 保护，支持配置注解和类名方法名规则，Apk-Res 反混淆。<br>支持单独对 Jar 或者 Dex 文件进行控制流混淆，Apk-Dex 字符串解密，控制流-防字符串一键解密。</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://ypj.lanzout.com/b00ote89a">https://ypj.lanzout.com/b00ote89a</a> 提取码：ahck<br><a href="https://pan.quark.cn/s/a4b13a595047">https://pan.quark.cn/s/a4b13a595047</a><br><a href="https://cloud.189.cn/t/FjMNjeuaUvUz">https://cloud.189.cn/t/FjMNjeuaUvUz</a> (访问码:2yu8)</p>]]></content>
     
@@ -241,10 +342,10 @@
   
   <entry>
     <title>Android 椒盐音乐播放器 v7.10.2</title>
-    <link href="http://byyuu.github.io/posts/4936c02b.html"/>
-    <id>http://byyuu.github.io/posts/4936c02b.html</id>
+    <link href="http://byyuu.github.io/posts/JYmusic.html"/>
+    <id>http://byyuu.github.io/posts/JYmusic.html</id>
     <published>2022-10-25T01:54:02.000Z</published>
-    <updated>2022-10-25T02:02:55.316Z</updated>
+    <updated>2022-10-28T12:15:34.898Z</updated>
     
     <content type="html"><![CDATA[<p>椒盐音乐是一款好用的本地音乐播放器软件，支持多种音频格式，软件的界面非常的美观，而且会根据封面的色彩产生流光元素，非常多的主题可以选择，还支持横屏模式和桌面歌词等。</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>1.沉浸模式<br>2.状态栏歌词(部分机型)<br>3.自动匹配网络歌词<br>4.音频输出高级设置</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/25/xRUhhn.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>1.新增压限器（Compressor）选项，使音乐响亮的部分更安静，而安静的部分更响亮<br>2.优化歌词滚动流畅性<br>3.修复读取 FLAC 音频标题可能乱码的问题<br>4.修复强制高性能输出同时启用自适应音频采样率时无法播放 DSD 音频的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/9bee13e38378">https://pan.quark.cn/s/9bee13e38378</a><br><a href="https://ghpym.lanzouo.com/b0118ghba">https://ghpym.lanzouo.com/b0118ghba</a> 密码: b2hg</p>]]></content>
     
@@ -266,10 +367,10 @@
   
   <entry>
     <title>RunningCheese Firefox 106.0 便携版</title>
-    <link href="http://byyuu.github.io/posts/267b9470.html"/>
-    <id>http://byyuu.github.io/posts/267b9470.html</id>
+    <link href="http://byyuu.github.io/posts/RunningCheese-Firefox.html"/>
+    <id>http://byyuu.github.io/posts/RunningCheese-Firefox.html</id>
     <published>2022-10-25T01:34:54.000Z</published>
-    <updated>2022-10-25T01:47:23.481Z</updated>
+    <updated>2022-10-28T12:17:10.268Z</updated>
     
     <content type="html"><![CDATA[<p>RunningCheese Firefox是第三方定制的一款浏览器，更符合国人的使用。</p><p>RunningCheese Firefox 是一款旨在提高Firefox易用性的浏览器，界面优美功能强大，操作简单容易上手是它的特色，为你在工作学习上提供极大的便利。V系列Firefox 将坚定地朝这个方向前进，力求简洁易用，让更多的人加入 Firefox 阵营。</p><p>开发前后经历4年的 RunningCheese Firefox V10 正式版发布了！全新的架构让 Firefox 焕发了第二春，有史以来最棒的 Firefox，高速流畅，一别卡顿。在速度比肩 Chrome 浏览器的同时，还保留了 Firefox 的强大功能，正式版V10已经可以完全替代传统架构的V9，如果你追求的是简洁高效，那么这款 Firefox 浏览器一定适合你 ~~</p><p><img src="https://s1.ax1x.com/2022/10/25/xRUElV.jpg"></p><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><p><strong>1、打开 Firefox 后，显示的是 Firefox 的原版界面？</strong><br>不要把文件放在有中文的路径下，也不要放在有空格的路径下，比如 Program Files 这样的路径下，还可以尝试换一个路径解压，使用管理员身份运行。</p><p><strong>2、打开选项出现“Windows Script Host 错误：无效字符”？</strong><br>点击“火箭图标—&gt;脚本文件夹”右键点击“userChrome.js”，选择“属性”，在打开方式中选择“记事本”即可，同时也可以点击“火箭图标—&gt;系统工具—&gt;关联记事本”，让 Notepad2 代替默认的记事本。</p><p><strong>3、如何升级更新？</strong><br>如果是小幅度更新：<br>点击“火箭图标—&gt;更新修复—&gt;自动更新” 即可一键更新，同时删除“Cache”这个缓存文件夹。</p><p>如果是建议全新下载：<br>1，下载更新的压缩包后，登录 Firefox 帐号，书签就会自动同步，拓展和用户脚本建议手动更新，同步容易出错。<br>2，转移旧版书签和历史记录，将旧版配置文件夹下的 “\Profiles\V10\places.sqlite” 覆盖到新版同名文件。<br>3，书签图标如果是空白的，将旧版配置文件夹下的 “\Profiles\V10\favicons.sqlite” 覆盖到新版同名文件。<br>4，转移旧版搜索引擎列表，将旧版配置文件夹下的 “\Profiles\V10\search.json.mozlz4” 覆盖到新版同名文件。<br>5，如果你有自己的内容修改，建议备份保存修改内容，然后再重新添加到新版本里去。</p><p>更多问题参考：<a href="https://www.runningcheese.com/firefox-usage">https://www.runningcheese.com/firefox-usage</a></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><a href="https://mp.weixin.qq.com/s/ou7xf6xE7FoHd1V7Ny5QDg">https://mp.weixin.qq.com/s/ou7xf6xE7FoHd1V7Ny5QDg</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>绿色免安装，下载解压后，点击 “开始.bat” 就是创建快捷方式启动。<br><a href="https://www.lanzouv.com/b0ufrtlc">https://www.lanzouv.com/b0ufrtlc</a><br><a href="https://www.123pan.com/s/v0HKVv-QCDHH">https://www.123pan.com/s/v0HKVv-QCDHH</a><br><a href="https://cloud.189.cn/t/UraMNvEvAFZn">https://cloud.189.cn/t/UraMNvEvAFZn</a> (访问码:88yf)<br><a href="https://pan.baidu.com/s/1rv3wjNNkGGi_sGjVC758vA">https://pan.baidu.com/s/1rv3wjNNkGGi_sGjVC758vA</a> 提取码：fihx</p>]]></content>
     
@@ -291,10 +392,10 @@
   
   <entry>
     <title>Android 洛雪音乐 v0.14.0</title>
-    <link href="http://byyuu.github.io/posts/d536d99b.html"/>
-    <id>http://byyuu.github.io/posts/d536d99b.html</id>
+    <link href="http://byyuu.github.io/posts/LXmusica.html"/>
+    <id>http://byyuu.github.io/posts/LXmusica.html</id>
     <published>2022-10-24T12:06:12.000Z</published>
-    <updated>2022-10-25T01:29:45.173Z</updated>
+    <updated>2022-10-28T12:20:34.135Z</updated>
     
     <content type="html"><![CDATA[<p>洛雪音乐电脑版本很出名，手机版本同样是一个作者开发的产品，使用React native开发的安卓版本，软件界面清新，功能强大，该有的功能都有。同时，软件已经开源，允许所有人学习源码。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR971U.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="新增"><a href="#新增" class="headerlink" title="新增"></a>新增</h4><p>1.同步功能新增对列表位置调整的支持（需v1.15.3以上的PC端版本才支持）<br>2.新增播放详情页歌词字体大小调整设置，可在详情页右上角的按钮进行调整<br>3.新增同步服务地址历史列表功能<br>4.横屏播放详情页新增评论入口<br>5.我的列表歌曲三个点的菜单新增复制歌曲名</p><h4 id="优化"><a href="#优化" class="headerlink" title="优化"></a>优化</h4><p>1.修改对播放模块的调用，杜绝应用显示正在播放的歌曲与实际播放歌曲不一致的问题（这是播放模块歌曲队列与应用内歌曲队列在某些情况下出现不一致时导致的）<br>2.支持PC端同步功能添加对列表顺序调整的控制，确保手动调整位置后的列表与不同的电脑同步时，列表位置不会被还原<br>3.调整横屏下的导航栏、播放详情页布局，提高屏幕空间利用率并使其更易操作<br>4.调整歌单类别、我的列表弹出层界面<br>5.播放栏移除上一曲按钮，将多出来的空间加给播放、下一曲按钮<br>6.现在点击、长按播放栏歌曲标题也可以进入详情页、定位当前播放歌曲了</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复kw源某些歌曲的歌词提取异常的问题</p><h4 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h4><p>1.升级react-native到v0.66.4</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/lyswhut/lx-music-mobile">https://github.com/lyswhut/lx-music-mobile</a><br><a href="https://www.123pan.com/s/v0HKVv-eWDHH">https://www.123pan.com/s/v0HKVv-eWDHH</a><br><a href="https://ghpym.lanzoui.com/b010hmjsd">https://ghpym.lanzoui.com/b010hmjsd</a> 密码:d72k<br><a href="https://pan.quark.cn/s/85b46af9bc8c">https://pan.quark.cn/s/85b46af9bc8c</a></p>]]></content>
     
@@ -316,10 +417,10 @@
   
   <entry>
     <title>Microsoft Edge v106.0.1370.52 便携增强版</title>
-    <link href="http://byyuu.github.io/posts/28432f1a.html"/>
-    <id>http://byyuu.github.io/posts/28432f1a.html</id>
+    <link href="http://byyuu.github.io/posts/Edgebx.html"/>
+    <id>http://byyuu.github.io/posts/Edgebx.html</id>
     <published>2022-10-24T11:37:47.000Z</published>
-    <updated>2022-10-25T11:04:18.343Z</updated>
+    <updated>2022-10-28T12:17:52.846Z</updated>
     
     <content type="html"><![CDATA[<p>新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>1.基于不带更新组件及服务的官方版，删除了无用webit文件多语言pak<br>2.加入Chrome增强软件便携式劫持补丁edge++ 1.5.1 x64（version.dll）</p><p><strong>edge++增强特点：</strong><br>├—双击关闭标签页<br>├—保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>├—鼠标悬停标签栏滚动<br>├—按住右键时滚轮滚动标签栏<br>├—移除flash锁区，移除2020年过期警告（下载加载flash需要你自己处理）<br>├—移除管理员运行警告<br>├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）<br>├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）<br>├—移除更新错误警告</p><p>启动软件app/msedge.exe，增强功能通过app/version.dll补丁实现。<br>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹。<br>注意：不要去删除或改动目录内 [说明.txt]，否则导致version.dll无效！</p><p>3.加入MyChrome v3.8.35，解决便携数据Data换系统后不读取问题。</p><p>说明1：安全软件会误报version.dll, MyChrome.exe威胁，请加入排除！<br>说明2：由于便携式的特殊性，不支持放系统盘%ProgramFiles%运行哦</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>87.0.664.75为最后一个支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-LWDHH">https://www.123pan.com/s/v0HKVv-LWDHH</a><br><a href="https://pan.quark.cn/s/8be58bf7def4">https://pan.quark.cn/s/8be58bf7def4</a><br><a href="https://www.aliyundrive.com/s/JHLMLcYWpxh">https://www.aliyundrive.com/s/JHLMLcYWpxh</a></p>]]></content>
     
@@ -341,10 +442,10 @@
   
   <entry>
     <title>Listen1(多平台音乐播放) v2.26.2</title>
-    <link href="http://byyuu.github.io/posts/28532f1a.html"/>
-    <id>http://byyuu.github.io/posts/28532f1a.html</id>
+    <link href="http://byyuu.github.io/posts/Listen1music.html"/>
+    <id>http://byyuu.github.io/posts/Listen1music.html</id>
     <published>2022-10-24T11:37:47.000Z</published>
-    <updated>2022-10-25T01:31:18.465Z</updated>
+    <updated>2022-10-28T12:18:16.709Z</updated>
     
     <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
     
@@ -367,10 +468,10 @@
   
   <entry>
     <title>洛雪音乐助手 v1.22.3 绿色版</title>
-    <link href="http://byyuu.github.io/posts/26532f1a.html"/>
-    <id>http://byyuu.github.io/posts/26532f1a.html</id>
+    <link href="http://byyuu.github.io/posts/LXmusicw.html"/>
+    <id>http://byyuu.github.io/posts/LXmusicw.html</id>
     <published>2022-10-24T11:37:47.000Z</published>
-    <updated>2022-10-25T01:28:52.606Z</updated>
+    <updated>2022-10-28T12:19:13.731Z</updated>
     
     <content type="html"><![CDATA[<p>洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。<br>虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！</p><p>软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。</p><p><img src="https://s1.ax1x.com/2022/10/24/x2xZbq.jpg"></p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：<br>Electron 10<br>Vue 2</p><p>已支持的平台：<br>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复因音源的域名到期导致的音源失效的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>GitHub：<a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br>本站只镜像win版本，软件目前不支持下载无损<br><a href="https://www.123pan.com/s/v0HKVv-ZWDHH">https://www.123pan.com/s/v0HKVv-ZWDHH</a><br><a href="https://pan.quark.cn/s/d50e86c91a1d">https://pan.quark.cn/s/d50e86c91a1d</a><br><a href="https://www.lanzoui.com/b00z8le7g">https://www.lanzoui.com/b00z8le7g</a></p>]]></content>
     
