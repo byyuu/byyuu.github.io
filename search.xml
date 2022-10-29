@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>QQScreenShot(QQ截图) 提取版 v3.0</title>
+      <link href="/posts/QQScreenShot.html"/>
+      <url>/posts/QQScreenShot.html</url>
+      
+        <content type="html"><![CDATA[<p>QQ截图是一款QQ中的截图功能组件，非常的好用，因为要截图每次都要打开QQ，非常的麻烦，这款独立版的截图软件。具有体积小巧、资源占用少等特点，既可以享受QQ截图的强大功能，又无需登录QQ，有需要使用这款QQ截图独立版的用户可以试试。</p><p>运行Init.bat创建桌面快捷方式(或者主程序是Bin\QQScreenShot.exe, 自己手动运行)<br>单击托盘图标, 或默认使用快捷键Ctrl+Alt+A截图</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>软件作者 @看雪论坛 – 0xEEEE</p><p>OCR</p><p>识图(以图搜图)</p><p>长截图</p><p>滚轮音量</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/29/x5MOkn.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>软件作者 @看雪论坛 – 0xEEEE</p><ol><li>录屏功能逆出来了, 预览界面点右下角那个对勾后会保存到临时文件夹</li><li>新增命令行参数oneshot, noplugin, noconfig 例如:<br>QQScreenShot –oneshot=10, 执行一次截图并在10s后退出程序(截图Call是异步的,采用这种方式也是没办法的办法)<br>QQScreenShot –noplugin(或-p), 不加载录屏插件<br>QQScreenShot –noconfig(或-c), 不加载配置文件即使用默认配置</li><li>“切换热键”新增NULL选择, 即可以设置一个键的热键</li><li>消息循环改用QQ的MessgeLoopForUI类</li><li>托盘菜单新增”打开临时文件夹”选项, 有时OCR失败或者录屏导致没有删除的临时文件可手动删除</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://bbs.pediy.com/thread-271225.htm">https://bbs.pediy.com/thread-271225.htm</a></p><p><a href="https://www.feijix.com/s/RaHPYsU">https://www.feijix.com/s/RaHPYsU</a></p><p><a href="https://www.123pan.com/s/v0HKVv-NODHH">https://www.123pan.com/s/v0HKVv-NODHH</a></p><p><a href="https://pan.quark.cn/s/5207add194d7">https://pan.quark.cn/s/5207add194d7</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Android 幸运修改器(LuckyPatcher) v10.3.0</title>
+      <link href="/posts/LuckyPatcher.html"/>
+      <url>/posts/LuckyPatcher.html</url>
+      
+        <content type="html"><![CDATA[<p>幸运修改器LuckyPatcher是来自修改大神ChelpuS的作品，需要root权限可以修改一些软件或游戏，同时还可以去广告，比如Tank Riders, Reckless Racing HD? Ground Effect HD, Spirit, Aftermatch等等，不过不保证一定会修改，所以叫做幸运修改器，选中应用后长按弹出菜单即可。</p><p>注意：当遇到一些之前用幸运修改器破击后更新新版出现空间不足的提醒时，可以先将对应的app卸载，然后运行幸运自动清除数据后再安装</p><p>幸运修改器支持xposed，能够作为模块使用。当然也可以独立使用</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/29/x5ZrQJ.jpg"></p><h2 id="更新说明"><a href="#更新说明" class="headerlink" title="更新说明"></a>更新说明</h2><p>兼容安卓11.0</p><p>自定义补丁更新</p><p>修复BUG</p><h2 id="内购修改教程"><a href="#内购修改教程" class="headerlink" title="内购修改教程"></a>内购修改教程</h2><p>对于具有root权限的用户：</p><p>方法＃1（最有效和最理想）：</p><p>应用第一个补丁Android（签名验证始终为真）并安装修改后的市场版本3或更高版本。之后，您的所有购买交易都将被重定向到Lucky Patcher，如果启用了“仿真Google帐单”功能。要恢复正常的合法购物模式，足以关闭“模拟Google帐单”开关。这种方法与自由的工作相同，在效率上并不逊色于他，而是对Google Play进行了修改，可以让您在不影响Google Play操作的情况下进行购买。</p><p>怎么做？<br>– 安装幸运Patcher :)</p><p>– 选择幸运补丁“工具” – &gt;“补丁Android”的下方面板，选择顶部项目（签名验证始终为真）点击应用。重新启动后，必须将此对话框中的第一个补丁标记为2/2。（你可以跳过这个步骤，但最好这样做，因为如果它不起作用，那么从那时起就做一些没有意义的事情）。如果修补程序失败，您可以尝试使用第一个选项模块Xposed Lucky Patcher;<br>– 启动Lucky Patcher，打开互联网连接并选择下方面板“工具” – &gt;“安装修改后的Google Play”，选择正确的版本并点击安装;<br>– 在“工具” – &gt;“测试已修改的Google Play”中进行Google Play测试。</p><p>方法＃2：<br>应用第一个补丁Android（签名验证始终为真），并由交换机“代理服务器为Google Play”运行。之后，您的所有购买将被重定向到幸运的Patcher。</p><p>此方法的缺点：</p><p>– 在代理服务器启用之前不起作用;</p><p>– 通过查看关于购买的原始信息，在保护的申请中无效;</p><p>– 如果您关闭代理服务器，那么与保持购买的组合不方便，因为无法将保留的购买交给应用程序。</p><p>方法＃3：</p><p>如果您的设备上有Xposed，您可以打开Laked Patcher的Xposed模块。</p><p>注意：在Xposed模块中包括支持Iapp和LVL仿真的第四个选项，只有在您尚未安装修改过的Google Play时，才需要。如果修改后的Google Play尚未设置，则包含第一个和第四个选项可以进行应用</p><p>内购买。第五个选项，你可以尝试从应用程序中隐藏Lucky Patcher，如果它抱怨。</p><p>这种方法的缺点：</p><p>– 通过检查关于购买的原始信息在保护的应用程序中无效;</p><p>– Xposed在更新幸运补丁程序后出现错误，有时Xposed模块本身已关闭，您必须禁用Xposed中的模块并将其包含在一起重新启动设备。</p><p>方法4：<br>应用于InApp和LVL仿真的应用程序目标补丁支持。之后，所有的购买都必须重新定向到幸运补丁。这种方法更有效，如果应用于Google Play用户补丁支持InApp和LVL仿真（Support.InApp.LVL.com.android.vending），因为它允许您提取有关购买转移到应用程序的真实信息，这允许你绕过保护购买这些信息。这种方法很方便，如果你想通过仿真购买，只有在自己</p><p>修补的应用程序中。</p><p>这种方法的缺点：</p><p>– 它不在所有应用程序上工作，因为InApp购买代码可以隐藏在该补丁无法访问的地方。</p><p>– 如果您不在Google Play中应用自定义补丁Support.InApp.LVL.com.android.vending，则通过检查原始的购买信息，在保护的应用程序中无效。</p><p>– 需要在升级目标应用程序后进行修补。</p><p>对于没有root权限的用户：</p><p>方法＃1：</p><p>使用InApp和LVL仿真的补丁程序重新编译应用程序目标，删除原始应用程序（将文件夹重命名为未删除的缓存）。安装应用程序重新编译变体（如果有的话，使用缓存重命名文件夹）。所有你可以尝试购买。很少的作品，但是奇迹发生:)</p><p>方法＃2：</p><p>打开切换器“原始InApp服务镜像模拟购买”。适用于非常旧的应用程序或较旧版本的应用程序。这个方法例如用在CreeHack中。在新的应用程序中，只有在对InApp和LVL仿真进行了补丁支持重新编译后才能尝试包含该目标，但这并不奏效。启用此开关可能会导致某些应用程序运行时发生崩溃，因为此方法存在这样一个愚蠢的保护应用程序。</p><p><strong>购买窗口选项：</strong></p><ol><li><p>发送响应无符号 – 对于没有root权限的用户，对于较旧的游戏和应用程序，作者不会无意中检查签名数据，这是有意义的。当此选项打开时，关于购买的虚假数据将被发送到具有空白签名的应用程序，并且有机会，该购买将找到正确的并激活该应用程序。具有root权限的用户更好地不使用此选项，可以做更多的伤害而不是帮助。</p></li><li><p>保存以恢复购买。这个选项将数据库中的购买保存到了Lucky Patcher中，到下一次发布越狱应用程序的时候，幸运的Patcher告诉他，这次购买应该是被购买的。它需要各种类型的订阅和其他。如何理解有必要包含？您购买的是完整版本的应用程序，并且购买成功完成，但重新启动应用程序后，它再次认为自己是一个不完整的版本，并再次要求购买。启用此选项后，应用程序将在重新启动后考虑自己购买。</p></li><li><p>使用当前设置进行自动购买。在以下购买之后加入此选项，将在没有对话的情况下购买Lucky Patcher关于购买（购买立即进入您的申请，没有任何问题）。有必要的是，当您在应用程序中收集黄金等时，不要按每次您同意购买:)删除自动购物可以长时间按下幸运补丁列表中的应用程序，并选择“删除所选保存购买“，然后删除列表中不必要的自动购买。</p></li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/e597d624dd23">https://pan.quark.cn/s/e597d624dd23</a></p><p><a href="https://www.123pan.com/s/v0HKVv-WODHH">https://www.123pan.com/s/v0HKVv-WODHH</a></p><p><a href="https://ghpym.lanzouo.com/b011ah2ah">https://ghpym.lanzouo.com/b011ah2ah</a> 密码: byfa</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Adobe PhotoShop 多版本</title>
       <link href="/posts/PhotoShop.html"/>
       <url>/posts/PhotoShop.html</url>
@@ -454,11 +504,11 @@
     
     
     <entry>
-      <title>Listen1(多平台音乐播放) v2.26.2</title>
-      <link href="/posts/Listen1music.html"/>
-      <url>/posts/Listen1music.html</url>
+      <title>洛雪音乐助手 v1.22.3 绿色版</title>
+      <link href="/posts/LXmusicw.html"/>
+      <url>/posts/LXmusicw.html</url>
       
-        <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
+        <content type="html"><![CDATA[<p>洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。<br>虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！</p><p>软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。</p><p><img src="https://s1.ax1x.com/2022/10/24/x2xZbq.jpg"></p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：<br>Electron 10<br>Vue 2</p><p>已支持的平台：<br>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复因音源的域名到期导致的音源失效的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>GitHub：<a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br>本站只镜像win版本，软件目前不支持下载无损<br><a href="https://www.123pan.com/s/v0HKVv-ZWDHH">https://www.123pan.com/s/v0HKVv-ZWDHH</a><br><a href="https://pan.quark.cn/s/d50e86c91a1d">https://pan.quark.cn/s/d50e86c91a1d</a><br><a href="https://www.lanzoui.com/b00z8le7g">https://www.lanzoui.com/b00z8le7g</a></p>]]></content>
       
       
       <categories>
@@ -479,11 +529,11 @@
     
     
     <entry>
-      <title>洛雪音乐助手 v1.22.3 绿色版</title>
-      <link href="/posts/LXmusicw.html"/>
-      <url>/posts/LXmusicw.html</url>
+      <title>Listen1(多平台音乐播放) v2.26.2</title>
+      <link href="/posts/Listen1music.html"/>
+      <url>/posts/Listen1music.html</url>
       
-        <content type="html"><![CDATA[<p>洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。<br>虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！</p><p>软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。</p><p><img src="https://s1.ax1x.com/2022/10/24/x2xZbq.jpg"></p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：<br>Electron 10<br>Vue 2</p><p>已支持的平台：<br>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复因音源的域名到期导致的音源失效的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>GitHub：<a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br>本站只镜像win版本，软件目前不支持下载无损<br><a href="https://www.123pan.com/s/v0HKVv-ZWDHH">https://www.123pan.com/s/v0HKVv-ZWDHH</a><br><a href="https://pan.quark.cn/s/d50e86c91a1d">https://pan.quark.cn/s/d50e86c91a1d</a><br><a href="https://www.lanzoui.com/b00z8le7g">https://www.lanzoui.com/b00z8le7g</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
       
       
       <categories>
