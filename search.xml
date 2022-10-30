@@ -4,6 +4,206 @@
   
     
     <entry>
+      <title>PotPlayer(网络播放器) v1.7.21801 绿色版</title>
+      <link href="/posts/PotPlayerl.html"/>
+      <url>/posts/PotPlayerl.html</url>
+      
+        <content type="html"><![CDATA[<p>PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlayer 为 Delphi 编写。PotPlayer 是 Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由 KMPlayer 的原始作者姜龙喜进行后续开发。目前(1428以后版本)的 KMPlayer 由 PandoraTV 团队负责集体开发。应 PandoraTV 的要求，PotPlayer 不会加入在 KMPlayer 中一些受欢迎功能，但作者答应加入一些近似的功能。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@闻雷 @果核剥壳</p><p>绿色便携制作</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xIT3z4.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>新增58个皮肤，需要的请自行下载皮肤包，解压到程序skin目录即可</p><p><a href="https://www.123pan.com/s/HQeA-KN1Sh">https://www.123pan.com/s/HQeA-KN1Sh</a></p><p><a href="https://pan.quark.cn/s/41caea616795">https://pan.quark.cn/s/41caea616795</a></p><p><a href="https://www.lanzoui.com/b00zausmb">https://www.lanzoui.com/b00zausmb</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>云萌 Windows 10 激活工具 v2.6.2.0</title>
+      <link href="/posts/cloudmoe-jihuo.html"/>
+      <url>/posts/cloudmoe-jihuo.html</url>
+      
+        <content type="html"><![CDATA[<p>云萌 Windows 10 激活工具，专门用于数字权利激活的软件。本软件是一款使用CSharp编写的 Windows 10 数字权利激活工具。</p><p>软件支持激活激活所有的版本进行激活，同时软件已经开源，任何人都能使用。</p><p><img src="https://s1.ax1x.com/2022/10/30/xIoyV0.jpg"></p><h2 id="使用自动模式激活-Windows-10"><a href="#使用自动模式激活-Windows-10" class="headerlink" title="使用自动模式激活 Windows 10"></a>使用自动模式激活 Windows 10</h2><h4 id="English-Version"><a href="#English-Version" class="headerlink" title="English Version"></a>English Version</h4><ol><li>Download release .exe file.</li><li>Run it.</li><li>Click Activate button.</li><li>Enjoy it :)</li></ol><h4 id="中文版"><a href="#中文版" class="headerlink" title="中文版"></a>中文版</h4><ol><li>下载 Releases 里的 .exe 发行文件。</li><li>运行它。</li><li>点按 Activate 按钮。</li><li>完成~</li></ol><h2 id="Advanced-进阶"><a href="#Advanced-进阶" class="headerlink" title="Advanced 进阶"></a>Advanced 进阶</h2><h4 id="在不同版本-Windows-10-之间转换"><a href="#在不同版本-Windows-10-之间转换" class="headerlink" title="在不同版本 Windows 10 之间转换"></a>在不同版本 Windows 10 之间转换</h4><ul><li>注意: 目前已知 Windows 10 的 专业版（Professional）、专业工作站版（ProfessionalWorkstation）、教育版（Education）、专业教育版（ProfessionalEducation）、企业版（Enterprise） 之间可以进行互相转换（N版本与LTSB版本除外），而这些版本与家庭版（Core）均不能一键转换，如需转换请使用 Windows设置 中的 更改产品密钥 功能进行升级。</li></ul><h4 id="Auto-Mode-自动模式"><a href="#Auto-Mode-自动模式" class="headerlink" title="Auto Mode 自动模式"></a>Auto Mode 自动模式</h4><ol><li>运行它。</li><li>选择 Auto Mode 。</li><li>在下拉列表中选择要升级到的版本。</li><li>点按 Convert Versions 按钮。</li><li>完成。</li></ol><h4 id="Manual-Mode-手动模式"><a href="#Manual-Mode-手动模式" class="headerlink" title="Manual Mode 手动模式"></a>Manual Mode 手动模式</h4><ol><li>运行它。</li><li>选择 Manual Mode 。</li><li>输入框中输入需要升级到的版本对应的OEM零售密钥（不需要产品包装上的激活密钥，而是微软官方分配的密钥，如专业版对应密钥为 VK7JG-NPHTM-C97JM-9MPGT-3V66T）。</li><li>点按 Activate 按钮。</li><li>完成。</li></ol><h4 id="通过-Manual-Mode-手动模式激活不在列表中的-Windows-10-版本"><a href="#通过-Manual-Mode-手动模式激活不在列表中的-Windows-10-版本" class="headerlink" title="通过 Manual Mode 手动模式激活不在列表中的 Windows 10 版本"></a>通过 Manual Mode 手动模式激活不在列表中的 Windows 10 版本</h4><ul><li>注意: 此方法不适用于某些版本的激活，如 专业教育版（ProfessionalEducation） ，即使你输入了对应的OEM零售密钥。</li></ul><ol><li>运行它。</li><li>选择 Manual Mode 。</li><li>输入框中输入需要升级到的版本对应的OEM零售密钥（不需要产品包装上的激活密钥，而是微软官方分配的密钥，如专业版对应密钥为 VK7JG-NPHTM-C97JM-9MPGT-3V66T）。</li><li>点按 Convert Versions 按钮。</li><li>完成。</li></ol><h2 id="Startup-Parameters-启动参数"><a href="#Startup-Parameters-启动参数" class="headerlink" title="Startup Parameters 启动参数"></a>Startup Parameters 启动参数</h2><pre><code>-?  --help            启动后弹出启动参数帮助对话框。-a  --auto            启动后自动激活系统。-e  --expact          自动激活系统时允许使用实验性方案。（需要与 -a 或 --auto 配合使用）-h  --hide            以隐藏模式启动，激活进度以通知形式显示。（需要与 -a 或 --auto 配合使用）</code></pre><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><ol><li>支持 ARM64 架构的 Windows 10/11（实验性）</li><li>增加了一键将核心版本 Windows 升级到完整版 Windows 的按钮（只会在核心版本 Windows 上可见）</li><li>“收集低级操作系统的激活状态” 模块升级到 AnyCPU 版本（现已支持ARM64处理器，但是可能会误报为病毒）</li><li>法语本地化语言文件更新（半成品）</li><li>依赖库升级到最新版（包含Newtonsoft.Json的安全漏洞修复）</li><li>UI 界面微调</li><li>优化代码</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/TGSAN/CMWTAT_Digital_Edition">https://github.com/TGSAN/CMWTAT_Digital_Edition</a></p><p><a href="https://tgsan.github.io/CMWTAT_Digital_Edition/CMWTAT_Digital_Release_2_6_3_0.exe">https://tgsan.github.io/CMWTAT_Digital_Edition/CMWTAT_Digital_Release_2_6_3_0.exe</a></p><p><a href="https://www.123pan.com/s/v0HKVv-jODHH">https://www.123pan.com/s/v0HKVv-jODHH</a></p><p><a href="https://pan.quark.cn/s/c48615d969d8">https://pan.quark.cn/s/c48615d969d8</a></p><p><a href="https://ghpym.lanzoui.com/b010dqd1a">https://ghpym.lanzoui.com/b010dqd1a</a> 密码:h3i0</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CleanFlashPlayer(第三方Flash) v34.0.0.267</title>
+      <link href="/posts/CleanFlashPlayer.html"/>
+      <url>/posts/CleanFlashPlayer.html</url>
+      
+        <content type="html"><![CDATA[<p>Adobe Flash Player不再受支持，也不再由Adobe inc.提供。Clean Flash Player是由darktohka维护的Flash Player的第三方版本，从Flash Plaver最新版本版本构建，删除广告组件。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xIImlj.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-VODHH">https://www.123pan.com/s/v0HKVv-VODHH</a></p><p><a href="https://pan.quark.cn/s/f6b042b766e0">https://pan.quark.cn/s/f6b042b766e0</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Android 哔哩哔哩 v3.14.0 谷歌(Google Play)版</title>
+      <link href="/posts/bilibili-play.html"/>
+      <url>/posts/bilibili-play.html</url>
+      
+        <content type="html"><![CDATA[<p>B站谷歌版哔哩哔哩国际版，简洁纯净清爽、隐私条款严、无升级提示弹窗。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xIGGKP.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/HQeA-er1Sh">https://www.123pan.com/s/HQeA-er1Sh</a></p><p><a href="https://pan.quark.cn/s/490ce5c9d871">https://pan.quark.cn/s/490ce5c9d871</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JJDown (B站视频下载) v1.233.0 便携版</title>
+      <link href="/posts/JJDown.html"/>
+      <url>/posts/JJDown.html</url>
+      
+        <content type="html"><![CDATA[<p>这是一个用于下载bilibili视频的PC应用程序,它能够下载99%bilibili视频(不支持番剧),并且它将会终身免费提供使用.</p><p>现在它已经支持弹幕, 4K清晰度, 互动视频, 音频以及批量下载。</p><p><img src="https://s1.ax1x.com/2022/10/30/xI8vuV.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="http://client.jijidown.com/">http://client.jijidown.com/</a></p><p><a href="https://www.123pan.com/s/HQeA-ei1Sh">https://www.123pan.com/s/HQeA-ei1Sh</a></p><p><a href="https://pan.quark.cn/s/76ae115939da">https://pan.quark.cn/s/76ae115939da</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Android 微信(WeChat)v8.0.28 Google版</title>
+      <link href="/posts/WeChata-play.html"/>
+      <url>/posts/WeChata-play.html</url>
+      
+        <content type="html"><![CDATA[<p>微信已经变成一种生活方式，很多人都离不开吧，国内第一APP这个称号不为过。</p><p>-可以发语音、文字消息、表情、图片、视频。30M流量可以收发上千条语音。</p><p>-朋友圈，跟朋友们分享生活点滴。</p><p>-摇一摇、查看附近的人，世界不再有陌生人。</p><p>-扫一扫，可以扫商品条码、图书封面、CD封面，甚至扫描英文单词来翻译成中文。</p><p>-公众帐号，用微信关注明星、看新闻、设提醒…</p><p>-游戏中心，和朋友们一起玩游戏。</p><p>-表情商店，有趣好玩的表情在这里。</p><p>-特别说明：微信只消耗网络流量，不产生短信电话费用。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xI8fjP.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>400多M的体积了，腾讯真行。</p><p><a href="https://www.123pan.com/s/HQeA-QS1Sh">https://www.123pan.com/s/HQeA-QS1Sh</a></p><p><a href="https://pan.quark.cn/s/87dd23a36730">https://pan.quark.cn/s/87dd23a36730</a></p><p><a href="https://pan.baidu.com/s/1pLPrkpX">https://pan.baidu.com/s/1pLPrkpX</a> 密码: w367</p><p><a href="https://www.feijix.com/s/8yCyIbt">https://www.feijix.com/s/8yCyIbt</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微信电脑版 v3.8.0.18 绿色修改版</title>
+      <link href="/posts/WeChatwl.html"/>
+      <url>/posts/WeChatwl.html</url>
+      
+        <content type="html"><![CDATA[<p>微信是现在非常火热的社交聊天工具，自从手机出现微信之后用户数量以亿来统计，现在腾讯内部正在进行微信电脑版的测试,虽然这个消息流传已久,此前网上也很多山寨版本。现在微信出了电脑版本，山寨的版本就渐渐消失了。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>绿色制作</p><p>防撤回</p><p>多开支持</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xI84nf.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>– 可以提取和翻译图片中的文字内容；</p><p>– 邀请人进群时可以分享群里的聊天记录；</p><p>– 群管理者可以将群里的消息置顶；</p><p>– 转发消息时可预览消息内容；</p><p>– 收藏增加最近使用等分类入口；</p><p>– 可批量管理收藏内容；</p><p>– 笔记编辑增加字体高亮和大小图模式；</p><p>– 修复了一些已知问题。</p><h2 id="OD修改"><a href="#OD修改" class="headerlink" title="OD修改"></a>OD修改</h2><pre><code>WeChatWin.dll//解除多开，且多账号可正常登陆！::解除多开限制，多账号可正常登陆！找到函数 WeChatMainWndForPC 领空的Call跟进去62FD0206 |. 84C0 test al,al //改为inc al（多号登陆不会被挤出去）62FD0208 |. 74 07 je short WeChatWi.62FD0211 62FD020A |. 33DB xor ebx,ebx62FD020C |. E9 7A010000 jmp WeChatWi.62FD038B62FD0211 |&gt; E8 6AF9FFFF call WeChatWi.62FCFB80 //改为nop（客户端无限多开）::消息防撤回字符串：pStrMsgid value is null（所在的汇编段）5704F857 85C0 test eax,eax //改为xor eax,eax5704F859 74 7B je short WeChatWi.5704F8D65704F85B . |8BC8 mov ecx,eax5704F85D . |E8 AEB46100 call WeChatWi.5766AD105704F862 . |85C0 test eax,eax5704F864 . |75 62 jnz short WeChatWi.5704F8C85704F866 . |0F1005 E0AD18&gt;movups xmm0,dqword ptr ds:[5818ADE0]5704F86D . |83EC 10 sub esp,105704F870 . |BA 74B81F58 mov edx,WeChatWi.581FB874 ; 02_manager\ChatMgr.cpp</code></pre><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官方下载：<a href="https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe">https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe</a></p><p>官方版本可以使用补丁修改，网盘也有打包好的版本，无需补丁，解压即用</p><p><a href="https://pan.quark.cn/s/3083209ff883">https://pan.quark.cn/s/3083209ff883</a></p><p><a href="https://cloud.189.cn/t/QVVJzm6zUzQr">https://cloud.189.cn/t/QVVJzm6zUzQr</a> (访问码:7ksx)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Android 知乎 v8.38.0 去广告版</title>
+      <link href="/posts/zhihuag.html"/>
+      <url>/posts/zhihuag.html</url>
+      
+        <content type="html"><![CDATA[<p>知乎，发现更大的世界。</p><p><strong>【碎片时间】</strong></p><p>在工作生活间隙的碎片化时间，你可随时通过「想法」记录你的灵感、观点和思考，也可通过「想法」来获取有价值的信息</p><p>– 这个冬天，去哪儿滑雪？</p><p>– 你用手机拍过哪些好照片？</p><p>– 院线新片那么多，哪部值得看？</p><p>有想法的人，都在知乎探讨 #话题#，期待你的参与。</p><p><strong>【深度阅读】</strong></p><p>当有一段闲暇时间，想要阅读深度长文时，知乎的「问答」、「文章」和「专栏」都能满足你知识获取的需要。</p><p>– 做哪些事情可以提升生活品质？</p><p>– 有什么对身体很好的习惯或经验？</p><p>– 如何从一个空有上进心的人，变成行动上的巨人？</p><p>热门且有价值的知乎「好问题」，每一个都值得读好久。</p><p><strong>【专业新知】</strong></p><p>当你想要获取有结构化的知识时，「知乎 Live」和「知乎书店」带你进入知识的新市场。</p><p>在「知乎 Live」，主持人用语音和图文，围绕主题分享精心准备的讲座内容，你可以直接提问并获得解答，给你全新的实时语音互动问答体验。</p><p>在「知乎书店」，周刊无需付费，新书特价。你可以在知乎书店找到由知乎出品的高品质电子书，也可以发现来自众多出版社的图书电子版。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>植入了知了v22.10.02模块的版本</p><p><strong>功能：</strong></p><p>去启动页广告<br>去信息流广告<br>去回答列表广告<br>去评论广告<br>去分享广告<br>去回答底部广告<br>过滤视频<br>过滤文章<br>去信息流会员推荐<br>去回答圈子<br>去商品推荐<br>直接打开外部链接<br>禁止切换色彩模式<br>移除直播按钮<br>显示卡片类别<br>状态栏沉浸<br>解锁第三方登录<br>自定义起始页面<br>不显示小红点<br>隐藏会员卡片<br>隐藏会员按钮<br>隐藏视频按钮<br>隐藏关注按钮<br>隐藏发布按钮<br>隐藏热点通知<br>精简文章页面<br>左右划切换回答<br>移除下一个回答按钮<br>自定义过滤</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xI8yAe.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/HQeA-Jy1Sh">https://www.123pan.com/s/HQeA-Jy1Sh</a></p><p><a href="https://pan.quark.cn/s/9a81cfdccdcd">https://pan.quark.cn/s/9a81cfdccdcd</a></p><p><a href="https://pan.baidu.com/s/1bzRYFW">https://pan.baidu.com/s/1bzRYFW</a> 密码: yriu</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>QQScreenShot(QQ截图) 提取版 v3.0</title>
       <link href="/posts/QQScreenShot.html"/>
       <url>/posts/QQScreenShot.html</url>
@@ -504,11 +704,11 @@
     
     
     <entry>
-      <title>洛雪音乐助手 v1.22.3 绿色版</title>
-      <link href="/posts/LXmusicw.html"/>
-      <url>/posts/LXmusicw.html</url>
+      <title>Listen1(多平台音乐播放) v2.26.2</title>
+      <link href="/posts/Listen1music.html"/>
+      <url>/posts/Listen1music.html</url>
       
-        <content type="html"><![CDATA[<p>洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。<br>虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！</p><p>软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。</p><p><img src="https://s1.ax1x.com/2022/10/24/x2xZbq.jpg"></p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：<br>Electron 10<br>Vue 2</p><p>已支持的平台：<br>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复因音源的域名到期导致的音源失效的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>GitHub：<a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br>本站只镜像win版本，软件目前不支持下载无损<br><a href="https://www.123pan.com/s/v0HKVv-ZWDHH">https://www.123pan.com/s/v0HKVv-ZWDHH</a><br><a href="https://pan.quark.cn/s/d50e86c91a1d">https://pan.quark.cn/s/d50e86c91a1d</a><br><a href="https://www.lanzoui.com/b00z8le7g">https://www.lanzoui.com/b00z8le7g</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
       
       
       <categories>
@@ -529,11 +729,11 @@
     
     
     <entry>
-      <title>Listen1(多平台音乐播放) v2.26.2</title>
-      <link href="/posts/Listen1music.html"/>
-      <url>/posts/Listen1music.html</url>
+      <title>洛雪音乐助手 v1.22.3 绿色版</title>
+      <link href="/posts/LXmusicw.html"/>
+      <url>/posts/LXmusicw.html</url>
       
-        <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
+        <content type="html"><![CDATA[<p>洛雪音乐助手是一款第三方的音乐搜索下载软件，支持很多个接口。<br>虽然软件核心没有直接解析，但是这UI的功底，绝对是国内数一数二的。值得推荐和使用！</p><p>软件支持试听，获取排行榜，是一款能当音乐软件使用的软件。</p><p><img src="https://s1.ax1x.com/2022/10/24/x2xZbq.jpg"></p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>一个基于 Electron + Vue 开发的音乐软件。</p><p>所用技术栈：<br>Electron 10<br>Vue 2</p><p>已支持的平台：<br>Windows 7 及以上<br>Mac OS<br>Linux</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复因音源的域名到期导致的音源失效的问题</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>GitHub：<a href="https://github.com/lyswhut/lx-music-desktop/releases">https://github.com/lyswhut/lx-music-desktop/releases</a><br>本站只镜像win版本，软件目前不支持下载无损<br><a href="https://www.123pan.com/s/v0HKVv-ZWDHH">https://www.123pan.com/s/v0HKVv-ZWDHH</a><br><a href="https://pan.quark.cn/s/d50e86c91a1d">https://pan.quark.cn/s/d50e86c91a1d</a><br><a href="https://www.lanzoui.com/b00z8le7g">https://www.lanzoui.com/b00z8le7g</a></p>]]></content>
       
       
       <categories>
