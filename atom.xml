@@ -6,7 +6,7 @@
   <link href="http://byyuu.github.io/atom.xml" rel="self"/>
   
   <link href="http://byyuu.github.io/"/>
-  <updated>2022-10-30T10:06:29.063Z</updated>
+  <updated>2022-10-31T03:40:02.429Z</updated>
   <id>http://byyuu.github.io/</id>
   
   <author>
@@ -15,6 +15,302 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>夸克网盘 v1.0.3 绿色版</title>
+    <link href="http://byyuu.github.io/posts/kuakepan.html"/>
+    <id>http://byyuu.github.io/posts/kuakepan.html</id>
+    <published>2022-10-31T03:34:16.000Z</published>
+    <updated>2022-10-31T03:40:02.429Z</updated>
+    
+    <content type="html"><![CDATA[<p>夸克网盘电脑版（PC客户端）是夸克推出的一款云服务产品，提供网盘基础的资源备份、文件管理、影视播放能力。夸克网盘电脑版可轻松进行照片、视频、文档、音频等文件的在线备份、同步和分享。您只需要拖拽，就可以上传文件到夸克网盘中，也不用担心文件丢失。夸克网盘电脑版支持多端上传下载和同步、批量分享、断点续传等功能，可在线预览照片、视频、文档、音频等文件便于文件管理。</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><ol><li>文件上传：即可上传文件，也能上传文件夹，支持批量上传、断点续传，也能拖拽文件进行上传</li><li>文件管理：创建文件夹或者子文件夹，进行文件移动，修改文件名称，预览及删除文件等</li><li>文件下载：单个或者批量下载文件，管理下载任务表</li><li>文件分享：选择分享有效期，分享成功后可查看分享访问数据，管理已生成的分享链接，支持批量导出多个分享链接</li></ol><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/31/xod0U0.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/HQeA-lr1Sh">https://www.123pan.com/s/HQeA-lr1Sh</a></p><p><a href="https://pan.quark.cn/s/1c11bd4c7e3b">https://pan.quark.cn/s/1c11bd4c7e3b</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;夸克网盘电脑版（PC客户端）是夸克推出的一款云服务产品，提供网盘基础的资源备份、文件管理、影视播放能力。夸克网盘电脑版可轻松进行照片、视频、文档、音频等文件的在线备份、同步和分享。您只需要拖拽，就可以上传文件到夸克网盘中，也不用担心文件丢失。夸克网盘电脑版支持多端上传下载和</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WPS Office 多版本</title>
+    <link href="http://byyuu.github.io/posts/WPS.html"/>
+    <id>http://byyuu.github.io/posts/WPS.html</id>
+    <published>2022-10-31T02:57:56.000Z</published>
+    <updated>2022-10-31T03:26:04.272Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2019专业增强版-v11-8-2-11739"><a href="#2019专业增强版-v11-8-2-11739" class="headerlink" title="2019专业增强版 v11.8.2.11739"></a>2019专业增强版 v11.8.2.11739</h2><p>WPS Office是国产的软件的骄傲，由金山软件股份有限公司自主研发，兼顾文字、表格、演示等多种功能，内存占用低、运行快、插件强大、可阅读输出PDF、提供免费存储空间及模板。 兼容微软Office97-2010格式。</p><p>2019年版本的WPS，界面大改观，是有史以来所有版本最好看的一个了。</p><p>WPS专业增强版，并没有熟悉的金山广告全家桶，软件很纯净，关了就不会保留后台了，没有弹窗。WPS 2019专业版新增了流程图、思维导图、便签、PDF等功能，让用户可以体验一站式办公，不用在应用中来回切换，提供工作效率。</p><p><img src="https://s1.ax1x.com/2022/10/31/xoYsIO.jpg"><br><img src="https://s1.ax1x.com/2022/10/31/xoY6iD.jpg"></p><h3 id="使用提示"><a href="#使用提示" class="headerlink" title="使用提示"></a>使用提示</h3><p>用官方专业版安装包+VBA组件重新打包，即专业增强版<br>免激活，内置序列号，自定义安装配置文件启用内部参数<br>配置文件加入序列号：694BF-YUDBG-EAR69-BPRGB-ATQXH<br>去登陆中心、去WPS云服务和云盘、去WPS秀堂H5、WPS便签<br>安装程序解包以后，编辑oem.ini可以获得以下功能</p><p>Sn=xxxxxxxxxxxxxxxxx ;激活序列号<br>Support2016SN=true ;支持2016版序列号<br>XiuTang=false ;这个是不显示WPS秀堂H5<br>WeiboPlugin=false ;貌似是不启用微博插件<br>EnableAccount=false ;不显示账户登陆中心<br>EnableCloudDocs=false ;不显示WPS云文档<br>IntranetDrive=true ;不显示我的电脑WPS云盘<br>IntranetVersion=true ;不显示WPS便签启用内部企业版<br>EnterpriseDocpermission=true ;启用企业高级版特权的<br>EnablePlainWatermarkInfo=false ;不显示文件打印水印</p><p><strong>如果需要恢复云服务登陆中心的下载后解压</strong><br>1.打开安装配置文件（oem.ini）删除以下参数<br>├—EnableAccount=false ;不显示账户登陆中心<br>├—EnableCloudDocs=false ;不显示WPS云文档<br>2.然后运行安装包WPS2019ProSetup.exe安装完！</p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-Ur1Sh">https://www.123pan.com/s/HQeA-Ur1Sh</a></p><p><a href="https://pan.quark.cn/s/454d2672b1db">https://pan.quark.cn/s/454d2672b1db</a></p><p><a href="https://www.aliyundrive.com/s/77ofkGc1Yax">https://www.aliyundrive.com/s/77ofkGc1Yax</a></p><p><a href="https://pan.baidu.com/s/1-elM55W3LjmdS2cK4Sj_RQ">https://pan.baidu.com/s/1-elM55W3LjmdS2cK4Sj_RQ</a> 提取码：j166</p><h2 id="温州大学专业增强版-v11-8-2-10154"><a href="#温州大学专业增强版-v11-8-2-10154" class="headerlink" title="温州大学专业增强版 v11.8.2.10154"></a>温州大学专业增强版 v11.8.2.10154</h2><p>WPS2019温州大学版是一款定制的WPS企业专用版，无广告，免序列号正版授权。WPS Office – 国产免费办公软件套件，全面涵盖文字处理、电子表格，演示文稿、PDF以及云服务等功能。WPS2019办公套件，具备强大插件平台支持、免费提供了海量在线存储空间及文档模板、全面支持PDF文档、兼容所有微软Office格式，支持所有平台，支持跨设备云同步，成为一站式免费和收费的办公软件套件。</p><h3 id="版本特点"><a href="#版本特点" class="headerlink" title="版本特点"></a>版本特点</h3><p>– 定制序列号许可，无需激活，授权长期有效服务！</p><p>1、授权方面：个人版供个人免费使用，不可商业用途；专业版则可以。</p><p>2、功能方面：个人版无开发工具（VBA环境、宏功能）专业增强版最全。</p><p>3、体验方面：个人版（即免费基础版）有广告；专业版/专业增强版则无。</p><p>专业增强版功能最完整，相比专业版具备完整VBA组件，VBA宏功能更全！</p><h3 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-yq1Sh">https://www.123pan.com/s/HQeA-yq1Sh</a></p><p><a href="https://pan.quark.cn/s/e4256b94a4cf">https://pan.quark.cn/s/e4256b94a4cf</a></p><h2 id="2019邮政企业专业版-v11-8-2-9022"><a href="#2019邮政企业专业版-v11-8-2-9022" class="headerlink" title="2019邮政企业专业版 v11.8.2.9022"></a>2019邮政企业专业版 v11.8.2.9022</h2><p>中国邮政集团公司联合金山共同定制开发的企业专用版，现被采购并广泛应用于中国邮政、邮储银行、中邮速递、中邮保险、中邮证券等单位。</p><p>永久自动激活无需序列号。和普通的WPS2016和2019两个版本对比，清爽无广告，内存占用更优，不会崩溃（普通版本通病）。享受线上专家一对一VIP服务，每日可免费领取稻壳模板，爽歪歪。</p><p>关闭360、QQ电脑管家等软件管理中的软件自动升级，避免被升级至其他版本。</p><p>吾爱@vtder888 分享</p><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://s1.ax1x.com/2022/10/31/xotCYF.png"></p><h3 id="下载地址-2"><a href="#下载地址-2" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-et1Sh">https://www.123pan.com/s/HQeA-et1Sh</a></p><p><a href="https://pan.quark.cn/s/f1f44079174a">https://pan.quark.cn/s/f1f44079174a</a></p><h2 id="2019绿色精简版v3-v11-8-6-8697"><a href="#2019绿色精简版v3-v11-8-6-8697" class="headerlink" title="2019绿色精简版v3 v11.8.6.8697"></a>2019绿色精简版v3 v11.8.6.8697</h2><p>WPS是著名的办公软件，和office萝卜青菜各有所爱，这个精简版，进行大幅精简，体积缩小一半。<br>只保留et、wpp、wps，实现基本功能。无启动界面，无网络功能，作为office备用，或者轻量办公使用。</p><h3 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h3><p><strong>@c2y</strong></p><p>基于政府版本修改</p><p>极度精简组件，去除一切和办公无关的内容</p><p>体积缩小到70m左右</p><p><img src="https://s1.ax1x.com/2022/10/31/xot0pQ.jpg"></p><h3 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h3><p>需要运行库支持</p><h3 id="下载地址-3"><a href="#下载地址-3" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.aliyundrive.com/s/nY2oKf3aSL4">https://www.aliyundrive.com/s/nY2oKf3aSL4</a></p><h2 id="2019政府专业版-v11-8-2-10229"><a href="#2019政府专业版-v11-8-2-10229" class="headerlink" title="2019政府专业版 v11.8.2.10229"></a>2019政府专业版 v11.8.2.10229</h2><p>身边用 Office  的用户应该挺多！不过还是少部分人用 WPS，毕竟 WPS 比 Office 简单很多，只是个人不太喜欢 WPS，不过一直都为 WPS 点赞，因为出了 Linux 版本和一直都有免费带广告版本。</p><p>党政机关版本 WPS 是专业增强版本，没有广告，自带 VBA，并且不用激活，因为自带序列号，基本可以说是高级付费版了。</p><p>最新版本来自博湖县政府专用版，无需序列号激活。</p><h3 id="使用提示-1"><a href="#使用提示-1" class="headerlink" title="使用提示"></a>使用提示</h3><p>安装都是自动激活的。如果没有激活可以用下面的序列号</p><p>最新一年序列号：WD2GD-HJDTD-VXYC3-F6P8D-6M4YC</p><p>序列号1：9DP6T-9AGWG-KWV33-9MPC8-JDCVF</p><p>序列号2：THUV2-32HH7-6NMHN-PTX7Y-QQCTH</p><p>序列号3：R7AKQ-KLBXV-RNX3F-BPACQ-NQDGE</p><p>如果没有VBA，在解压后的根目录有WPSVBA.exe，可以自行安装</p><h3 id="下载地址-4"><a href="#下载地址-4" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://pan.baidu.com/s/1OVvrqmY_sYVq4KevH9ULzA">https://pan.baidu.com/s/1OVvrqmY_sYVq4KevH9ULzA</a> 提取码：ghxi</p><h2 id="2019教育考试专用版-v11-1-0-10009"><a href="#2019教育考试专用版-v11-1-0-10009" class="headerlink" title="2019教育考试专用版 v11.1.0.10009"></a>2019教育考试专用版 v11.1.0.10009</h2><p>国家2020年12月发布公告，全国计算机二级考试将加入WPS应用软件考试。所以WPS Office 2019 教育考试专用版正式与大家见面，贯彻了WPS一贯特色，特供版无广告。</p><p>软件使用流畅，默认无广告，可以作为个人长期使用版本。同时，软件提供了一些专属教育特权，一些在线模板，字体能免费使用。</p><h3 id="下载地址-5"><a href="#下载地址-5" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://pan.baidu.com/s/11I-IflUeUwQkTgZCa4bdcg">https://pan.baidu.com/s/11I-IflUeUwQkTgZCa4bdcg</a> 提取码：ghbk</p><h2 id="2019专业绿色版-v11-8-2-8875"><a href="#2019专业绿色版-v11-8-2-8875" class="headerlink" title="2019专业绿色版 v11.8.2.8875"></a>2019专业绿色版 v11.8.2.8875</h2><p>WPS2019是金山软件公司推出的最新办公系列产品，全新版本在界面上更加美观，易于操作，运行流畅，以其强大的功能和个性化的操作收到许多用户的青睐，是目前网络上广受好评的办公软件系列产品。<br>WPS2019在多个板块和功能上进行了加强和优化，包含：桌面图标从之前的三个变为一个，在搜索打开本地文件方面更为便捷，用户现在可以自由地管理标签，不再被组件类型所阻隔，以及提供多款全新的有个性的皮肤界面，加固了程序框架，使数据得到得到稳定可靠的保护，现在支持多人协同编辑，提高工作效率。</p><h3 id="修改说明-1"><a href="#修改说明-1" class="headerlink" title="修改说明"></a>修改说明</h3><p>@果核剥壳</p><p>去广告 去更新</p><p>基于专业版绿色制作，绿化后永久激活</p><p>去除所有云文档相关组件，不在我的电脑出现WPS文档文件夹，不能登录。</p><p>PDF阅读组件保留了，没有生成快捷方式，需要的去运行目录自行添加</p><p>使用前务必运行根目录下 “ 绿化.exe ”</p><h3 id="下载地址-6"><a href="#下载地址-6" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://cloud.189.cn/t/eaq2mqNzIjay">https://cloud.189.cn/t/eaq2mqNzIjay</a> (访问码:mnl5)</p><h2 id="2016极限精简版-v10-1-0-7698"><a href="#2016极限精简版-v10-1-0-7698" class="headerlink" title="2016极限精简版 v10.1.0.7698"></a>2016极限精简版 v10.1.0.7698</h2><p>WPS家的办公软件一直用起来挺不错的，对于国人使用起来很方便，该有的不该有的功能都有，在2016版本中，广告较多，所以被骂，好在网上有很多的绿色版本。而这个版本基于WPS2016的最后一个版本（个人版10.1.0.7698）制作，极度精简，体积仅仅30M，并且支持在PE下使用，无需额外安装运行库。</p><h3 id="修改说明-2"><a href="#修改说明-2" class="headerlink" title="修改说明"></a>修改说明</h3><p>@kkocdko</p><p>基于官方版WPS2016个人版的最后一个版本（v10.1.0.7698）极限精简而成<br>精简所有需联网功能、启动图片、PDF支持、VB开发工具支持等没啥用的东西<br>├—所有与联网相关的功能（包括但不限于广告、账户登陆、在线模板、多人协作）<br>├—WPS Api（第三方调用支持组件）、部分较少使用的格式支持（例如html编辑）<br>用空dll模块替换OpenSSL组件，大幅减小大小，删除了库模块，单独提供库模块</p><h3 id="下载地址-7"><a href="#下载地址-7" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://ghpym.lanzoui.com/b00zuqozg">https://ghpym.lanzoui.com/b00zuqozg</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2019专业增强版-v11-8-2-11739&quot;&gt;&lt;a href=&quot;#2019专业增强版-v11-8-2-11739&quot; class=&quot;headerlink&quot; title=&quot;2019专业增强版 v11.8.2.11739&quot;&gt;&lt;/a&gt;2019专业增强版 v11.8.2</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Firefox(火狐浏览器)多版本</title>
+    <link href="http://byyuu.github.io/posts/Firefox.html"/>
+    <id>http://byyuu.github.io/posts/Firefox.html</id>
+    <published>2022-10-31T01:58:44.000Z</published>
+    <updated>2022-10-31T02:50:55.959Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="正式版-v106-0-2"><a href="#正式版-v106-0-2" class="headerlink" title="正式版 v106.0.2"></a>正式版 v106.0.2</h2><p>火狐浏览器比起谷歌，占用内存小很多，本地化更完善，程序员调试的神器，也是极客首选！谷歌支持的插件，火狐也大部分支持。完善的国内账号服务，能做到三端互通！</p><p><img src="https://s1.ax1x.com/2022/10/31/xoG2kD.jpg"></p><p>Mozilla Firefox，中文俗称“火狐”（正式缩写为Fx或fx，非正式缩写为MF），是一个自由及开放源代码的网页浏览器，使用Gecko排版引擎，支持多种操作系统，如Windows、Mac OS X及GNU/Linux等。</p><p><img src="https://s1.ax1x.com/2022/10/31/xoJpn0.jpg"></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>官方地址：<a href="http://ftp.mozilla.org/pub/firefox/releases/">http://ftp.mozilla.org/pub/firefox/releases/</a></p><p>106.0.2 版本为正式版本，官方发布的后续beta都是基于正式版本更新和修改</p><p>x64：<a href="http://ftp.mozilla.org/pub/firefox/releases/106.0.2/win64/zh-CN/Firefox%20Setup%20106.0.2.exe">http://ftp.mozilla.org/pub/firefox/releases/106.0.2/win64/zh-CN/Firefox%20Setup%20106.0.2.exe</a></p><p>x86：<a href="http://ftp.mozilla.org/pub/firefox/releases/106.0.2/win32/zh-CN/Firefox%20Setup%20106.0.2.exe">http://ftp.mozilla.org/pub/firefox/releases/106.0.2/win32/zh-CN/Firefox%20Setup%20106.0.2.exe</a></p><p>MAC：<a href="http://ftp.mozilla.org/pub/firefox/releases/106.0.2/mac/zh-CN/Firefox%20106.0.2.dmg">http://ftp.mozilla.org/pub/firefox/releases/106.0.2/mac/zh-CN/Firefox%20106.0.2.dmg</a></p><p>Linux：<a href="http://ftp.mozilla.org/pub/firefox/releases/106.0.2/linux-x86_64/zh-CN/firefox-106.0.2.tar.bz2">http://ftp.mozilla.org/pub/firefox/releases/106.0.2/linux-x86_64/zh-CN/firefox-106.0.2.tar.bz2</a></p><h4 id="本站分流"><a href="#本站分流" class="headerlink" title="本站分流"></a>本站分流</h4><p><a href="https://www.123pan.com/s/HQeA-Is1Sh">https://www.123pan.com/s/HQeA-Is1Sh</a></p><p><a href="https://pan.quark.cn/s/3b46a48e9386">https://pan.quark.cn/s/3b46a48e9386</a></p><h2 id="RunningCheese便携版-v106-0"><a href="#RunningCheese便携版-v106-0" class="headerlink" title="RunningCheese便携版 v106.0"></a>RunningCheese便携版 v106.0</h2><p>RunningCheese Firefox是第三方定制的一款浏览器，更符合国人的使用。</p><p>RunningCheese Firefox 是一款旨在提高Firefox易用性的浏览器，界面优美功能强大，操作简单容易上手是它的特色，为你在工作学习上提供极大的便利。V系列Firefox 将坚定地朝这个方向前进，力求简洁易用，让更多的人加入 Firefox 阵营。</p><p>开发前后经历4年的 RunningCheese Firefox V10 正式版发布了！全新的架构让 Firefox 焕发了第二春，有史以来最棒的 Firefox，高速流畅，一别卡顿。在速度比肩 Chrome 浏览器的同时，还保留了 Firefox 的强大功能，正式版V10已经可以完全替代传统架构的V9，如果你追求的是简洁高效，那么这款 Firefox 浏览器一定适合你 ~~</p><p><img src="https://s1.ax1x.com/2022/10/25/xRUElV.jpg"></p><h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><ol><li><p>打开 Firefox 后，显示的是 Firefox 的原版界面？<br>不要把文件放在有中文的路径下，也不要放在有空格的路径下，比如 Program Files 这样的路径下，还可以尝试换一个路径解压，使用管理员身份运行。</p></li><li><p>打开选项出现“Windows Script Host 错误：无效字符”？<br>点击“火箭图标—&gt;脚本文件夹”右键点击“userChrome.js”，选择“属性”，在打开方式中选择“记事本”即可，同时也可以点击“火箭图标—&gt;系统工具—&gt;关联记事本”，让 Notepad2 代替默认的记事本。</p></li></ol><p>3.如何升级更新？</p><p><strong>如果是小幅度更新：</strong><br>点击“火箭图标—&gt;更新修复—&gt;自动更新” 即可一键更新，同时删除“Cache”这个缓存文件夹。</p><p><strong>如果是建议全新下载：</strong></p><ol><li>下载更新的压缩包后，登录 Firefox 帐号，书签就会自动同步，拓展和用户脚本建议手动更新，同步容易出错。</li><li>转移旧版书签和历史记录，将旧版配置文件夹下的 “\Profiles\V10\places.sqlite” 覆盖到新版同名文件。</li><li>书签图标如果是空白的，将旧版配置文件夹下的 “\Profiles\V10\favicons.sqlite” 覆盖到新版同名文件。</li><li>转移旧版搜索引擎列表，将旧版配置文件夹下的 “\Profiles\V10\search.json.mozlz4” 覆盖到新版同名文件。</li><li>如果你有自己的内容修改，建议备份保存修改内容，然后再重新添加到新版本里去。</li></ol><p>更多问题参考：<a href="https://www.runningcheese.com/firefox-usage">https://www.runningcheese.com/firefox-usage</a></p><h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><p><a href="https://mp.weixin.qq.com/s/ou7xf6xE7FoHd1V7Ny5QDg">https://mp.weixin.qq.com/s/ou7xf6xE7FoHd1V7Ny5QDg</a></p><h3 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h3><p>绿色免安装，下载解压后，点击 “开始.bat” 就是创建快捷方式启动。</p><p><a href="https://www.123pan.com/s/HQeA-3s1Sh">https://www.123pan.com/s/HQeA-3s1Sh</a></p><p><a href="https://cloud.189.cn/t/UraMNvEvAFZn">https://cloud.189.cn/t/UraMNvEvAFZn</a> (访问码:88yf)</p><p><a href="https://pan.baidu.com/s/1rv3wjNNkGGi_sGjVC758vA">https://pan.baidu.com/s/1rv3wjNNkGGi_sGjVC758vA</a> 提取码：fihx</p><h2 id="LBX-增强版-v1-0"><a href="#LBX-增强版-v1-0" class="headerlink" title="LBX 增强版 v1.0"></a>LBX 增强版 v1.0</h2><p>LBX Firefox浏览器增强版，由网友@LBX 制作，集成各种优化，插件，开箱即用。</p><h3 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h3><p><strong>@LBX</strong></p><p>便携方案来源：portableapps<br>集成了关闭最后一个标签页时不关闭窗口功能<br>采用类原生界面<br>32位快乐器<br>自动更新可用<br>增加了这些拓展：二维码（生成及识别）、翻译网页、浮图秀增加了这些扩展：二维码（生成及识别）、翻译网页、浮图秀、集装箱、沙拉查词-聚合词典划词翻译、闪耀拖拽、替换字体的中文部分为雅黑、Adblock Plus – 免费的广告拦截器、Buster: Captcha Solver for Humans、Circle 阅读模式、Dark Mode、Header Editor、iGG谷歌访问助手、Infinity 新标签页 (Pro)、OneTab、RSSHub Radar、Save In…、ScrollAnywhere、Selection Context Search、Tab Position Options、Tampermonkey、Tree Style Tab – 树状标签页管理、超级清理器，并全部完成配置，开箱即用<br>增加了这些脚本：AC-baidu-重定向优化百度搜狗谷歌必应搜索favicon双列、Bilibili Evolved、HTML5视频截图器、Picviewer CE+、QQ网易云音乐付费无损音乐免费下载、searchEngineJump 搜索引擎快捷跳转、右键在新标签中打开图片时显示最优化图像质量、懒人专用，全网VIP视频免费修改去广告、全网音乐直接下载、百度网盘直接下载、知乎视频下载等多合一版。长期更新，放心使用、百度百科 – 将图片改为无水印版本、百度贴吧图片点击放大、视频网页全屏，并全部完成配置，开箱即用。</p><h3 id="更新步骤"><a href="#更新步骤" class="headerlink" title="更新步骤"></a>更新步骤</h3><p>下载新版压缩包。<br>用旧版覆盖新版Data\profile下的这三个文件：places.sqlite（书签）、favicons.sqlite（书签图标）、search.json.mozlz4（搜索引擎）<br>登陆账号同步其他修改内容</p><h3 id="下载地址-2"><a href="#下载地址-2" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-lD1Sh">https://www.123pan.com/s/HQeA-lD1Sh</a></p><h2 id="便携版-v95-0-2"><a href="#便携版-v95-0-2" class="headerlink" title="便携版 v95.0.2"></a>便携版 v95.0.2</h2><p>Mozilla Firefox是一个自由的,开放源码的浏览器,适用于 Windows,Linux 和 MacOS X平台,它体积小速度快,还有其它一些高级特征,主要特性有：标签式浏览,使上网冲浪更快；可以禁止弹出式窗口；自定制工具栏；扩展管理；更好的搜索特性；快速而方便的侧栏。它还有其它一些高级特征,如标签式浏览,可以禁止弹出式窗口.内置了钓鱼保护,改变标签浏览行为,能够重新打开以外关闭的标签,更好的支持网页订 阅的预览和订阅,拼写检查,支持JavaScript 1.7等。</p><p>火狐浏览器最新版被称为火狐量子浏览器(Firefox Quantum)，火狐浏览器的启动速度一直为人诟病，火狐采用了全新的CSS引擎和UI界面，在大幅提高网页加载速度的同时降低了内存占用，Firefox Quantum浏览器启动速度堪比初代火狐。</p><p><strong>新一代 CSS 引擎</strong></p><p>从底层开始重新打造的 Firefox 变得更快、更强大。它包含一个全新的 CSS 引擎，其采用了最先进的创新技术，速度快人一步。</p><p><strong>Firefox 开发者工具</strong></p><p>新款 Firefox 开发者工具有强大、灵活、酷炫的工具。其中包括一流的 JavaScript 调试器，可以面向多种浏览器，且内置 React 和 Redux。</p><p><strong>强大的 CSS 网格</strong></p><p>Firefox 是目前唯一配备打造和设计 CSS 网格的工具的浏览器。这些工具可以让 CSS 网格可视化，显示关联区域的名称，预览网格变化，等等。</p><h3 id="更新说明"><a href="#更新说明" class="headerlink" title="更新说明"></a>更新说明</h3><p>解决了运行在Windows 7、8和8.1上的C/E/ z系列“山猫”cpu的用户所经历的频繁崩溃。</p><p>修复了尝试连接到各种 microsoft.com 域时频繁出现的 MOZILLA_PKIX_ERROR_OCSP_RESPONSE_FOR_CERT_MISSING 错误消息（错误 1745600）<br>修复了某些 Linux/X11 系统上的 WebRender 崩溃（错误 1741956）<br>修复频繁的 Windows 关机崩溃（错误 1738984）<br>修复某些 Linux 用户在 OS 级别设置深色模式的网站对比度问题（错误 1740518）</p><h3 id="修改说明-1"><a href="#修改说明-1" class="headerlink" title="修改说明"></a>修改说明</h3><p>@果核剥壳</p><p>便携版本制作</p><h3 id="下载地址-3"><a href="#下载地址-3" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/v0HKVv-CRDHH">https://www.123pan.com/s/v0HKVv-CRDHH</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;正式版-v106-0-2&quot;&gt;&lt;a href=&quot;#正式版-v106-0-2&quot; class=&quot;headerlink&quot; title=&quot;正式版 v106.0.2&quot;&gt;&lt;/a&gt;正式版 v106.0.2&lt;/h2&gt;&lt;p&gt;火狐浏览器比起谷歌，占用内存小很多，本地化更完善，程序员调试</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云盘小白羊版 v2.12.05 绿色版</title>
+    <link href="http://byyuu.github.io/posts/alipanxby.html"/>
+    <id>http://byyuu.github.io/posts/alipanxby.html</id>
+    <published>2022-10-31T01:39:29.000Z</published>
+    <updated>2022-10-31T01:54:52.924Z</updated>
+    
+    <content type="html"><![CDATA[<p>阿里云盘小白羊版本是第三方基于阿里云盘网页版开发的PC客户端，已经实现了阿里云盘官方客户端的基本功能，使用flutter开发。</p><h2 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h2><h4 id="文件加密、洗码功能"><a href="#文件加密、洗码功能" class="headerlink" title="文件加密、洗码功能"></a>文件加密、洗码功能</h4><ol><li>可以对文件快速洗码(1秒内)，给文件生成新的sha1码，然后再上传到网盘（视频洗码后不影响在线预览）</li><li>可以对文件快速完整加密，加密后的文件无法预览，保护隐私（视频无法预览和截图，图片/文本/Doc/Pdf等文件无法在线预览）</li><li>可以对加密后的文件，快速解密恢复为原始文件</li></ol><h4 id="秒传链接"><a href="#秒传链接" class="headerlink" title="秒传链接"></a>秒传链接</h4><ol><li>可以一键创建 文件+文件夹 混排的秒传短链接</li><li>可以设置秒传短链接的有效期，密码，备注</li><li>可以保存别人分享的文件，到自己的网盘内，还能导入115链接(靠运气)</li></ol><p><img src="https://s1.ax1x.com/2022/10/31/xo1AyV.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>增加雪碧图里视频信息的显示和保存雪碧图按钮</p><p>网盘页顶部路径默认隐藏需要在设置里勾选显示</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/liupan1890/aliyunpan/">https://github.com/liupan1890/aliyunpan/</a></p><p><a href="https://pan.quark.cn/s/0d203dd30430">https://pan.quark.cn/s/0d203dd30430</a></p><p><a href="https://ghpym.lanzoui.com/b010ikqub">https://ghpym.lanzoui.com/b010ikqub</a> 密码:exez</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;阿里云盘小白羊版本是第三方基于阿里云盘网页版开发的PC客户端，已经实现了阿里云盘官方客户端的基本功能，使用flutter开发。&lt;/p&gt;
+&lt;h2 id=&quot;软件功能&quot;&gt;&lt;a href=&quot;#软件功能&quot; class=&quot;headerlink&quot; title=&quot;软件功能&quot;&gt;&lt;/a&gt;软件功</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云盘 v2.3.4.1165 绿色版</title>
+    <link href="http://byyuu.github.io/posts/alidrive.html"/>
+    <id>http://byyuu.github.io/posts/alidrive.html</id>
+    <published>2022-10-31T01:39:22.000Z</published>
+    <updated>2022-10-31T01:54:55.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>阿里云盘是阿里家推出的新一代网盘，目前使用期间并不限速，而阿里承诺以后也不会限速。现在电脑版本已经发布，本站制作成绿色版本，供大家尝鲜使用。</p><p>阿里云正式版发布，支持分享，支持分享文件夹。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@果核剥壳</p><p>绿色制作</p><p><img src="https://s1.ax1x.com/2022/10/31/xo1kQ0.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/c5cd9d17b3da">https://pan.quark.cn/s/c5cd9d17b3da</a></p><p><a href="https://www.aliyundrive.com/s/hwBLRbWQXVd">https://www.aliyundrive.com/s/hwBLRbWQXVd</a></p><p><a href="https://ghpym.lanzoui.com/b010dqbfc">https://ghpym.lanzoui.com/b010dqbfc</a> 密码:ezsc</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;阿里云盘是阿里家推出的新一代网盘，目前使用期间并不限速，而阿里承诺以后也不会限速。现在电脑版本已经发布，本站制作成绿色版本，供大家尝鲜使用。&lt;/p&gt;
+&lt;p&gt;阿里云正式版发布，支持分享，支持分享文件夹。&lt;/p&gt;
+&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a href=&quot;#修改说明&quot; cl</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android 百度贴吧 v11.9.8.0 去广告版</title>
+    <link href="http://byyuu.github.io/posts/baidutbq.html"/>
+    <id>http://byyuu.github.io/posts/baidutbq.html</id>
+    <published>2022-10-31T01:33:49.000Z</published>
+    <updated>2022-10-31T01:37:30.797Z</updated>
+    
+    <content type="html"><![CDATA[<p>百度贴吧完整版，有官方的健全功能。贴吧主要的弊端就是没有分类浏览，贴吧里面除了置顶和精品帖子就没有其他分类了，让用户找帖子起来比较麻烦，比起专业的论坛还是差了一些意思。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@蓝色飞扬</p><p>应该保留了小米和魅族的推送功能；</p><p>去除了所有会员能去掉的广告；</p><p>去掉了开屏广告、部分吧内顶部广告、签到有广告等会员也有的广告；</p><p>精简了直播 钱包等奇怪的功能，提高流畅度；</p><p>精简优化了部分吧内UI和底栏UI；</p><p>去除了部分流氓组件，去除了更新；</p><p>修复了视频功能及bug；</p><p>去除了相当多的服务、权限、活动，小白不要乱用应用控制器/写轮眼/ifw等相关软件乱禁用；会的人自行酌情禁用；</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://ghpym.lanzoui.com/b00zg6pzi">https://ghpym.lanzoui.com/b00zg6pzi</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;百度贴吧完整版，有官方的健全功能。贴吧主要的弊端就是没有分类浏览，贴吧里面除了置顶和精品帖子就没有其他分类了，让用户找帖子起来比较麻烦，比起专业的论坛还是差了一些意思。&lt;/p&gt;
+&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a href=&quot;#修改说明&quot; class=&quot;headerlink&quot;</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android Via浏览器 v4.4.5.0 谷歌(Google Play)版</title>
+    <link href="http://byyuu.github.io/posts/ViaPlay.html"/>
+    <id>http://byyuu.github.io/posts/ViaPlay.html</id>
+    <published>2022-10-31T01:14:29.000Z</published>
+    <updated>2022-10-31T01:30:57.299Z</updated>
+    
+    <content type="html"><![CDATA[<p>Via是一款简洁轻快的浏览器.堪称最小巧最强安卓极简浏览器,纯净无广告,界面简约,功能强大,麻雀虽小,五脏俱全！该手机迷你浏览器采用的WebView内核,支持定制主题,广告拦截,扩展脚本,保护隐私等功能.</p><h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><p>【最良心】不偷取用户数据，权限只必要；<br>【最快速】使用的webkit内核，原生体验；<br>【最强悍】各种设置项自定义，为你专属；<br>非常小巧，仅几百KB，该有的功能都有；<br>隐私保护、隐私防追踪、自定义浏览器标识ua；<br>支持广告拦截、自定义广告标记（可添加拦截规则）<br>支持沉浸式、支持定制主页风格、LOGO、搜索栏；<br>支持HTML5、插件管理、下载插件、下载链接解析；<br>书签可以登陆云同步，支持夜间模式，夜间模式、电脑模式、有图/无图模式；<br>支持翻译网页、离线网页、保存网页、查看网页源码、网页资源嗅探、网页内查找等；<br>支持自定义添加脚本（添加如：百度贴吧免登陆看更多回复、知乎免登陆看全文回答）；</p><p><img src="https://s1.ax1x.com/2022/10/31/xoQr9I.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><ul><li>添加扫码快捷方式</li><li>支持 blob/ data 协议下载</li><li>新增查看网站证书信息功能</li><li>新增历史页面时间信息查看</li><li>导出数据支持导出广告规则和订阅</li><li>云同步支持同步广告规则和订阅</li><li>视频播放手势、视频变速播放</li><li>支持快捷键、标签懒加载</li></ul><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-nRDHH">https://www.123pan.com/s/v0HKVv-nRDHH</a></p><p><a href="https://423down.lanzouv.com/i8YnR0e3t6mf">https://423down.lanzouv.com/i8YnR0e3t6mf</a></p><p><a href="https://pan.baidu.com/s/1MQmYE2Q-_o79kPhvswSH4g">https://pan.baidu.com/s/1MQmYE2Q-_o79kPhvswSH4g</a></p><p>应用大小：2.25MB<br>应用包名：mark.via<br>应用版本：4.4.5(20221016)<br>更新日期：Play商店2022年10月16号<br>应用架构：Universal (ARM7a, ARM64-8a, x86, x86-64)</p><br><p><strong>Via轻插件中心（提供各种脚本扩展）</strong></p><p><a href="http://via-app.cn/#/tabBar/home">http://via-app.cn/#/tabBar/home</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Via是一款简洁轻快的浏览器.堪称最小巧最强安卓极简浏览器,纯净无广告,界面简约,功能强大,麻雀虽小,五脏俱全！该手机迷你浏览器采用的WebView内核,支持定制主题,广告拦截,扩展脚本,保护隐私等功能.&lt;/p&gt;
+&lt;h2 id=&quot;软件特色&quot;&gt;&lt;a href=&quot;#软件特色&quot; </summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Geek Uninstaller(卸载工具)v1.5.1.163 免费版</title>
+    <link href="http://byyuu.github.io/posts/Geek.html"/>
+    <id>http://byyuu.github.io/posts/Geek.html</id>
+    <published>2022-10-31T00:36:56.000Z</published>
+    <updated>2022-10-31T00:41:02.864Z</updated>
+    
+    <content type="html"><![CDATA[<p>Geek Uninstaller正式版是一款相当不错的单文件绿色卸载软件，它体积轻巧，反映迅速，并且完全免费，支持多国语言，完美支持支持32位与64位系统，并且它只有一个exe文件 (软件大小不到2M)，你不需要安装即可直接卸载软件、强制彻底清除软件残留垃圾文件或是查看某软件的注册表项目等等，让你的系统瞬间变得高速流畅。</p><h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><ul><li>界面简单，使用方便。这个软件只有一个主界面。windows中所有已安装的软件会全部显示在这里，而所有和卸载有关的功能都集中在右键菜单中。</li><li>单文件绿色版软件。在官网上下载后解压缩就可以使用，无需安装，更另人惊讶的是，这个软件只有一个文件哦。</li><li>“注册表条目”功能可以快速打开与之有关的注册表键值(注册表编辑器中显示)</li><li>带有强制删除功能。使用后，所有和这个软件有关的文件和注册表项都会被清理干净哦。</li><li>GeekUninstaller还可以把已安装软件列表导出成html格式。</li><li>体积小，只有1.65 MB。完美支持windowsWindows 7/8/XP/Vista/2003/2008操作系统。</li><li>GeekUninstaller 操作很简单，选择你要卸载的软件就OK，卸载完毕后会扫描注册表残留和安装目录，残留的文件基本上全删除。GeekUninstaller 除了程序卸载、注册表项目清理，还内置了搜索功能，可以通过Google搜索你不清楚的程序。</li></ul><p><img src="https://s1.ax1x.com/2022/10/31/xoKzdJ.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-YRDHH">https://www.123pan.com/s/v0HKVv-YRDHH</a></p><p><a href="https://pan.quark.cn/s/b27534c880cc">https://pan.quark.cn/s/b27534c880cc</a></p><p><a href="https://pan.baidu.com/s/1ASsMSHfSCuG4VwezrynDjQ">https://pan.baidu.com/s/1ASsMSHfSCuG4VwezrynDjQ</a> 提取码：wtjj</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Geek Uninstaller正式版是一款相当不错的单文件绿色卸载软件，它体积轻巧，反映迅速，并且完全免费，支持多国语言，完美支持支持32位与64位系统，并且它只有一个exe文件 (软件大小不到2M)，你不需要安装即可直接卸载软件、强制彻底清除软件残留垃圾文件或是查看某软</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>360小工具提取版合集</title>
+    <link href="http://byyuu.github.io/posts/360gjtq.html"/>
+    <id>http://byyuu.github.io/posts/360gjtq.html</id>
+    <published>2022-10-30T11:48:56.000Z</published>
+    <updated>2022-10-30T11:57:08.620Z</updated>
+    
+    <content type="html"><![CDATA[<p>不得不说360这些年做的工具都挺实用的，但是我们需要用到的工具往往只是其中一两个，对于不喜欢360卫士的同学来说，安装一个360是非常痛苦的一件事，这个提取版功能就能满足大部分人的需求了，根据自己需要的功能，下载相关的文件吧。</p><h2 id="提取文件列表"><a href="#提取文件列表" class="headerlink" title="提取文件列表"></a>提取文件列表</h2><p>360U盘鉴定器.rar</p><p>360U盘鉴定器独立版.exe</p><p>360主页修复 单文件独立版.7z</p><p>360任务管理器单文件版.rar</p><p>360密码安全鉴定器单文件版.exe</p><p>360小清新日历 单文件独立版.7z</p><p>360截图2.0.exe</p><p>360手机助手.exe</p><p>360文件恢复独立版.7z</p><p>360文件粉碎机单文件版.rar</p><p>360文件解锁独立版 疑似存在风险.7z</p><p>360电脑救援 单文件独立版.7z</p><p>360看图工具独立版.zip</p><p>360眼睛护士绿色版.7z</p><p>360补丁大师8.0.7z</p><p>360软件管家官方[独立版] v5.0.0.1130绿色提取版.rar</p><p>360隔离沙箱单文件版.exe</p><p>360驱动大师 v2.0.0.1230 单文件绿色版.7z</p><p>小鲁温度监控 v2.0.0.1001 单文件独立版.exe</p><p>360奇未儿童桌面.zip</p><p>360桌面助手（桌面整理）最新版.zip</p><p>360桌面老版本.rar</p><p>360CAD病毒专杀工具（单文件）.exe</p><p>360系统防黑加固.7z</p><p>360c盘搬家.zip</p><p>360右键菜单管理独立版.7z</p><p>360插件清理独立版.zip</p><p>360木马查杀独立版.zip</p><p>360注册表清理独立版.7z</p><p>360清理和优化独立版（内含大文件清理）.exe.zip</p><p>360漏洞修复.zip</p><p>360系统优化独立版(电脑清理开机优化加速).rar</p><p>360系统优化独立版+9.0.zip</p><p>360系统盘瘦身v10.1 最新绿色版.rar</p><p>360进程查看_独立版.7z</p><p>360 DNS优选.zip</p><p>360LSP修复 单文件独立版.7z</p><p>360加速球.7z</p><p>360加速球v9.7Beta.7z</p><p>360宽带测速器单文件绿色版.rar</p><p>360开机优化神器独立版.exe</p><p>360断网急救箱独立版 10.1.7z</p><p>360杀毒+上网加速.zip</p><p>360流量监控v10.2正式版提取.rar</p><p>360流量监控单文件版 疑似报毒.rar</p><p>360游戏优化_1.4.0.1081.zip</p><p>360网游加速器 v2.0.0.1030 单文件绿色版.7z</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/HQeA-381Sh">https://www.123pan.com/s/HQeA-381Sh</a></p><p><a href="https://pan.quark.cn/s/22721ad2ef54">https://pan.quark.cn/s/22721ad2ef54</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;不得不说360这些年做的工具都挺实用的，但是我们需要用到的工具往往只是其中一两个，对于不喜欢360卫士的同学来说，安装一个360是非常痛苦的一件事，这个提取版功能就能满足大部分人的需求了，根据自己需要的功能，下载相关的文件吧。&lt;/p&gt;
+&lt;h2 id=&quot;提取文件列表&quot;&gt;&lt;a </summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>360极速浏览器X v21.0.1120.0 便携版</title>
+    <link href="http://byyuu.github.io/posts/360BrowserXb.html"/>
+    <id>http://byyuu.github.io/posts/360BrowserXb.html</id>
+    <published>2022-10-30T11:37:56.000Z</published>
+    <updated>2022-10-31T01:25:54.278Z</updated>
+    
+    <content type="html"><![CDATA[<p>360极速浏览器X官方版是一款功能强大的网页浏览器软件，能够帮助用户轻松快速的浏览各种页面，提高大家的工作效率，让网页浏览更加轻松。软件采用了Chromium 95内核，支持各种网页协议，满足用户的各种网页极速浏览功能需求。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>来自果核网友@zzx 投稿</p><p>便携制作，添加了一些常用插件。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://p0.ssl.qhmsg.com/dr/750__100/t013896b979fef1f32f.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><ol><li>增加经典皮肤、经典暗黑皮肤</li><li>增加浏览器启动加速功能</li><li>修复第一次启动慢的问题</li><li>修复拖拽标签卡顿的bug</li><li>修复视频小窗口中不显示进度条的bug</li><li>修复无法打印的问题</li><li>修复特定网页游戏登录失败的bug</li><li>修复chrome内核漏洞200多个</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.feijix.com/s/ciDa962">https://www.feijix.com/s/ciDa962</a></p><p><a href="https://www.123pan.com/s/HQeA-a21Sh">https://www.123pan.com/s/HQeA-a21Sh</a></p><p><a href="https://pan.quark.cn/s/acd4643dbafd">https://pan.quark.cn/s/acd4643dbafd</a></p><p><a href="https://ghpym.lanzoui.com/b010xl8kj">https://ghpym.lanzoui.com/b010xl8kj</a> 密码: 71e7</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;360极速浏览器X官方版是一款功能强大的网页浏览器软件，能够帮助用户轻松快速的浏览各种页面，提高大家的工作效率，让网页浏览更加轻松。软件采用了Chromium 95内核，支持各种网页协议，满足用户的各种网页极速浏览功能需求。&lt;/p&gt;
+&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a hre</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>360安全卫士极速版 v15.0.0.1001</title>
+    <link href="http://byyuu.github.io/posts/360safe.html"/>
+    <id>http://byyuu.github.io/posts/360safe.html</id>
+    <published>2022-10-30T11:23:52.000Z</published>
+    <updated>2022-10-30T11:32:57.634Z</updated>
+    
+    <content type="html"><![CDATA[<p>360安全卫士在去年被江苏消费者协会点名以后，就迅速推出极速版本，没有广告，没有弹窗，有火绒的味道了。在拦截方面，做得最好的确实还是360，错杀也不放过一个。</p><p><img src="https://s1.ax1x.com/2022/10/30/xIql7R.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://down.360safe.com/setupbeta_jisu.exe">https://down.360safe.com/setupbeta_jisu.exe</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;360安全卫士在去年被江苏消费者协会点名以后，就迅速推出极速版本，没有广告，没有弹窗，有火绒的味道了。在拦截方面，做得最好的确实还是360，错杀也不放过一个。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s1.ax1x.com/2022/10/30/xIql7R.jp</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2345 好压 v6.4.0.11148 去广告绿色版</title>
+    <link href="http://byyuu.github.io/posts/2345haozip.html"/>
+    <id>http://byyuu.github.io/posts/2345haozip.html</id>
+    <published>2022-10-30T11:17:28.000Z</published>
+    <updated>2022-10-30T11:21:37.031Z</updated>
+    
+    <content type="html"><![CDATA[<p>2345 好压的用户量可以说是用亿来计算的，其本身也是一款非常好用的压缩软件，并且支持的格式多，还支持压缩包看图功能，还有就是界面真是吊打其他的软件，并且新版本的好压在UNACEV2.dll漏洞问题也得到了解决。奈何软件广告多得吓人，卵用没有的mini主页，时不时弹右下角推荐，还有后台常驻服务，好端端的软件，硬生生的给搞成垃圾软件。果核剥壳首发绿色去广告版本。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@果核剥壳</p><p>绿化制作</p><p>去除mini主页，更新模块，下载模块，卵用没有的服务</p><p><del>去多余菜单，反馈按钮</del></p><p>【第一次使用请用绿化卸载工具绿化(右键管理员权限)，自动关联文件，设置右键菜单】</p><p>杀毒软件可能会对绿化工具报毒，请放行。</p><p><img src="https://s1.ax1x.com/2022/10/30/xIbLTI.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-ERDHH">https://www.123pan.com/s/v0HKVv-ERDHH</a></p><p><a href="https://pan.quark.cn/s/aecd49b932af">https://pan.quark.cn/s/aecd49b932af</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2345 好压的用户量可以说是用亿来计算的，其本身也是一款非常好用的压缩软件，并且支持的格式多，还支持压缩包看图功能，还有就是界面真是吊打其他的软件，并且新版本的好压在UNACEV2.dll漏洞问题也得到了解决。奈何软件广告多得吓人，卵用没有的mini主页，时不时弹右下角推</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>PotPlayer(网络播放器) v1.7.21801 绿色版</title>
@@ -219,304 +515,6 @@
     
     
     <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>QQScreenShot(QQ截图) 提取版 v3.0</title>
-    <link href="http://byyuu.github.io/posts/QQScreenShot.html"/>
-    <id>http://byyuu.github.io/posts/QQScreenShot.html</id>
-    <published>2022-10-29T07:04:16.000Z</published>
-    <updated>2022-10-29T07:11:27.161Z</updated>
-    
-    <content type="html"><![CDATA[<p>QQ截图是一款QQ中的截图功能组件，非常的好用，因为要截图每次都要打开QQ，非常的麻烦，这款独立版的截图软件。具有体积小巧、资源占用少等特点，既可以享受QQ截图的强大功能，又无需登录QQ，有需要使用这款QQ截图独立版的用户可以试试。</p><p>运行Init.bat创建桌面快捷方式(或者主程序是Bin\QQScreenShot.exe, 自己手动运行)<br>单击托盘图标, 或默认使用快捷键Ctrl+Alt+A截图</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>软件作者 @看雪论坛 – 0xEEEE</p><p>OCR</p><p>识图(以图搜图)</p><p>长截图</p><p>滚轮音量</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/29/x5MOkn.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>软件作者 @看雪论坛 – 0xEEEE</p><ol><li>录屏功能逆出来了, 预览界面点右下角那个对勾后会保存到临时文件夹</li><li>新增命令行参数oneshot, noplugin, noconfig 例如:<br>QQScreenShot –oneshot=10, 执行一次截图并在10s后退出程序(截图Call是异步的,采用这种方式也是没办法的办法)<br>QQScreenShot –noplugin(或-p), 不加载录屏插件<br>QQScreenShot –noconfig(或-c), 不加载配置文件即使用默认配置</li><li>“切换热键”新增NULL选择, 即可以设置一个键的热键</li><li>消息循环改用QQ的MessgeLoopForUI类</li><li>托盘菜单新增”打开临时文件夹”选项, 有时OCR失败或者录屏导致没有删除的临时文件可手动删除</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://bbs.pediy.com/thread-271225.htm">https://bbs.pediy.com/thread-271225.htm</a></p><p><a href="https://www.feijix.com/s/RaHPYsU">https://www.feijix.com/s/RaHPYsU</a></p><p><a href="https://www.123pan.com/s/v0HKVv-NODHH">https://www.123pan.com/s/v0HKVv-NODHH</a></p><p><a href="https://pan.quark.cn/s/5207add194d7">https://pan.quark.cn/s/5207add194d7</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;QQ截图是一款QQ中的截图功能组件，非常的好用，因为要截图每次都要打开QQ，非常的麻烦，这款独立版的截图软件。具有体积小巧、资源占用少等特点，既可以享受QQ截图的强大功能，又无需登录QQ，有需要使用这款QQ截图独立版的用户可以试试。&lt;/p&gt;
-&lt;p&gt;运行Init.bat创建桌</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android 幸运修改器(LuckyPatcher) v10.3.0</title>
-    <link href="http://byyuu.github.io/posts/LuckyPatcher.html"/>
-    <id>http://byyuu.github.io/posts/LuckyPatcher.html</id>
-    <published>2022-10-29T04:52:31.000Z</published>
-    <updated>2022-10-29T06:12:42.566Z</updated>
-    
-    <content type="html"><![CDATA[<p>幸运修改器LuckyPatcher是来自修改大神ChelpuS的作品，需要root权限可以修改一些软件或游戏，同时还可以去广告，比如Tank Riders, Reckless Racing HD? Ground Effect HD, Spirit, Aftermatch等等，不过不保证一定会修改，所以叫做幸运修改器，选中应用后长按弹出菜单即可。</p><p>注意：当遇到一些之前用幸运修改器破击后更新新版出现空间不足的提醒时，可以先将对应的app卸载，然后运行幸运自动清除数据后再安装</p><p>幸运修改器支持xposed，能够作为模块使用。当然也可以独立使用</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/29/x5ZrQJ.jpg"></p><h2 id="更新说明"><a href="#更新说明" class="headerlink" title="更新说明"></a>更新说明</h2><p>兼容安卓11.0</p><p>自定义补丁更新</p><p>修复BUG</p><h2 id="内购修改教程"><a href="#内购修改教程" class="headerlink" title="内购修改教程"></a>内购修改教程</h2><p>对于具有root权限的用户：</p><p>方法＃1（最有效和最理想）：</p><p>应用第一个补丁Android（签名验证始终为真）并安装修改后的市场版本3或更高版本。之后，您的所有购买交易都将被重定向到Lucky Patcher，如果启用了“仿真Google帐单”功能。要恢复正常的合法购物模式，足以关闭“模拟Google帐单”开关。这种方法与自由的工作相同，在效率上并不逊色于他，而是对Google Play进行了修改，可以让您在不影响Google Play操作的情况下进行购买。</p><p>怎么做？<br>– 安装幸运Patcher :)</p><p>– 选择幸运补丁“工具” – &gt;“补丁Android”的下方面板，选择顶部项目（签名验证始终为真）点击应用。重新启动后，必须将此对话框中的第一个补丁标记为2/2。（你可以跳过这个步骤，但最好这样做，因为如果它不起作用，那么从那时起就做一些没有意义的事情）。如果修补程序失败，您可以尝试使用第一个选项模块Xposed Lucky Patcher;<br>– 启动Lucky Patcher，打开互联网连接并选择下方面板“工具” – &gt;“安装修改后的Google Play”，选择正确的版本并点击安装;<br>– 在“工具” – &gt;“测试已修改的Google Play”中进行Google Play测试。</p><p>方法＃2：<br>应用第一个补丁Android（签名验证始终为真），并由交换机“代理服务器为Google Play”运行。之后，您的所有购买将被重定向到幸运的Patcher。</p><p>此方法的缺点：</p><p>– 在代理服务器启用之前不起作用;</p><p>– 通过查看关于购买的原始信息，在保护的申请中无效;</p><p>– 如果您关闭代理服务器，那么与保持购买的组合不方便，因为无法将保留的购买交给应用程序。</p><p>方法＃3：</p><p>如果您的设备上有Xposed，您可以打开Laked Patcher的Xposed模块。</p><p>注意：在Xposed模块中包括支持Iapp和LVL仿真的第四个选项，只有在您尚未安装修改过的Google Play时，才需要。如果修改后的Google Play尚未设置，则包含第一个和第四个选项可以进行应用</p><p>内购买。第五个选项，你可以尝试从应用程序中隐藏Lucky Patcher，如果它抱怨。</p><p>这种方法的缺点：</p><p>– 通过检查关于购买的原始信息在保护的应用程序中无效;</p><p>– Xposed在更新幸运补丁程序后出现错误，有时Xposed模块本身已关闭，您必须禁用Xposed中的模块并将其包含在一起重新启动设备。</p><p>方法4：<br>应用于InApp和LVL仿真的应用程序目标补丁支持。之后，所有的购买都必须重新定向到幸运补丁。这种方法更有效，如果应用于Google Play用户补丁支持InApp和LVL仿真（Support.InApp.LVL.com.android.vending），因为它允许您提取有关购买转移到应用程序的真实信息，这允许你绕过保护购买这些信息。这种方法很方便，如果你想通过仿真购买，只有在自己</p><p>修补的应用程序中。</p><p>这种方法的缺点：</p><p>– 它不在所有应用程序上工作，因为InApp购买代码可以隐藏在该补丁无法访问的地方。</p><p>– 如果您不在Google Play中应用自定义补丁Support.InApp.LVL.com.android.vending，则通过检查原始的购买信息，在保护的应用程序中无效。</p><p>– 需要在升级目标应用程序后进行修补。</p><p>对于没有root权限的用户：</p><p>方法＃1：</p><p>使用InApp和LVL仿真的补丁程序重新编译应用程序目标，删除原始应用程序（将文件夹重命名为未删除的缓存）。安装应用程序重新编译变体（如果有的话，使用缓存重命名文件夹）。所有你可以尝试购买。很少的作品，但是奇迹发生:)</p><p>方法＃2：</p><p>打开切换器“原始InApp服务镜像模拟购买”。适用于非常旧的应用程序或较旧版本的应用程序。这个方法例如用在CreeHack中。在新的应用程序中，只有在对InApp和LVL仿真进行了补丁支持重新编译后才能尝试包含该目标，但这并不奏效。启用此开关可能会导致某些应用程序运行时发生崩溃，因为此方法存在这样一个愚蠢的保护应用程序。</p><p><strong>购买窗口选项：</strong></p><ol><li><p>发送响应无符号 – 对于没有root权限的用户，对于较旧的游戏和应用程序，作者不会无意中检查签名数据，这是有意义的。当此选项打开时，关于购买的虚假数据将被发送到具有空白签名的应用程序，并且有机会，该购买将找到正确的并激活该应用程序。具有root权限的用户更好地不使用此选项，可以做更多的伤害而不是帮助。</p></li><li><p>保存以恢复购买。这个选项将数据库中的购买保存到了Lucky Patcher中，到下一次发布越狱应用程序的时候，幸运的Patcher告诉他，这次购买应该是被购买的。它需要各种类型的订阅和其他。如何理解有必要包含？您购买的是完整版本的应用程序，并且购买成功完成，但重新启动应用程序后，它再次认为自己是一个不完整的版本，并再次要求购买。启用此选项后，应用程序将在重新启动后考虑自己购买。</p></li><li><p>使用当前设置进行自动购买。在以下购买之后加入此选项，将在没有对话的情况下购买Lucky Patcher关于购买（购买立即进入您的申请，没有任何问题）。有必要的是，当您在应用程序中收集黄金等时，不要按每次您同意购买:)删除自动购物可以长时间按下幸运补丁列表中的应用程序，并选择“删除所选保存购买“，然后删除列表中不必要的自动购买。</p></li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/e597d624dd23">https://pan.quark.cn/s/e597d624dd23</a></p><p><a href="https://www.123pan.com/s/v0HKVv-WODHH">https://www.123pan.com/s/v0HKVv-WODHH</a></p><p><a href="https://ghpym.lanzouo.com/b011ah2ah">https://ghpym.lanzouo.com/b011ah2ah</a> 密码: byfa</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;幸运修改器LuckyPatcher是来自修改大神ChelpuS的作品，需要root权限可以修改一些软件或游戏，同时还可以去广告，比如Tank Riders, Reckless Racing HD? Ground Effect HD, Spirit, Aftermatch等等</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Adobe PhotoShop 多版本</title>
-    <link href="http://byyuu.github.io/posts/PhotoShop.html"/>
-    <id>http://byyuu.github.io/posts/PhotoShop.html</id>
-    <published>2022-10-28T12:51:09.000Z</published>
-    <updated>2022-10-28T13:31:13.598Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="2023-v24-0-0-59-特别版"><a href="#2023-v24-0-0-59-特别版" class="headerlink" title="2023 (v24.0.0.59) 特别版"></a>2023 (v24.0.0.59) 特别版</h2><p>2022年10月，Adobe发布2023版本，目前，一大部分和特别本已经和大家见面了。</p><p>Adobe Photoshop 2023版(简称PS)是一款全球流行的专业图像处理软件及照片和设计软件。Adobe Photoshop中文版是Adobe Creative Cloud 创意云桌面程序中心的图形设计软件热门产品，它是平面设计领域和数字图象处理行业标准。</p><p>而ps 2023是该软件的最新版本，新增了云文档、新对象 选中工具、转换行为一致等功能。</p><h3 id="新增功能"><a href="#新增功能" class="headerlink" title="新增功能"></a>新增功能</h3><p><strong>选择改进</strong></p><p>通过对选择工具的新增强功能，更快速、更轻松地创建具有详细边缘的高质量切口。</p><p><strong>一键删除和填充</strong></p><p>移动对象或将其从场景中完全移除，然后使用内容感知填充填充该区域，只需单击一下即可完成所有操作。<br>邀请在照片商店中编辑</p><p><strong>邀请编辑</strong></p><p>与协作者共享和编辑照片商店文件。轻松组织和管理他们通过 Web、桌面和 iPad 应用提供的反馈，而无需其他工具。</p><p>在照片商店中共享以供审阅</p><p>分享以供审阅（测试版）</p><p>通过创建指向工作的链接、在一个位置管理反馈以及在准备就绪时推送更新来节省时间。协作者无需注册或登录即可发表评论。</p><p><strong>照片商店中的新神经滤镜</strong></p><p>照片恢复神经滤镜（β）</p><p>尝试由AI驱动的新照片恢复神经滤镜，以恢复旧的和损坏的家庭照片。</p><p><strong>其他更改和增强功能</strong></p><p>通过更新内容凭证（Beta 版）、Substance 3D 材质支持、改进首选项设置等，提升您的创意工作流程。</p><p><img src="https://img.lovestu.com/uploads/2022/10/ps2023fm.webp"></p><h3 id="系统要求"><a href="#系统要求" class="headerlink" title="系统要求"></a>系统要求</h3><p>Windows 10 64 位（版本 1909）或更高版本；不支持 LTSC 版本</p><p>支持 DirectX 12 的 GPU</p><p>1.5G 显卡内存</p><h3 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h3><p>@果核剥壳</p><p>打包，制作安装器</p><p>提示，安装器可能误报，请关闭杀毒后再使用</p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>暂不提供</p><h2 id="2022-v23-5-1-724-特别版"><a href="#2022-v23-5-1-724-特别版" class="headerlink" title="2022 (v23.5.1.724) 特别版"></a>2022 (v23.5.1.724) 特别版</h2><p>Photoshop2022官方版是一款高效、专业、实用的图像处理软件，用户们使用这款Photoshop2022官方版软件后，可以让工作更加简便化，其拥有最强悍的图片编辑能力。</p><h4 id="悬停时自动选择"><a href="#悬停时自动选择" class="headerlink" title="悬停时自动选择"></a>悬停时自动选择</h4><p>“对象选择”是常见的 Photoshop 工作流程中不可或缺的部分。在这个版本中，“对象选择”工具包含如下全新功能：当您将鼠标悬停在图像上并单击时，系统可自动选取图像的某一部分。</p><p>对象选择工具的最新更新通过单击所需对象来提高预览和蒙版功能的质量，从而为您的创意旅程提供更快、更轻松、更直观的合成与修饰工作流程。</p><h4 id="共享以供注释"><a href="#共享以供注释" class="headerlink" title="共享以供注释"></a>共享以供注释</h4><p>保持在流程中，根据您的设计来重新构思共享、接收反馈的方式，而无需离开 Photoshop 应用程序。永远！现在，您可以与团队伙伴和利益相关方轻松共享 Photoshop 云文档，并使用注释、上下文图钉和批注来添加和接收反馈。新的共享以供注释功能允许您：</p><p>在 Photoshop 云文档中与他人协作<br>保留注释和观察结果，供您以后审阅<br>在讲授如何使用 Photoshop 的同时，以教育工作者的身份制定学习旅程<br>与他人共享注释和反馈</p><h4 id="改进了与-Illustrator-的互操作性"><a href="#改进了与-Illustrator-的互操作性" class="headerlink" title="改进了与 Illustrator 的互操作性"></a>改进了与 Illustrator 的互操作性</h4><p>改进了您最喜爱的应用程序 Illustrator 与 Photoshop 之间的互操作性，允许您在享有交互操作的同时，轻松地将那些带有图层/矢量形状、路径和矢量蒙版的 Ai 文件引入 Photoshop，以便您可以继续编辑和处理这些文件。</p><p>要尝试这些新功能，只需导航到 Photoshop (Mac)/编辑 (Win) &gt; 首选项并启用 PsAiInteropEnhancements 选项。重新启动 Photoshop。</p><h4 id="新的和改进的-Neural-Filters"><a href="#新的和改进的-Neural-Filters" class="headerlink" title="新的和改进的 Neural Filters"></a>新的和改进的 Neural Filters</h4><p>以 Adobe Sensei 为后盾的 Neural Filters，为您带来了新的、改进后的滤镜，这种经过重新构思的滤镜让您得以探索各种创意。凭借新颖的特色和测试版滤镜，您可以在 Photoshop 中实现令人惊叹的编辑效果。</p><h3 id="修改说明-1"><a href="#修改说明-1" class="headerlink" title="修改说明"></a>修改说明</h3><p>@vposy @m0nkrus</p><p>特别版制作，直接安装即可使用</p><p><img src="https://s1.ax1x.com/2022/10/28/x4skdI.jpg"></p><h3 id="校验信息-amp-配置最低要求"><a href="#校验信息-amp-配置最低要求" class="headerlink" title="校验信息&amp;配置最低要求"></a>校验信息&amp;配置最低要求</h3><p>MD5 ：AC802014E6798FC241F9FE64077E9E3F</p><p>处理器：Intel® or AMD processor with 64-bit support; 2 GHz or faster processor with SSE 4.2 or later</p><p>操作系统：Windows 10 64-bit (version 1909) or later; LTSC versions are not supported</p><p>RAM：8 GB RAM</p><p>GPU：2 GB GPU 内存、GPU with DirectX 12 support</p><p>存储：4 GB 可用硬盘空间用于安装；安装期间所需的额外可用空间</p><h3 id="如有解压密码"><a href="#如有解压密码" class="headerlink" title="如有解压密码"></a>如有解压密码</h3><p>解压密码：@vposy</p><h3 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-W21Sh">https://www.123pan.com/s/HQeA-W21Sh</a></p><p><a href="https://pan.quark.cn/s/eb65875f2b2f">https://pan.quark.cn/s/eb65875f2b2f</a></p><p><a href="https://cloud.189.cn/t/iIJJZz2yMBje">https://cloud.189.cn/t/iIJJZz2yMBje</a> (访问码:bff2)</p><p><a href="https://cloud.189.cn/t/iIJJZz2yMBje">https://cloud.189.cn/t/iIJJZz2yMBje</a> 提取码：ghxi</p><h2 id="2022-v23-1-1-绿色版"><a href="#2022-v23-1-1-绿色版" class="headerlink" title="2022 (v23.1.1) 绿色版"></a>2022 (v23.1.1) 绿色版</h2><p>Photoshop2022官方版是一款高效、专业、实用的图像处理软件，用户们使用这款Photoshop2022官方版软件后，可以让工作更加简便化，其拥有最强悍的图片编辑能力。</p><h3 id="修改说明-2"><a href="#修改说明-2" class="headerlink" title="修改说明"></a>修改说明</h3><p>@423down</p><p>☑ 官方简体中文语言版，免激活处理，免安装绿化，适度精简<br>├—下载工具 CCMaker.exe 下载的官方简体中文语言版安装包<br>├—激活处理 GenP – Uncia、UXP扩展主页屏幕扩展修复版 – vposy<br>☑ 采用新方式处理主屏幕扩展（当前目录加载UXP扩展不依赖系统路径）<br>☑ 加入CG运行库（NVIDIA Runtime Library）编译模块免驱动硬件加速<br>☑ 支持关联文件类型格式、支持预览PSD缩略图、支持拖拉图片到软件界面<br>├—加入第三方插件PSD缩略图预览外壳扩展模块（MysticThumbs v1.9.8）<br>☑ 加入第三方增效工具（WebP v0.5b9 汉化版），支持打开导出WebP格式<br>☑ 加入第三方增效工具（ICOFormat v2.1f1），支持打开导出ICO/CUR格式<br>☑ 集成官方增效工具CameraRaw 滤镜插件，无相机预设文件及镜头配置文件<br>☑ 保留所有的扩展功能、增效工具、滤镜、所有打开新建及导出文件类型支持<br>☑ 无不必要额外Adob创意云组件（升级, 库, 云同步）退出无相关程序驻留进程<br>├—Desktop Common, Creative Cloud Experience, Creative Cloud CoreSync<br>├—CCXProcess, CCLibrary, AAM, AdobeIPCBroker, IPCBox, HDBox, LCC, ICC<br>☑ 删除扩展Adobe Stock, Creative Cloud Libraries（会调用创意云程序的库面板）<br>☑ 删除组件Deep_Font（非必要的字体）,PDFL（PDF字体）,PDFL（PDF预设文件）<br>☑ 删除组件Linguistics（拼写检查相关）, Adobe Spaces（学习面板教程演示组件）<br>☑ 删除组件DynamicLinkMediaServer（视频导入输出支持组件）<br>☑ 删除组件Adobe Media Encoder（视频导入进行转码的组件）<br>☑ 删除多国语言资源, 错误反馈, 日志传输（会驻留进程偷偷上传）</p><p><strong>如何使用PS2022神经网络滤镜功能 (Neural Fiters) ？</strong><br>要求：登陆，联网在线下载组件（或者在网盘下载完整PS2022神经网络滤镜离线包）<br>界面「菜单」 -&gt;「帮助 」-&gt;「登陆」 -&gt; 登陆后，点「滤镜」菜单-&gt;Neural Fiters<br>提示：如果首次登陆，主屏幕提示当前账户试用到期，无需理会，重启软件即可使用！</p><p><strong>AI神经网络滤镜功能 (Neural Fiters) 需要登陆，在线下载或下载离线包！</strong><br>注意：如果使用的精简版系统，需要下载账户登陆依赖文件：UXP网页支持扩展 (UXP WebView Support)<br><a href="https://193.49.125.171/updates/ACC/products/AdobeProducts/UXPW/1.1.0.21/winarm64/b5f177de-5651-44c7-b2c4-898f15739313/AdobeUXPWebViewSupport_arm64-mul.zip">https://193.49.125.171/updates/ACC/products/AdobeProducts/UXPW/1.1.0.21/winarm64/b5f177de-5651-44c7-b2c4-898f15739313/AdobeUXPWebViewSupport_arm64-mul.zip</a><br>UXP网页支持扩展所在路径，下载后解压EdgeWebView放到以下路径:<br>C:\Program Files\Common Files\Adobe\Microsoft\EdgeWebView</p><h3 id="系统要求-1"><a href="#系统要求-1" class="headerlink" title="系统要求"></a>系统要求</h3><p>2022版本<br>官方要求Windows 10 1909或更高版<br>系统低于1803版本，点主屏幕新建文档，会提示错误异常</p><p><img src="https://s1.ax1x.com/2022/10/28/x4skdI.jpg"></p><h3 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h3><p>如果提示电脑没有运行库，请自行百度。</p><h3 id="下载地址-2"><a href="#下载地址-2" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://pan.quark.cn/s/7b2a9549d80c">https://pan.quark.cn/s/7b2a9549d80c</a></p><p><a href="https://www.123pan.com/s/HQeA-Qs1Sh">https://www.123pan.com/s/HQeA-Qs1Sh</a></p><p><a href="https://cloud.189.cn/t/6raiAfameyYz">https://cloud.189.cn/t/6raiAfameyYz</a> (访问码:nsp4)</p><p><a href="https://pan.baidu.com/s/1fD7-ZvSFOfYPn4iq-AQcVQ">https://pan.baidu.com/s/1fD7-ZvSFOfYPn4iq-AQcVQ</a> 提取码：ghxi</p><h2 id="2020-v21-2-12-215-绿色精简版"><a href="#2020-v21-2-12-215-绿色精简版" class="headerlink" title="2020 (v21.2.12.215) 绿色精简版"></a>2020 (v21.2.12.215) 绿色精简版</h2><p>Adobe Photoshop 简称“PS”，是一款全球最大的图像处理软件，知名的图像及照片后期处理大型专业软件。Adobe® Photoshop 是 Adobe Creative Cloud 创意云应用程序产品里的专业图片处理编辑软件，Photoshop 依然是数字图象处理和编辑的业界标准，提供广泛的专业级润饰工具套件，并集成了专为激发灵感而设计的强大编辑功能。Photoshop 2020让你享有更多的功能和速度体验，让令人惊叹的图像栩栩如生。</p><p><img src="https://s1.ax1x.com/2022/10/28/x4skdI.jpg"></p><h5 id="你需要注意的问题"><a href="#你需要注意的问题" class="headerlink" title="你需要注意的问题"></a>你需要注意的问题</h5><p>在没有装齐 VC 运行库的机器上，不能启动<br>不要和其他人修改的 PS 软件混用，尤其是国外的 “便携版”<br>XP 只能使用 CS6 13.0.1.3，Win7 最好使用 CC 2015 16.1.2 的版本，16 以上的 CC 版本 Win7 支持不佳。<br>20 不支持 XP、Win8/8.1 及 Win10 1709 以下版本<br>配置不高（CPU 核心少于 4，内存少于 16G，无 SSD）的用户，最好选用 16.1.2，不要使用最新版本<br>遇到各种问题，请先尝试关闭 GPU 加速</p><h3 id="修改说明-3"><a href="#修改说明-3" class="headerlink" title="修改说明"></a>修改说明</h3><p>@423down</p><p>基于官方简体中文语言版，绿化精简，免安装超方便。<br>免激活，本地离线授权，无需登陆账户，支持离线显示主页屏幕；<br>不受官方安装限制，支持在64位Windows® 7操作系统上面使用。<br>支持关联默认图片格式，支持关联预览PSD缩略图；支持拖拉图片到程序界面；<br>支持打开导出ICO格式图标/CUR鼠标指针（加入ICO插件: ICOFormat v2.1f1）<br>保留所有扩展功能、增效工具、所有滤镜、所有打开新建及导出文件格式支持；<br>删除错误上报程序、崩溃服务程序、示例,教程,帮助网站支持等不必要文件；<br>删除驻留进程的后台程序 IPCBox\AdobeIPCBroker.exe 与其相关的组件；<br>删除附加程序Adobe Application Manager,Adobe Desktop Common；<br>删除文件Deep_Font,Linguistics,PDFL,Bridge,Spaces,PIP,CCM,IPC,LCC；<br>删除许可机制验证服务程序（CCXProcess），库面板组件（CCLibrary）<br>删除创意云文件同步组件（Creative Cloud CoreSync）<br>删除视频导入输出支持组件（DynamicLinkMediaServer）<br>更新扩展工具插件Adobe Camera Raw 12.1.0.35；</p><p><strong>修复另存为闪退问题</strong></p><h3 id="下载地址-3"><a href="#下载地址-3" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://cloud.189.cn/web/share?code=AVZrA3R73uYn">https://cloud.189.cn/web/share?code=AVZrA3R73uYn</a></p><p><a href="https://pan.baidu.com/s/18hyaUOVzVJmu2NXHStG5OA">https://pan.baidu.com/s/18hyaUOVzVJmu2NXHStG5OA</a> 提取码：ghxi</p><h2 id="2020-v21-2-9-67-特别版"><a href="#2020-v21-2-9-67-特别版" class="headerlink" title="2020 (v21.2.9.67) 特别版"></a>2020 (v21.2.9.67) 特别版</h2><p>在万众期待中Adobe公司最新发布了PS CC 2020，不得不说Adobe公司的效率非常之高。这次更新的软件新功能简直是太酷了，更加智能化更加便捷化，更考验电脑的性能！</p><p>Adobe Photoshop 拥有智能型锐利化、智能型增加取样、3D 场景面板、建立晕映效果、修图、水印、羽化等等功能，为用户在处理图片上带来了非常大的帮助。并且软件采用了全新的启动界面，让软件的整个界面看起来更加的简洁大方、与时俱进。</p><p>新版本的Adobe去掉了CC，以后应该会直接命名或者加PRO命名。</p><h3 id="修改说明-4"><a href="#修改说明-4" class="headerlink" title="修改说明"></a>修改说明</h3><p>@vposy</p><p>和谐完全使用权限</p><p>修复不登录ID和不联网时可能出现的闪退问题</p><p>已修复无法保存</p><h3 id="特别注意"><a href="#特别注意" class="headerlink" title="特别注意"></a>特别注意</h3><p>新建文件没有反应的，在软件首选项-&gt;选择使用旧版新建文档界面即可。或者登陆账户。</p><p><img src="https://s1.ax1x.com/2022/10/28/x4sq1S.png"></p><h3 id="校验信息"><a href="#校验信息" class="headerlink" title="校验信息"></a>校验信息</h3><p>如果校验码不对，请尝试使用WinRAR修复压缩包</p><p>SHA1 ：87b4f035c1ee25a7bf2c5b611f34193dcc57ad22</p><h3 id="下载地址-4"><a href="#下载地址-4" class="headerlink" title="下载地址"></a>下载地址</h3><p><strong>解压密码：@vposy</strong></p><p><a href="https://cloud.189.cn/t/NBZnUfJjuuUj">https://cloud.189.cn/t/NBZnUfJjuuUj</a> (访问码:yr1t)</p><p><a href="https://pan.baidu.com/s/1HtrsVbHuwXmG5tgoz5Z_Nw">https://pan.baidu.com/s/1HtrsVbHuwXmG5tgoz5Z_Nw</a> 提取码：5ak0</p><h2 id="2020-v21-2-4-323-茶末余香增强版"><a href="#2020-v21-2-4-323-茶末余香增强版" class="headerlink" title="2020 (v21.2.4.323) 茶末余香增强版"></a>2020 (v21.2.4.323) 茶末余香增强版</h2><p>Adobe Photoshop 拥有智能型锐利化、智能型增加取样、3D 场景面板、建立晕映效果、修图、水印、羽化等等功能，为用户在处理图片上带来了非常大的帮助。并且软件采用了全新的启动界面，让软件的整个界面看起来更加的简洁大方、与时俱进。</p><h3 id="修改说明-5"><a href="#修改说明-5" class="headerlink" title="修改说明"></a>修改说明</h3><p><strong>@TEAmo</strong></p><p>去联网验证，未作任何精简，完整功能仅增强整合封装。</p><p><strong>加入插件：</strong><br>├—Alien Skin 系列滤镜<br>├—Athentech Imaging Perfectly Clear Complete 3.10.0.1804 滤镜（中文版）<br>├—Athentech Imaging Perfectly Clear Complete 3.10.0.1793 滤镜（中文版）<br>├—Imagenomic Noiseware 5.1.2.5126 滤镜（中文版）<br>├—Imagenomic Portraiture 3.5.4.3540 滤镜（中文版）<br>├—Imagenomic Realgrain 2.1.2.2120 滤镜（中文版）<br>├—Camera Raw 11.4 滤镜<br>├—Flaming Pear 系列滤镜<br>├—Frischluft 系列滤镜<br>├—Neat Image 7.6 降噪滤镜<br>├—Imagenomic 系列滤镜<br>├—Redfield 系列滤镜<br>├—Richard Rosenman 系列滤镜<br>├—Topaz Labs 系列滤镜<br>├—Tint 滤镜<br>├—Vertus Fluid Mask 3.3.18 抠图滤镜<br>├—GreycShop GREYCstoration 手绘滤镜<br>├—Knoll Light Factory 3.2 光效滤镜<br>├—Nik Collection Software 系列滤镜<br>├—Google 谷歌系列滤镜套装<br>├—Portraiture 3 3.5.3.3532 磨皮滤镜<br>├—ACR预设(日系、人像、影楼、建筑、风景等)</p><p><strong>加入扩展：</strong><br>├—Beauty Retouch 3 人像D&amp;B/中性灰磨皮<br>├—Beauty Retouching Kit 影楼皮肤美白磨皮润色降噪<br>├—Blendit 终极修图辅助面板<br>├—Coolorus 2.6 色环面板<br>├—Colors of the Year 年度颜色面板<br>├—Creative Retouch 光效叠加合成面板<br>├—Delicious Retouch Plus 3 增强版<br>├—Double USM2 USM双锐化<br>├—Easy Panel 一键亮度遮罩控制面板<br>├—Easy Retouch 写真面部调色特效<br>├—fonTags 1.3 字体管理器<br>├—GuideGuide 参考辅助线面板<br>├—ILM 2.1 亮度饱和度蒙版<br>├—InstaMask 1.0 全新蒙板生成器<br>├—Lumenzia – Luminosity Masking Panel 区域色彩控制<br>├—Lumenzia 2.0.8 区域色彩控制<br>├—Long Shadow Generator 长阴影生成面板<br>├—Magic Retouch Pro 4.0 美白磨皮润色专业版<br>├—Overlays Manager Pro 视觉特效叠层纹理管理<br>├—Photobacks Cartoon 1.0.5 卡通漫画效<br>├—PixelJuggler 人像D&amp;B/中性灰磨皮辅助<br>├—Raya Pro 2.0 终极数字混合工作流程<br>├—Retouch of Color 颜色修整面板<br>├—Retouch Skin 高端商业磨皮美肤<br>├—Retouch Tools 终极修图辅助工具<br>├—Retouching Panel 高端精修调色风格面板<br>├—SMP Pro Workflow 人像精修扩展面版<br>├—StarsTail 2017.1 半岛雪人星轨堆栈插件<br>├—SuperDetails 超级细节增强<br>├—SuperHDR 超级HDR效果<br>├—tk_infinity_mask_panel TK辅助面板<br>├—TK4V2 亮度蒙版风光利器<br>├—TK V5 亮度蒙版风光利器<br>├—VSCOcam 扩展面板<br>├—Ultimate Retouch 2.0 终极修图<br>├—Ultimate Retouch 3.5 终极修图<br>├—YYActions 1.0 新疆YY星轨堆栈亮度蒙版<br>├—简易抠图<br>├—美颜润肤 1.3 标准版<br>├—美颜润肤（加强版）<br>├—BBTools RainFX 下雨特效扩展面板<br>├—ImageMotion 1.3 静态图片局部动画特效扩展面板<br>├—Ultimate Retouch 3.8.10 人像精修磨皮扩展面板</p><p><strong>其它增强：</strong><br>├—精选多款字体、支持ICO&amp;CUR格式、WebP格式，支持切换多语言界面；<br>├—想要窗口 Dveice Preview 功能需要另外安装Adobe Preview CC安卓版；<br>├—解除扩展库限制，可以自由安装使用第三方插件库；<br>├—Required\CEP\CEPHtmlEngine 已解除系统限制；<br>├—Required\CEP\extensions 在此添加扩展库即可；</p><h3 id="特别提示-1"><a href="#特别提示-1" class="headerlink" title="特别提示"></a>特别提示</h3><p>请右键管理员身份允许安装，否则安装过程可能有字体安装错误提示。<br>如果在安装路径页面无法点 安装的，可以直接按 回车键 进行安装。</p><p>软件默认安装在C盘</p><p>电脑配置低非专业用户不建议使用此增强版本，注意，一定要固态硬盘，否则卡到你怀疑人生。</p><h3 id="校验信息-1"><a href="#校验信息-1" class="headerlink" title="校验信息"></a>校验信息</h3><p>文件大小：2055186748 字节<br>MD5 ：A19ECF0203F21AB3D7B23EC3936BE3B5</p><h3 id="下载地址-5"><a href="#下载地址-5" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://pan.baidu.com/s/1EhqHyfPM_Ik2GxukRcK9xg">https://pan.baidu.com/s/1EhqHyfPM_Ik2GxukRcK9xg</a> 提取码：9spi</p><h2 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;2023-v24-0-0-59-特别版&quot;&gt;&lt;a href=&quot;#2023-v24-0-0-59-特别版&quot; class=&quot;headerlink&quot; title=&quot;2023 (v24.0.0.59) 特别版&quot;&gt;&lt;/a&gt;2023 (v24.0.0.59) 特别版&lt;/h2&gt;&lt;</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Google Chrome v107.0.5304.88 便携增强版</title>
-    <link href="http://byyuu.github.io/posts/Chromebx.html"/>
-    <id>http://byyuu.github.io/posts/Chromebx.html</id>
-    <published>2022-10-28T12:06:32.000Z</published>
-    <updated>2022-10-28T12:43:13.665Z</updated>
-    
-    <content type="html"><![CDATA[<p>谷歌浏览器，是一个由Google（谷歌）公司开发的开放原始码网页浏览器。该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><h4 id="增强功能"><a href="#增强功能" class="headerlink" title="增强功能"></a>增强功能</h4><p>双击关闭标签页<br>保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>鼠标悬停标签栏滚动<br>按住右键时滚轮滚动标签栏<br>移除开发者模式警告<br>便携设计，程序放在App目录，数据放在Data目录（不兼容原版数据，可以重装系统换电脑不丢数据）<br>移除更新错误警告（因为是绿色版没有自动更新功能）</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><h4 id="报毒来源"><a href="#报毒来源" class="headerlink" title="报毒来源"></a>报毒来源</h4><p>1.启动器报毒，由于启动器是汇编代码写的，只有29KB大小，除去图标文件，只有6KB大小，很多杀毒软件会拦截。(果核版)</p><p>2.GreenChrome报毒，由于GreenChrome是谷歌增强插件，通过version.dll对谷歌劫持来实现增强功能，大部分软件会报毒version.dll</p><p>3.增强功能通过App/chrome++.dll实现，有可能会报毒。【最新Google Chrome】</p><h2 id="更新说明"><a href="#更新说明" class="headerlink" title="更新说明"></a>更新说明</h2><p>优先HTTPS连接</p><p>支持AV1视频编码</p><p>重命名窗口</p><p>WebXR深度API</p><p>性能信息悬浮层</p><p>安全提升</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/28/x4DTHI.jpg"></p><h2 id="配置升级"><a href="#配置升级" class="headerlink" title="配置升级"></a>配置升级</h2><p>升级先把老版本App重命名为App2。<br>然后把新下载的所有文件覆盖到老文件夹内。<br>包括App、Data和说明.txt。<br>运行测试正常后可以安全删除App2老版本。<br>建议保留上个版本压缩包以便出问题时还原。</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>从88版本开始，已经移除了对flash的支持，用插件也不行，网盘保留了87.0.4280.141，是最后一个版本支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-kODHH">https://www.123pan.com/s/v0HKVv-kODHH</a></p><p><a href="https://pan.quark.cn/s/57b4b1ae98eb">https://pan.quark.cn/s/57b4b1ae98eb</a></p><p><a href="https://www.aliyundrive.com/s/TXmHcGfrjxJ">https://www.aliyundrive.com/s/TXmHcGfrjxJ</a></p><p><a href="https://www.lanzoui.com/b00z8efsb">https://www.lanzoui.com/b00z8efsb</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;谷歌浏览器，是一个由Google（谷歌）公司开发的开放原始码网页浏览器。该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。&lt;/p&gt;
-&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a href=&quot;#修改</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android 速享(开源局域网传输工具) v2.1.7-3</title>
-    <link href="http://byyuu.github.io/posts/SuXiang.html"/>
-    <id>http://byyuu.github.io/posts/SuXiang.html</id>
-    <published>2022-10-28T11:50:34.000Z</published>
-    <updated>2022-10-28T12:14:59.798Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是一款完全基于局域网的文件互传终端，速享不使用任何服务器，不使用您的移动流量，不收集任何用户数据，完全的点对点传输。</p><p>可以快速共享文本消息，图片或其他文件，文件夹。</p><p>适用于局域网中的文件互传，解决 QQ，微信等上传文件会经过服务器的问题，或者部分测试手机，没有这类聊天软件。</p><h2 id="作者的话"><a href="#作者的话" class="headerlink" title="作者的话"></a>作者的话</h2><p><strong>软件作者@梦魇兽</strong></p><p>我常常会遇到这样的情况，我想要把PC上下载的一些大文件传到手机，或者我想把手机上的大文件传到电脑，例如刷机包，电影，于是打开了QQ或者微信的文件助手，点击上传，100kb/s的上传网速，瞬间不开心了😩。</p><p>当我在公司入职后，这样的场景就变得更加的频繁，这个时候就想通过MIUI+的方式来传文件，就我来说，从上大学，90%在用的系统就是macOS(黑苹果)，MIUI+所以也不顶用了，而且MIUI+不支持手机热点PC连的情况，在公司也是macOS，用公司的内网app，一样经过一次服务器，而且一般上行速度比下载速度小很多。</p><p>而有以上的需求，一般手机与电脑是在一个局域网的，例如我，常常是手机热点带的电脑。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/28/x4wgN8.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>会员功能上线</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/nightmare-space/speed_share">https://github.com/nightmare-space/speed_share</a></p><p><a href="https://www.123pan.com/s/v0HKVv-EODHH">https://www.123pan.com/s/v0HKVv-EODHH</a></p><p><a href="https://pan.quark.cn/s/0ad1b4b620b1">https://pan.quark.cn/s/0ad1b4b620b1</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这是一款完全基于局域网的文件互传终端，速享不使用任何服务器，不使用您的移动流量，不收集任何用户数据，完全的点对点传输。&lt;/p&gt;
-&lt;p&gt;可以快速共享文本消息，图片或其他文件，文件夹。&lt;/p&gt;
-&lt;p&gt;适用于局域网中的文件互传，解决 QQ，微信等上传文件会经过服务器的问题，或者部</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android 清浊 v1.9.1 高级版</title>
-    <link href="http://byyuu.github.io/posts/QingZhuo.html"/>
-    <id>http://byyuu.github.io/posts/QingZhuo.html</id>
-    <published>2022-10-28T10:39:19.000Z</published>
-    <updated>2022-10-28T12:14:28.137Z</updated>
-    
-    <content type="html"><![CDATA[<p>清浊一个简洁但功能毫不逊色的清理工具 ，界面清爽，功能强大，有非常多的专门清理功能，并且还提供ROOT清理的功能。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@Black Hawk or @耗子</p><p>修改高级功能</p><p><img src="https://s1.ax1x.com/2022/10/28/x4GYuT.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-QODHH">https://www.123pan.com/s/v0HKVv-QODHH</a></p><p><a href="https://pan.quark.cn/s/2b8b96a0dcbb">https://pan.quark.cn/s/2b8b96a0dcbb</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;清浊一个简洁但功能毫不逊色的清理工具 ，界面清爽，功能强大，有非常多的专门清理功能，并且还提供ROOT清理的功能。&lt;/p&gt;
-&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a href=&quot;#修改说明&quot; class=&quot;headerlink&quot; title=&quot;修改说明&quot;&gt;&lt;/a&gt;修改说明&lt;/h2&gt;</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网盘太多不好管理？用上这个神器试试！Alist v3.2.1</title>
-    <link href="http://byyuu.github.io/posts/Alist.html"/>
-    <id>http://byyuu.github.io/posts/Alist.html</id>
-    <published>2022-10-28T00:56:01.000Z</published>
-    <updated>2022-10-28T12:12:12.484Z</updated>
-    
-    <content type="html"><![CDATA[<p>网盘太多不好管理？用上这个神器试试！</p><p>之前有一款可以把网盘整变成硬盘的工具-CloudDrive，可以直接挂载网盘，网速过得去的话，使用文件就像是在使用本地内容一样方便，但CloudDrive从出场以来就有不少争议，比如软件不开源、占用过高、以及网盘授权失败等问题。</p><p>在今年，另一款叫做AList的工具引起了大家的注意。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210271.webp"></p><p>在2022年的热度一直飙升，到现在已经是一款支持非常多网盘的文件列表程序了，但AList准确来说不是网盘挂载工具，因为它也支持其他类型的存储。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210272.webp"></p><h4 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h4><p>AList是开源的工具，具体实现感兴趣有能力的也可以自己翻阅代码，安全程度相比起来稍微高一点，另外就是你可以将AList部署在服务器上，这样就有了一款聚合多家网盘空间的资源分享站点。支持文件预览、文件打包下载、音视频(包括歌词字幕)预览、游客网页上传文件与离线下载等不少实用的功能。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210273.webp"></p><p>整理好自己网盘里的文件就相当于分享了，还不用自己去生成分享链接等等，很方便。</p><p>另外有朋友担心部署到自己的服务器上，这些流量一大顶不住怎么办？其实这些走的并不是服务器的流量，主要的拉取和数据下载都是通过网盘原本的服务器，Alist相当于中间人。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210274.webp"></p><p>具体支持的储存有下面这些类型，基本上常用的主流网盘都在这，其中像是免费的123网盘、蓝奏云盘、以及老司机比较喜欢的PikPak都支持，除了网盘，谷歌相册和一刻相册也支持，还有对大家来说比较小众的视频创作协助平台-分秒帧也在支持列表里面。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210275.webp"></p><p>除此之外，AList更新也比较勤快，这个月已经更新四个版本了，当然不是因为Bug多才更新修复的，而是一直在加功能，像是mega网盘和谷歌相册就是最近加上的。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210276.webp"></p><h4 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h4><p>下面就用Windows的版本给大家介绍一下怎么使用吧，下载之后按住SHIFT键+鼠标右键打开命令行窗口。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210277.webp"></p><p>在命令行模式下输入 .\alist.exe admin 先查看管理AList后台的账号和密码。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210278.webp"></p><p>之后使用 .\alist.exe server 来启动，启动成功之后，再在浏览器访问 127.0.0.1:5244 这个本地主页地址，就可以登录进行管理。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/202210279.png"></p><p>这些都是非常简化的步骤了，更详细的内容可以访问软件作者给出的文档查看。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/10.webp"></p><p>添加一个阿里网盘试试，需要填写一些参数，每个网盘添加的方式都有一点区别。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/11.webp"></p><p>具体的还是需要去看文档，想要使用这个工具，作者的文档是非常重要的，像是阿里网盘就可以通过文档里的链接，来获取刷新令牌。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102712.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102713.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102714.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102715.webp"></p><p>挂载路径可以填写自己想要的名字，之后再访问本地主页地址，就能看到网盘的内容已经加载出来了，点开可以看到详情。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102716.webp"></p><p>然后就能用第三方软件RaiDrive挂载到本地了。使用RaiDrive填写好下面的地址，就能看到多出来的盘。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102717.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102718.webp"></p><p>看视频是什么的也是唰唰的，或者以后想要从其他网盘来转移文件，也比较简单了。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/19.webp"></p><p>另外，还有一个问题就是，这些配置好之后，重启电脑你会发现AList没有跟着启动，这就需要用到一个小脚本。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102720.webp"></p><p>首先需要将RaiDrive的开机自动启动关闭，因为在它启动之前，需要先将AList启动才能连通，所以我们直接用脚本启动两个软件，不需要它自己动。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102721.webp"></p><p>这个脚本是网上找来的，但是由于在现在的版本里面需要 server 启动命令，如果你直接下载下来会发现是不能用的，所以要先加上，另外将脚本里面的RaiDrive路径，替换成你的安装路径。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/2022102722.png"></p><p>之后Windows键+R调出快速运行界面，输入 shell:startup 打开系统的启动目录，然后创建一个脚本的快捷方式放进去。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/10/27/23.webp"></p><p>这样开机会自动加载完成，并完成窗口的隐藏，体验会好很多。有了AList后可以让网盘发挥最大的价值，自己用的话，抽时间配置一下，就能愉快使用了！这么好用的免费神器值得收藏一个，赶紧去试试吧。</p><h4 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h4><p><a href="https://github.com/alist-org/alist">https://github.com/alist-org/alist</a><br><a href="https://www.123pan.com/s/v0HKVv-zNDHH">https://www.123pan.com/s/v0HKVv-zNDHH</a><br><a href="https://ghpym.lanzouv.com/b0126jbkf">https://ghpym.lanzouv.com/b0126jbkf</a> 密码: fixs</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;网盘太多不好管理？用上这个神器试试！&lt;/p&gt;
-&lt;p&gt;之前有一款可以把网盘整变成硬盘的工具-CloudDrive，可以直接挂载网盘，网速过得去的话，使用文件就像是在使用本地内容一样方便，但CloudDrive从出场以来就有不少争议，比如软件不开源、占用过高、以及网盘授权失败等</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Teracopy(复制增强) v3.9.2 官方中文版</title>
-    <link href="http://byyuu.github.io/posts/Teracopy.html"/>
-    <id>http://byyuu.github.io/posts/Teracopy.html</id>
-    <published>2022-10-27T13:02:20.000Z</published>
-    <updated>2022-10-28T12:17:25.838Z</updated>
-    
-    <content type="html"><![CDATA[<p>TeraCopy是一款文件复制传输利器，旨在于发挥系统最快的拷贝速度而设计，是 Windows 复制、移动功能的增强版，通过智能缓冲技术来提升复制、移动大文件时的速度。自动接管系统默认复制剪切功能。</p><p>TeraCopy还支持暂停传输和断点续传功能，你可以在任何时间暂停你的拷贝工作，当系统空闲的时候再恢复它。</p><p>家庭用户免费使用，商业使用需要付费。</p><h2 id="软件优势"><a href="#软件优势" class="headerlink" title="软件优势"></a>软件优势</h2><p>-更快的复制/移动文件：TeraCopy 使用动态调整磁盘缓冲区，以减少寻道时间。异步复制加速两个物理硬盘之间的文件传输。<br>-断点续传文件传输功能：你可以暂停复制文件过程以释放系统资源，并在想继续传输时通过一次单击即可从上次传输点继续。<br>-错误恢复保护机制：遇到复制错误，TeraCopy 会自动重新尝试，即使尝试不成功也只是跳过该文件，并不会终止整个传输。<br>-可以和著名的文件管理器Total Commander和Directory Opus整合在一起！方便你快速的移动和复制文件！<br>-与Windows资源管理器紧密集成：TeraCopy 完全可以替换资源管理器中复制和移动功能，像往常一样甚至比以往更方便地传输文件。<br>-支持命令行！<br>-原生支持Windows 7 X64</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>1.复制后验证文件<br>2.保留日期时间戳<br>3.复制锁定的文件<br>4.与Windows资源管理器集成<br>5.传输完成时运行Shell脚本<br>6.生成并验证校验与文件<br>7.安全删除文件<br>8.在商业环境中使用<br>9.编辑文件列表<br>10.管理收藏夹<br>11.以HTML与CSV格式导出报告</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/27/xhQSSO.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>安装包打开会检测更新，等待一会跳过即可</p><p>设置-Language-切换中文</p><p><a href="https://www.123pan.com/s/v0HKVv-8NDHH">https://www.123pan.com/s/v0HKVv-8NDHH</a></p><p><a href="https://ghpym.lanzouv.com/b0126c88d">https://ghpym.lanzouv.com/b0126c88d</a> 密码:81h1</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;TeraCopy是一款文件复制传输利器，旨在于发挥系统最快的拷贝速度而设计，是 Windows 复制、移动功能的增强版，通过智能缓冲技术来提升复制、移动大文件时的速度。自动接管系统默认复制剪切功能。&lt;/p&gt;
-&lt;p&gt;TeraCopy还支持暂停传输和断点续传功能，你可以在任何时</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>腾讯视频 v11.55.2024 去广告纯净版</title>
-    <link href="http://byyuu.github.io/posts/txvideow.html"/>
-    <id>http://byyuu.github.io/posts/txvideow.html</id>
-    <published>2022-10-27T02:38:29.000Z</published>
-    <updated>2022-10-28T12:20:07.293Z</updated>
-    
-    <content type="html"><![CDATA[<p>腾讯视频PC版去广告绿色清爽版，免升级，看视频免等待，无任何广告弹窗干扰！腾讯视频-中国最大在线视频媒体平台，海量高清视频在线观看。腾讯视频客户端，精彩剧集提前更新，支持在线点播及电视台直播，包含了大量独播英美剧、独播NBA版权，支持三倍流畅播放、免费享受蓝光画质。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/27/xfQEUx.jpg"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p><strong>@423down</strong></p><p>01.反汇编处理，去安全效验、去所有广告视频秒播！<br>02.去迷你腾讯弹窗、禁止任务栏通知区域定时推送弹窗<br>03.去所有的广告：缓冲广告、暂停广告、播放中等广告<br>04.去主界面游戏中心按钮禁止拉取、去设置界面游戏管理项<br>05.修改默认点关闭按钮不最小化到托盘，而是彻底完全退出<br>06.禁止每次启动在磁盘目录生成QLDownloadGame文件夹<br>07.禁止检测升级，禁止后续强制在后台下载新版安装包升级<br>08.禁止播放本地视频关闭返回界面后弹出“QQ影音下载安装”询问弹窗<br>09.禁止驻留后台，去设置界面项：允许腾讯视频驻留、允许推送迷你页面<br>10.去主菜单和托盘菜单无用项：迷你腾讯、在线升级、修复与反馈，帮助<br>11.禁止在系统后台 %AppData%\Tencent\目录里面生成logs产品日志的文件夹<br>12.删除服务程序、自动升级插件、安全修复相关模块等大量无用的不必要的文件</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/bcea7c48c19f">https://pan.quark.cn/s/bcea7c48c19f</a></p><p><a href="https://www.lanzoui.com/b00z9prpc">https://www.lanzoui.com/b00z9prpc</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;腾讯视频PC版去广告绿色清爽版，免升级，看视频免等待，无任何广告弹窗干扰！腾讯视频-中国最大在线视频媒体平台，海量高清视频在线观看。腾讯视频客户端，精彩剧集提前更新，支持在线点播及电视台直播，包含了大量独播英美剧、独播NBA版权，支持三倍流畅播放、免费享受蓝光画质。&lt;/p&gt;</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Google翻译修复工具 v1.3</title>
-    <link href="http://byyuu.github.io/posts/Googlefanyi-xf.html"/>
-    <id>http://byyuu.github.io/posts/Googlefanyi-xf.html</id>
-    <published>2022-10-27T01:39:18.000Z</published>
-    <updated>2022-10-28T12:16:19.161Z</updated>
-    
-    <content type="html"><![CDATA[<p>10月份，Google翻译API被误伤，官方干脆直接停用了。虽然网页翻译给停用了，但是API并没有停，稍微修改一下host就能解决。</p><p>鉴于使用不方便，某大佬做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻译功能。</p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>打开后会自动获取IP，获取成功会展示所有可用IP，然后点击测试延迟，软件会依次进行延迟测试</p><p>点击一键修复，软件自动选择一个本机延迟最低的IP，设置HOST。</p><p>最后，设置完成以后，可用测试一下翻译接口是否正常。正常的话，本机所有使用Google翻译的功能，将恢复使用。</p><img src=" https://s1.ax1x.com/2022/10/27/xfnwAf.png " width="50%"><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><strong>v1.3</strong><br>修改可用IP<br>新增接口可用性检测，能在设置IP之前，先检测此IP是否可用，以应对有些IP虽然能联通，但是不能使用<br>新增清除host菜单项目，可用快速删除设置的Google翻译HOST一项，不影响其他的HOST。</p><p><strong>v1.2</strong><br>修复1.1版本设置IP无效问题<br>新增单条IP延迟测试</p><p><strong>v1.1</strong><br>修改HOST替换方式，不再覆盖原来HOST的内容<br>新增菜单打开HOST，可以一键打开HOST文件，查看内容<br>IP列表新增右键菜单，可以选择指定IP进行设置</p><h2 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h2><p>软件非常有可能会被杀毒干掉，请关闭或者信任以后使用</p><p><strong>压缩包解压密码：123</strong></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-9NDHH">https://www.123pan.com/s/v0HKVv-9NDHH</a></p><p><a href="https://pan.quark.cn/s/c0278aad2ad1">https://pan.quark.cn/s/c0278aad2ad1</a></p><p><a href="https://ghpym.lanzouv.com/b0124sv2j">https://ghpym.lanzouv.com/b0124sv2j</a> 密码:chme</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;10月份，Google翻译API被误伤，官方干脆直接停用了。虽然网页翻译给停用了，但是API并没有停，稍微修改一下host就能解决。&lt;/p&gt;
-&lt;p&gt;鉴于使用不方便，某大佬做了一个小工具，自动获取可用的IP，并且选择一个最低延迟的IP，修改HOST，做到一键修复Google翻</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>IObit Uninstaller Pro v12.1.0.5 便携修改版</title>
-    <link href="http://byyuu.github.io/posts/IObit-Uninstaller.html"/>
-    <id>http://byyuu.github.io/posts/IObit-Uninstaller.html</id>
-    <published>2022-10-27T01:16:52.000Z</published>
-    <updated>2022-10-28T12:16:49.231Z</updated>
-    
-    <content type="html"><![CDATA[<p>IObit Uninstalller是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p><p>IObit Uninstaller是一款功能强大且体积小巧的绿色软件，能够有效地取代Windows自带的卸载功能。通过它，你可以彻底卸载不需要的软件，不留下软件的相关信息，并且不会造成系统崩溃。</p><p>IObit Uninstaller(软件卸载工具)是款轻巧的软件卸载工具，它虽然小巧可是五脏俱全，它包含的功能有一键移除工具列,批次移除和强制移除等功能。</p><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><p>支持强制卸载和文件粉碎功能；</p><p>支持谷歌浏览器、火狐浏览器、IE浏览器、欧朋浏览器的插件卸载。一键卸载提升浏览器速度和安全；</p><p>支持批量卸载，支持强力扫描卸载</p><p>支持浏览器插件评分评级</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@果核剥壳</p><p><strong>便携修改制作</strong></p><p><font color="#FF0000">注:修改版无法开机自启，关闭程序以后无法关闭后台</font></p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/27/xfmWfe.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-HNDHH">https://www.123pan.com/s/v0HKVv-HNDHH</a></p><p><a href="https://pan.quark.cn/s/861a683bb18e">https://pan.quark.cn/s/861a683bb18e</a></p><p><a href="https://ghpym.lanzoui.com/b010x1uwd">https://ghpym.lanzoui.com/b010x1uwd</a> 密码: euzo</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;IObit Uninstalller是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。&lt;/p&gt;
-&lt;p&gt;IObit Uninstaller是一款功能强大且体积小巧的绿色软件，能够有效地取代Windo</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蓝奏云第三方客户端(electron版)v3.4.2 绿色版</title>
-    <link href="http://byyuu.github.io/posts/wlzele.html"/>
-    <id>http://byyuu.github.io/posts/wlzele.html</id>
-    <published>2022-10-26T03:12:00.000Z</published>
-    <updated>2022-10-28T12:18:50.580Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是一款第三方蓝奏云软件，实现了各种功能，使用electron开发，界面尚可，功能该有的都有。</p><h2 id="实现功能"><a href="#实现功能" class="headerlink" title="实现功能"></a>实现功能</h2><p>批量上传 / 下载；<br>URL 解析，自动合并文件；<br>任意格式、大文件上传，支持断点功能；<br>快速分享，一件复制分享信息到粘贴板。</p><p><img src="https://s1.ax1x.com/2022/10/26/xWlkge.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>修复：下载文件后，文件名不会自动还原的情况</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>软件开源：<a href="https://github.com/chenhb23/lanzouyun-disk">https://github.com/chenhb23/lanzouyun-disk</a><br><a href="https://www.123pan.com/s/v0HKVv-DCDHH">https://www.123pan.com/s/v0HKVv-DCDHH</a><br><a href="https://pan.quark.cn/s/3de97d923602">https://pan.quark.cn/s/3de97d923602</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这是一款第三方蓝奏云软件，实现了各种功能，使用electron开发，界面尚可，功能该有的都有。&lt;/p&gt;
-&lt;h2 id=&quot;实现功能&quot;&gt;&lt;a href=&quot;#实现功能&quot; class=&quot;headerlink&quot; title=&quot;实现功能&quot;&gt;&lt;/a&gt;实现功能&lt;/h2&gt;&lt;p&gt;批量上传 / </summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
