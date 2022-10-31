@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>iloveu</title>
+  <title>樱桃网</title>
   
   <subtitle>I meet you.</subtitle>
   <link href="http://byyuu.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://byyuu.github.io/</id>
   
   <author>
-    <name>iloveu</name>
+    <name>樱桃网</name>
     
   </author>
   
