@@ -6,7 +6,7 @@
   <link href="http://byyuu.github.io/atom.xml" rel="self"/>
   
   <link href="http://byyuu.github.io/"/>
-  <updated>2022-10-31T03:40:02.429Z</updated>
+  <updated>2022-11-06T03:45:05.567Z</updated>
   <id>http://byyuu.github.io/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android MusicFree(音乐播放器) v0.0.1-alpha.7</title>
+    <link href="http://byyuu.github.io/posts/MusicFreea.html"/>
+    <id>http://byyuu.github.io/posts/MusicFreea.html</id>
+    <published>2022-11-06T03:37:31.000Z</published>
+    <updated>2022-11-06T03:45:05.567Z</updated>
+    
+    <content type="html"><![CDATA[<p>一个插件化、定制化、无广告的免费音乐播放器，目前只支持Android和Harmony OS。</p><h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><p>插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件。这也就意味着，只要可以在互联网上搜索到的音源，只要有对应的插件，你都可以使用本软件进行搜索、播放等功能。关于插件的详细说明请看插件一节。</p><p>插件支持的功能：搜索（音乐、专辑、作者）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等。</p><p>定制化、无广告：本软件提供了浅色、深色模式；支持自定义背景；本软件基于GPL协议开源，一个star做交易 将会保持免费。</p><p>隐私：所有的数据都存储在本地，本软件不会收集你的任何个人信息。</p><p>歌词关联：你可以把两首歌的歌词关联起来，比如将歌曲A的歌词关联到歌曲B，关联后A、B两首歌都将显示歌曲B的歌词。你也可以关联多首歌的歌词，如A-&gt;B-&gt;C，这样A、B、C三首歌都将显示C的歌词。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://img.lovestu.com/uploads/2022/11/MusicFree.webp"></p><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h2><p>插件导入地址：https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json</p><p><a href="https://www.123pan.com/s/HQeA-Mm4Sh">https://www.123pan.com/s/HQeA-Mm4Sh</a></p><p><a href="https://pan.quark.cn/s/b68ef23786f7">https://pan.quark.cn/s/b68ef23786f7</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;一个插件化、定制化、无广告的免费音乐播放器，目前只支持Android和Harmony OS。&lt;/p&gt;
+&lt;h2 id=&quot;软件特色&quot;&gt;&lt;a href=&quot;#软件特色&quot; class=&quot;headerlink&quot; title=&quot;软件特色&quot;&gt;&lt;/a&gt;软件特色&lt;/h2&gt;&lt;p&gt;插件化：本软件仅</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VMware(VM虚拟机)多版本</title>
+    <link href="http://byyuu.github.io/posts/vmware.html"/>
+    <id>http://byyuu.github.io/posts/vmware.html</id>
+    <published>2022-11-06T02:55:11.000Z</published>
+    <updated>2022-11-06T03:30:07.588Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="VMware-Workstation-Pro-v15-v16-2-4-官方版-激活密钥"><a href="#VMware-Workstation-Pro-v15-v16-2-4-官方版-激活密钥" class="headerlink" title="VMware Workstation Pro v15 v16.2.4 官方版+激活密钥"></a>VMware Workstation Pro v15 v16.2.4 官方版+激活密钥</h2><p><span id="VM16"></span></p><p>VMware Workstation Pro 是将多个操作系统作为虚拟机 (VM) 在单台 Linux 或 Windows PC 上运行的行业标准。为任何设备、平台或云环境构建、测试或演示软件的 IT 专业人员、开发人员和企业都可以信赖 Workstation Pro。</p><h3 id="v16-的新功能特性"><a href="#v16-的新功能特性" class="headerlink" title="v16 的新功能特性"></a>v16 的新功能特性</h3><h4 id="容器和Kubernetes支持"><a href="#容器和Kubernetes支持" class="headerlink" title="容器和Kubernetes支持"></a>容器和Kubernetes支持</h4><p>使用vctl CLI 构建/运行/拉/推容器映像。<br>支持在Workstation Pro顶部运行的KIND kubernetes集群。<br>注意：需要Windows 10 1809或更高版本</p><h4 id="新操作系统支持"><a href="#新操作系统支持" class="headerlink" title="新操作系统支持"></a>新操作系统支持</h4><p>RHEL 8.2<br>Debian的10.5<br>Fedora的32<br>CentOS的8.2<br>SLE 15 SP2 GA<br>FreeBSD 11.4<br>ESXi 7.0<br>对DirectX 11和OpenGL 4.1的支持</p><h4 id="沙盒图形"><a href="#沙盒图形" class="headerlink" title="沙盒图形"></a>沙盒图形</h4><p>通过从vmx中删除图形渲染并将其作为单独的沙箱进程运行，可以增强虚拟机的安全性。</p><h4 id="USB-3-1控制器支持"><a href="#USB-3-1控制器支持" class="headerlink" title="USB 3.1控制器支持"></a>USB 3.1控制器支持</h4><p>虚拟机虚拟XHCI控制器从USB 3.0更改为USB 3.1，以支持10 Gbps。</p><h4 id="更大的虚拟机"><a href="#更大的虚拟机" class="headerlink" title="更大的虚拟机"></a>更大的虚拟机</h4><p>32个虚拟CPU<br>128 GB虚拟内存<br>注意：运行具有32个vCPU的虚拟机要求您的主机和客户机操作系统都支持32个逻辑处理器。<br>8 GB虚拟图形内存</p><h4 id="暗模式"><a href="#暗模式" class="headerlink" title="暗模式"></a>暗模式</h4><p>Workstation 16 Pro支持暗模式，以优化用户体验。</p><p>注意：要求主机操作系统为Windows 10 1809或更高版本</p><h4 id="vSphere-7-0支持"><a href="#vSphere-7-0支持" class="headerlink" title="vSphere 7.0支持"></a>vSphere 7.0支持</h4><p>在Workstation 16中，您可以执行以下操作：</p><p>连接到vSphere 7.0。<br>将本地虚拟机上载到vSphere 7.0。<br>将在vSphere 7.0上运行的远程虚拟机下载到本地桌面。</p><h4 id="性能改进"><a href="#性能改进" class="headerlink" title="性能改进"></a>性能改进</h4><p>提高文件传输速度（拖放，复制和粘贴）<br>改善了虚拟机关闭时间。<br>改进的虚拟NVMe存储性能。</p><h4 id="改进的辅助功能支持"><a href="#改进的辅助功能支持" class="headerlink" title="改进的辅助功能支持"></a>改进的辅助功能支持</h4><p>添加了可访问性改进，因此Workstation Pro符合WCAG 2.1标准。</p><p><img src="https://s1.ax1x.com/2022/11/06/xXglff.jpg"></p><h3 id="激活方式"><a href="#激活方式" class="headerlink" title="激活方式"></a>激活方式</h3><h4 id="16版本"><a href="#16版本" class="headerlink" title="16版本"></a>16版本</h4><p>ZF3R0-FHED2-M80TY-8QYGC-NPKYF</p><h4 id="15版本"><a href="#15版本" class="headerlink" title="15版本"></a>15版本</h4><p>可以使用网盘附带的注册机算key激活，或者直接使用下面的一组激活即可</p><p>FG78K-0UZ15-085TQ-TZQXV-XV0CD</p><p>ZA11U-DVY97-M81LP-4MNEZ-X3AW0</p><p>YU102-44D86-48D2Z-Z4Q5C-MFAWD</p><h3 id="系统要求"><a href="#系统要求" class="headerlink" title="系统要求"></a>系统要求</h3><p>支持使用2011年或以后推出的使用处理器（CPU）的系统， 但 以下情况除外：</p><p>基于2011 Bonnell微体系结构的Intel Atom处理器。例如，Atom Z670 / Z650和Atom N570。<br>使用基于2012 Saltwell微体系结构的Intel Atom处理器的系统。例如，Atom S1200，Atom D2700 / D2500和Atom N2800 / N2600。<br>使用基于Llano和Bobcat微体系结构的AMD处理器的系统。例如，代号为Hondo，Ontario，Zacate和Llano。<br>以下系统 都 还支持：使用基于2010的Westmere微架构系统的英特尔处理器。例如，至强5600，至强3600，Core i7-970，Core i7-980和Core i7-990。</p><h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><ul><li>Workstation Pro 无法在 Ubuntu 22.04 主机操作系统上启动<br>在 Ubuntu 22.04 主机操作系统上安装 Workstation Pro 后，由于构建 vmmon 和 vmnet 内核模块时出现编译错误，应用程序无法启动。<br>现已解决该问题。</li></ul><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>官网下载：<a href="https://www.vmware.com/go/getworkstation-win">https://www.vmware.com/go/getworkstation-win</a></p><p><a href="https://pan.quark.cn/s/1679072c6d07">https://pan.quark.cn/s/1679072c6d07</a></p><p><a href="http://www.123pan.com/s/HQeA-aX1Sh">http://www.123pan.com/s/HQeA-aX1Sh</a></p><p><a href="https://pan.baidu.com/s/1sa7Fq9AW2Nsx4tsM5CrFXA">https://pan.baidu.com/s/1sa7Fq9AW2Nsx4tsM5CrFXA</a> 提取码：fpii</p><h2 id="VMware-Workstation-16-2-3-免激活精简版"><a href="#VMware-Workstation-16-2-3-免激活精简版" class="headerlink" title="VMware Workstation 16.2.3 免激活精简版"></a>VMware Workstation 16.2.3 免激活精简版</h2><p>VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。VMware Workstation可在一部实体机器上模拟完整的网络环境，以及可便于携带的虚拟机器，其更好的灵活性与先进的技术胜过了市面上其他的虚拟计算机软件。对于企业的 IT开发人员和系统管理员而言， VMware在虚拟网路，实时快照，拖曳共享文件夹，支持 PXE 等方面的特点使它成为必不可少的工具。</p><p>本版本集成包含SLIC2.4、MSDM、OSX同时改了EFI BIOS；集成许可证密钥安装完自动永久激活！另外，该版最大特色是添加了DELL SLIC 2.4，号称世界史上第一位解决！喜欢精简版的不容错过。</p><h3 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h3><p>by cuiplay</p><h4 id="精简内容"><a href="#精简内容" class="headerlink" title="精简内容"></a>精简内容</h4><p>VMware Tray（托盘程序）<br>VMware VIX（导出OVF支持）<br>Visual Studio（微软VS工具集）<br>VirtualPrinter（虚拟打印机驱动）<br>VC Runtimes Redist（VC++运行库）<br>除英文、中文外的其它多国语言包文件<br>除Windows外其它VMware ToolsISO</p><h4 id="主要特色"><a href="#主要特色" class="headerlink" title="主要特色"></a>主要特色</h4><p>修改添加 APPLE OSK，解锁可安装 MAC OS X操作系统<br>修改添加 DELL SLIC2.5 + MSDM + SLP + Virtual PC XP<br>直接在安装程序中集成CDK，调整安装UI，安装好即注册</p><p>BIOS 支持OEM激活 Windows XP, 2003, 2003R2, Vista, 2008, Win7, 2008R2, 2012, 2012R2, 2016, 2019；<br>EFI BIOS 支持OEM激活 Vista, 2008, Win, 2008R2, 2012, 2012R2, 2016, 2019；<br>VISTA~2019 对安装盘无要求，导入OEM证书和系统版本对应的OEM-CDK即可激活（证书网盘已提供、CDK自行搜索）</p><p>如需安装服务器版本的 Mac OS X Leopard、Snow Leopard 10.5及更高版；<br>如上修改并用 EFI BIOS，编辑虚拟机设置 – 选项 – 高级 – 勾选“通过 EFI 而非 BIOS 引导”</p><p>如需安装Mac OS 客户机<br>官方版不支持安装，此精简版已经解除限制，具体使用：<br>新建虚拟机-&gt;硬件兼容性选VM10.x-&gt;选Apple Mac OS X<br>新建好虚拟机后，找到你新建的镜像名称文件”名称.vmx”<br>添加1行参数保存启动虚拟机即可：smc.version = “0″</p><h4 id="安装MAC-OS系统"><a href="#安装MAC-OS系统" class="headerlink" title="安装MAC OS系统"></a>安装MAC OS系统</h4><p>官方版不支持安装，绿色精简版已经解除限制，具体使用：<br>新建虚拟机-&gt;硬件兼容性选VM10.x-&gt;选Apple Mac OS X<br>新建好虚拟机后，找到你新建的镜像名称文件”名称.vmx”<br>添加1行参数保存启动虚拟机即可：smc.version = “0″</p><h4 id="启用USB3-0设备"><a href="#启用USB3-0设备" class="headerlink" title="启用USB3.0设备"></a>启用USB3.0设备</h4><p>绿化后，进入安装服务批处理界面，启用USB支持，然后<br>Windows操作系统，USB3.0的U盘等需要安装额外的驱动<br>Intel(R)_USB_3.0_eXtensible_Host_Controller_Driver<br>首先在虚拟机设置-&gt;USB控制器- &gt;兼容性-&gt;选择USB 3.0</p><h4 id="安装vmtools"><a href="#安装vmtools" class="headerlink" title="安装vmtools"></a>安装vmtools</h4><p>网盘VMware Tools目录中有WMtools全系列，选择自己需要的镜像文件，在虚拟机里面CD加载进入，即可在系统中安装</p><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://s1.ax1x.com/2022/11/06/xXglff.jpg"></p><h3 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h3><p>经过果核长期测试与使用，如果使用精简版虚拟机，出现莫名其妙的问题，请换回<a href="#VM16">官方完整版本</a></p><p>官方完整版本最为稳定。另外15.x新版本，不再支持Windows7，内存低于8G不建议使用。</p><h3 id="版本说明"><a href="#版本说明" class="headerlink" title="版本说明"></a>版本说明</h3><p>7z压缩包为绿色版，解压后需要运行！安装“VMware.cmd”，和“安装服务.cmd”</p><p>绿色版本需要运行库支持，从16版本开始，自带运行库。</p><h3 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://pan.quark.cn/s/80427a632caf">https://pan.quark.cn/s/80427a632caf</a></p><p><a href="http://www.123pan.com/s/HQeA-sX1Sh">http://www.123pan.com/s/HQeA-sX1Sh</a></p><p><a href="https://pan.baidu.com/s/1HrVTWI-yWgqNthbgg3nT8A">https://pan.baidu.com/s/1HrVTWI-yWgqNthbgg3nT8A</a> 提取码：mdeh</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;VMware-Workstation-Pro-v15-v16-2-4-官方版-激活密钥&quot;&gt;&lt;a href=&quot;#VMware-Workstation-Pro-v15-v16-2-4-官方版-激活密钥&quot; class=&quot;headerlink&quot; title=&quot;VMware</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>夸克网盘 v1.0.3 绿色版</title>
@@ -417,9 +466,9 @@
     <link href="http://byyuu.github.io/posts/JJDown.html"/>
     <id>http://byyuu.github.io/posts/JJDown.html</id>
     <published>2022-10-30T00:27:10.000Z</published>
-    <updated>2022-10-30T03:56:59.495Z</updated>
+    <updated>2022-11-06T03:34:42.309Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一个用于下载bilibili视频的PC应用程序,它能够下载99%bilibili视频(不支持番剧),并且它将会终身免费提供使用.</p><p>现在它已经支持弹幕, 4K清晰度, 互动视频, 音频以及批量下载。</p><p><img src="https://s1.ax1x.com/2022/10/30/xI8vuV.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="http://client.jijidown.com/">http://client.jijidown.com/</a></p><p><a href="https://www.123pan.com/s/HQeA-ei1Sh">https://www.123pan.com/s/HQeA-ei1Sh</a></p><p><a href="https://pan.quark.cn/s/76ae115939da">https://pan.quark.cn/s/76ae115939da</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一个用于下载bilibili视频的PC应用程序,它能够下载99%bilibili视频(不支持番剧),并且它将会终身免费提供使用.</p><p>现在它已经支持弹幕, 4K清晰度, 互动视频, 音频以及批量下载。</p><p><img src="https://s1.ax1x.com/2022/11/06/xXgI1O.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="http://client.jijidown.com/">http://client.jijidown.com/</a></p><p><a href="https://www.123pan.com/s/HQeA-ei1Sh">https://www.123pan.com/s/HQeA-ei1Sh</a></p><p><a href="https://pan.quark.cn/s/76ae115939da">https://pan.quark.cn/s/76ae115939da</a></p>]]></content>
     
     
       
@@ -454,59 +503,6 @@
 &lt;p&gt;-可以发语音、文字消息、表情、图片、视频。30M流量可以收发上千条语音。&lt;/p&gt;
 &lt;p&gt;-朋友圈，跟朋友们分享生活点滴。&lt;/p&gt;
 &lt;p&gt;-摇一摇、查看附近的人，世界不再有陌生人。&lt;/p</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>微信电脑版 v3.8.0.18 绿色修改版</title>
-    <link href="http://byyuu.github.io/posts/WeChatwl.html"/>
-    <id>http://byyuu.github.io/posts/WeChatwl.html</id>
-    <published>2022-10-29T12:13:19.000Z</published>
-    <updated>2022-10-30T03:58:07.499Z</updated>
-    
-    <content type="html"><![CDATA[<p>微信是现在非常火热的社交聊天工具，自从手机出现微信之后用户数量以亿来统计，现在腾讯内部正在进行微信电脑版的测试,虽然这个消息流传已久,此前网上也很多山寨版本。现在微信出了电脑版本，山寨的版本就渐渐消失了。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>绿色制作</p><p>防撤回</p><p>多开支持</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xI84nf.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>– 可以提取和翻译图片中的文字内容；</p><p>– 邀请人进群时可以分享群里的聊天记录；</p><p>– 群管理者可以将群里的消息置顶；</p><p>– 转发消息时可预览消息内容；</p><p>– 收藏增加最近使用等分类入口；</p><p>– 可批量管理收藏内容；</p><p>– 笔记编辑增加字体高亮和大小图模式；</p><p>– 修复了一些已知问题。</p><h2 id="OD修改"><a href="#OD修改" class="headerlink" title="OD修改"></a>OD修改</h2><pre><code>WeChatWin.dll//解除多开，且多账号可正常登陆！::解除多开限制，多账号可正常登陆！找到函数 WeChatMainWndForPC 领空的Call跟进去62FD0206 |. 84C0 test al,al //改为inc al（多号登陆不会被挤出去）62FD0208 |. 74 07 je short WeChatWi.62FD0211 62FD020A |. 33DB xor ebx,ebx62FD020C |. E9 7A010000 jmp WeChatWi.62FD038B62FD0211 |&gt; E8 6AF9FFFF call WeChatWi.62FCFB80 //改为nop（客户端无限多开）::消息防撤回字符串：pStrMsgid value is null（所在的汇编段）5704F857 85C0 test eax,eax //改为xor eax,eax5704F859 74 7B je short WeChatWi.5704F8D65704F85B . |8BC8 mov ecx,eax5704F85D . |E8 AEB46100 call WeChatWi.5766AD105704F862 . |85C0 test eax,eax5704F864 . |75 62 jnz short WeChatWi.5704F8C85704F866 . |0F1005 E0AD18&gt;movups xmm0,dqword ptr ds:[5818ADE0]5704F86D . |83EC 10 sub esp,105704F870 . |BA 74B81F58 mov edx,WeChatWi.581FB874 ; 02_manager\ChatMgr.cpp</code></pre><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官方下载：<a href="https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe">https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe</a></p><p>官方版本可以使用补丁修改，网盘也有打包好的版本，无需补丁，解压即用</p><p><a href="https://pan.quark.cn/s/3083209ff883">https://pan.quark.cn/s/3083209ff883</a></p><p><a href="https://cloud.189.cn/t/QVVJzm6zUzQr">https://cloud.189.cn/t/QVVJzm6zUzQr</a> (访问码:7ksx)</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;微信是现在非常火热的社交聊天工具，自从手机出现微信之后用户数量以亿来统计，现在腾讯内部正在进行微信电脑版的测试,虽然这个消息流传已久,此前网上也很多山寨版本。现在微信出了电脑版本，山寨的版本就渐渐消失了。&lt;/p&gt;
-&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a href=&quot;#修改说明&quot; </summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android 知乎 v8.38.0 去广告版</title>
-    <link href="http://byyuu.github.io/posts/zhihuag.html"/>
-    <id>http://byyuu.github.io/posts/zhihuag.html</id>
-    <published>2022-10-29T11:46:10.000Z</published>
-    <updated>2022-10-30T03:58:52.151Z</updated>
-    
-    <content type="html"><![CDATA[<p>知乎，发现更大的世界。</p><p><strong>【碎片时间】</strong></p><p>在工作生活间隙的碎片化时间，你可随时通过「想法」记录你的灵感、观点和思考，也可通过「想法」来获取有价值的信息</p><p>– 这个冬天，去哪儿滑雪？</p><p>– 你用手机拍过哪些好照片？</p><p>– 院线新片那么多，哪部值得看？</p><p>有想法的人，都在知乎探讨 #话题#，期待你的参与。</p><p><strong>【深度阅读】</strong></p><p>当有一段闲暇时间，想要阅读深度长文时，知乎的「问答」、「文章」和「专栏」都能满足你知识获取的需要。</p><p>– 做哪些事情可以提升生活品质？</p><p>– 有什么对身体很好的习惯或经验？</p><p>– 如何从一个空有上进心的人，变成行动上的巨人？</p><p>热门且有价值的知乎「好问题」，每一个都值得读好久。</p><p><strong>【专业新知】</strong></p><p>当你想要获取有结构化的知识时，「知乎 Live」和「知乎书店」带你进入知识的新市场。</p><p>在「知乎 Live」，主持人用语音和图文，围绕主题分享精心准备的讲座内容，你可以直接提问并获得解答，给你全新的实时语音互动问答体验。</p><p>在「知乎书店」，周刊无需付费，新书特价。你可以在知乎书店找到由知乎出品的高品质电子书，也可以发现来自众多出版社的图书电子版。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>植入了知了v22.10.02模块的版本</p><p><strong>功能：</strong></p><p>去启动页广告<br>去信息流广告<br>去回答列表广告<br>去评论广告<br>去分享广告<br>去回答底部广告<br>过滤视频<br>过滤文章<br>去信息流会员推荐<br>去回答圈子<br>去商品推荐<br>直接打开外部链接<br>禁止切换色彩模式<br>移除直播按钮<br>显示卡片类别<br>状态栏沉浸<br>解锁第三方登录<br>自定义起始页面<br>不显示小红点<br>隐藏会员卡片<br>隐藏会员按钮<br>隐藏视频按钮<br>隐藏关注按钮<br>隐藏发布按钮<br>隐藏热点通知<br>精简文章页面<br>左右划切换回答<br>移除下一个回答按钮<br>自定义过滤</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xI8yAe.jpg"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/HQeA-Jy1Sh">https://www.123pan.com/s/HQeA-Jy1Sh</a></p><p><a href="https://pan.quark.cn/s/9a81cfdccdcd">https://pan.quark.cn/s/9a81cfdccdcd</a></p><p><a href="https://pan.baidu.com/s/1bzRYFW">https://pan.baidu.com/s/1bzRYFW</a> 密码: yriu</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;知乎，发现更大的世界。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;【碎片时间】&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在工作生活间隙的碎片化时间，你可随时通过「想法」记录你的灵感、观点和思考，也可通过「想法」来获取有价值的信息&lt;/p&gt;
-&lt;p&gt;– 这个冬天，去哪儿滑雪？&lt;/p&gt;
-&lt;p&gt;– 你用</summary>
       
     
     
