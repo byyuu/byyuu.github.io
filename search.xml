@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>金山毒霸青春版桌宠提取版 v2.1</title>
+      <link href="/posts/dubazc.html"/>
+      <url>/posts/dubazc.html</url>
+      
+        <content type="html"><![CDATA[<p>金山毒霸也是国内的一款毒瘤，需要充值才能体验完整版，例如元气桌面就是他们旗下的软件，未经授权盗用别人的壁纸用于商业。</p><p>最近，他们又搞出了一款金山毒霸青春版，和正常版没什么区别，唯一的区别就是增加了二次元形象和桌宠。</p><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><p>1-1、先解压安装默认路径（黄色部分默认不改动）</p><p><img src="https://s1.ax1x.com/2022/11/09/zSR5aF.png"></p><p>解压完成后会放下面4个文件到桌面中</p><p><img src="https://s1.ax1x.com/2022/11/09/zSRH2R.png"></p><p>如果桌面没有需要打开文件夹到这里路径“C:\Program Files (x86)\kingsoft”</p><p><img src="https://s1.ax1x.com/2022/11/09/zSR68s.png"></p><p>1-2、运行注册表文件“安装桌宠.reg” 点确认是就行。</p><p><img src="https://s1.ax1x.com/2022/11/09/zSRyCj.png"></p><p>1-3、运行桌面的主程序文件快捷方式“kassistant - 运行此处”.</p><p>如果桌面没有则需要到文件夹目录“C:\Program Files (x86)\kingsoft\kingsoft antivirus\app\assistant”中运行 “kassistant - 运行此处”这个文件就行（不要点kassistant.exe 不然打开后就是转圈圈儿）.</p><p><img src="https://s1.ax1x.com/2022/11/09/zSRWrV.png"></p><p>1-4、第一次打开会出现闪一下就没了，也没出现桌宠人物是正常的，</p><p>需要先结束刚运行的进程，可以右键管理员运行结束进程 或 者自行“任务管理器→详细信息中”找到“kassistant.exe”进程并结束它（两个方式选其中一个即可）。</p><p><img src="https://s1.ax1x.com/2022/11/09/zSRI54.png"></p><p>1-5、再次运行上面1-3的步骤，运行桌面的主程序文件快捷方式“kassistant - 运行此处”文件.桌宠就出现啦。 后面如果不需要或关闭可以通过上面1-4来关闭桌宠。</p><p>对了桌宠不用担心点到后会弹出其他界面哦，基本都切了。</p><p>PS:这时候如果没有注册运行后会有这个报错,有注册“安装桌宠.reg” 就不会。</p><p><img src="https://s1.ax1x.com/2022/11/09/zSRgvq.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-1KDHH">https://www.123pan.com/s/v0HKVv-1KDHH</a></p><p><a href="https://www.feijix.com/s/cj0bFAk">https://www.feijix.com/s/cj0bFAk</a></p><p><a href="https://wwp.lanzoub.com/b02dv14mj">https://wwp.lanzoub.com/b02dv14mj</a> 密码:emnw</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>RustDesk(免费开源远程桌面控制软件)v1.1.9</title>
       <link href="/posts/RustDesk.html"/>
       <url>/posts/RustDesk.html</url>
