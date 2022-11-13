@@ -6,7 +6,7 @@
   <link href="http://byyuu.github.io/atom.xml" rel="self"/>
   
   <link href="http://byyuu.github.io/"/>
-  <updated>2022-11-09T13:24:22.847Z</updated>
+  <updated>2022-11-13T10:28:46.225Z</updated>
   <id>http://byyuu.github.io/</id>
   
   <author>
@@ -15,6 +15,185 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows 10 Pro 22H2(19045.2075) 优化精简版/极度精简版</title>
+    <link href="http://byyuu.github.io/posts/ghwin10.html"/>
+    <id>http://byyuu.github.io/posts/ghwin10.html</id>
+    <published>2022-11-13T10:22:45.000Z</published>
+    <updated>2022-11-13T10:28:46.225Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.lovestu.com/uploads/2022/04/ghwindows10.webp"></p><p>考虑到部分精简系统，有各种下载限制，作者靠此内容收费，或者捆绑垃圾软件等，于是本站决定开始制作优化精简系统，体积控制出色，使用稳定，无任何捆绑，无内置第三方软件，无锁定主页，免费提供给大家使用，欢迎提出修改意见。</p><p>Windows版本，暂时只做专业版精简，同时，默认开启内置administrator账户，开放系统最高权限。适合有电脑基础的用户使用。</p><h2 id="版本说明"><a href="#版本说明" class="headerlink" title="版本说明"></a>版本说明</h2><p>基于Windows10 官方原版19045.2075 x64 制作</p><p>真机实测通过</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p>2022-10-08</p><p>新增极度精简版本，体积1.7G</p><p>2022-9-30</p><p>更新底包版本：19045.2075</p><p>修复之前用户反馈的部分软件无法安装问题</p><p>适度精简，适合长期使用</p><p>2022-7-27</p><p>更新底包版本：19044.1865</p><p>增加无账户版本</p><p>2022-7-18</p><p>更新底包版本：19044.1826</p><p>恢复计算器、media player</p><p>修改默认notepad为notepad2，性能更强</p><p>替换系统默认壁纸</p><p>保留一些游戏组件</p><p>2022-6-16</p><p>更新底包版本：19044.1766</p><p>2022-5-17</p><p>更新底包版本：19044.1706</p><p>2022-5-4</p><p>更新底包版本：19044.1682</p><p>修复输入法无候选框</p><p>保留游戏组件，.net组件</p><p>修复应用商店无法下载程序</p><p>修复进入网络和Intel设置报错</p><p>保留IE，移除安装版edge，有需要请自行下载</p><p>保留自带剪切板</p><p>版本测试几天，使用稳定，无报错。已经作为果核自己主力机使用</p><p>2022-4-24</p><p>去除IE，保留edge</p><p>解决打印机驱动无法安装</p><p>禁用以管理员批准模式运行所有管理员</p><p>恢复右键发送到桌面快捷方式</p><p>通知中心被移除错位</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@果核剥壳</p><p>移除所有Windows UWP程序，仅保留应用商店、计算器</p><p>替换默认壁纸</p><p>修改默认notepad为notepad2，性能更强</p><p>移除系统更新</p><p>关闭Windows Defender</p><p>跳过安装界面，安装完成后直接进系统</p><p>默认使用Administrator账户，开启最高权限</p><p>移除多余语言</p><p>移除小娜</p><p>干掉微软隐私收集，不上传数据到微软服务器</p><p>精简300多项Windows不需要的组件，就不学别人列出来一大堆列表了</p><p>禁止生成日志</p><p>移除多余右键菜单</p><p>优化Windows资源管理器、Windows菜单</p><p>优化开关机速度，关闭系统推荐，自动播放</p><p>优化修改系统100多项设置，不一一列举了，没意义</p><h2 id="安装截图"><a href="#安装截图" class="headerlink" title="安装截图"></a>安装截图</h2><p><img src="https://img.lovestu.com/uploads/2022/04/ghWindows1019044.1679.webp"></p><p><img src="https://img.lovestu.com/uploads/2022/06/win1021h21826.webp"></p><h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2><p>系统使用esd格式压缩，不能直接挂载安装，需要进入PE系统，使用系统安装器安装</p><p>请勿使用内置广告的PE系统，如大x菜，老x桃。</p><p><strong>推荐使用</strong></p><p>微PE、优启通等纯净版本PE系统</p><p>可以使用KMS、或者数字权利激活工具即可激活</p><h2 id="校验信息"><a href="#校验信息" class="headerlink" title="校验信息"></a>校验信息</h2><p>文件名称：D:\down\win10lite\【果核】Windows 10(19045.2075) 专业优化版-无账户.esd<br>文件大小：2765866196 字节<br>MD5 ：634543F332CA241DC5B0EFBA9BCA361C</p><p>文件名称：D:\down\win10lite\【果核】Windows 10(19045.2075) 专业优化版-admin.esd<br>文件大小：2766360882 字节<br>MD5 ：A3EAE2126272AC8CD0C91CFEEBC82DC6</p><p>文件名称：D:\down\【果核】Windows10(19045.2075)极限精简-无账户.esd<br>文件大小：1819160738 字节<br>MD5 ：DAD3D7C0107F9A88694A5DCB99C9CD51</p><p>文件名称：D:\down\【果核】Windows10(19045.2075)极限精简-admin.esd<br>文件大小：1821204940 字节<br>MD5 ：3B0E42956858B82EA9786AED709B1CA2</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>admin为最高权限版本，自带Administrator用户，安装后直接进系统。无账户，需要自己设置账号。</p><p>久等了各位，系统体积没有再追求非常精简，针对评论大家要求的一些软件，都测试能正常安装。</p><p><a href="https://www.feijix.com/s/ZiEYzST">https://www.feijix.com/s/ZiEYzST</a></p><p><a href="https://pan.quark.cn/s/0c2b7c1346ae">https://pan.quark.cn/s/0c2b7c1346ae</a></p><p><a href="https://www.aliyundrive.com/s/HNpQkfMQtEE">https://www.aliyundrive.com/s/HNpQkfMQtEE</a></p><p><a href="https://pan.baidu.com/s/1JMNIlD2nSIRYPh8R-ZOKdQ?pwd=ghxi">https://pan.baidu.com/s/1JMNIlD2nSIRYPh8R-ZOKdQ?pwd=ghxi</a></p><p><a href="https://www.123pan.com/s/HQeA-w71Sh">https://www.123pan.com/s/HQeA-w71Sh</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img.lovestu.com/uploads/2022/04/ghwindows10.webp&quot;&gt;&lt;/p&gt;
+&lt;p&gt;考虑到部分精简系统，有各种下载限制，作者靠此内容收费，或者捆绑垃圾软件等，于是本站决定开始制作优化精简系统，体积控制出色，</summary>
+      
+    
+    
+    
+    <category term="系统专区" scheme="http://byyuu.github.io/categories/%E7%B3%BB%E7%BB%9F%E4%B8%93%E5%8C%BA/"/>
+    
+    
+    <category term="Windows10系统" scheme="http://byyuu.github.io/tags/Windows10%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 10 v2022-L.1345 神州网信政府版</title>
+    <link href="http://byyuu.github.io/posts/Win10sz22.html"/>
+    <id>http://byyuu.github.io/posts/Win10sz22.html</id>
+    <published>2022-11-13T10:16:38.000Z</published>
+    <updated>2022-11-13T10:29:10.499Z</updated>
+    
+    <content type="html"><![CDATA[<p>Windows 10 神州网信政府版（以下简称CMGE）V2022-L是在 Windows 10 21H2的基础上，根据中国有关法律、法规、标准的规定，针对中国专业领域的需求，定制开发的一个操作系统版本。</p><ol><li>产品激活</li></ol><p>CMGE产品的激活基于 Windows 10 开发，激活服务器位于中国境内的神州网信数据中心。</p><ol start="2"><li>系统补丁和升级</li></ol><p>CMGE产品的系统补丁和升级服务器位于中国境内且由神州网信技术有限公司提供。</p><ol start="3"><li>数字证书</li></ol><p>CMGE内置中国政府指定数字证书机关的根证书。</p><ol start="4"><li>GB/T 30278-2013</li></ol><p>CMGE的系统默认安全设置符合GB/T 30278-2013《信息安全技术政务计算机终端核心配置规范》的要求。</p><ol start="5"><li>系统精简</li></ol><p>移除/禁用了 Windows 自带的办公类、个人助理类、娱乐生活类应用及基于云的服务：</p><p>a. 移除了下列应用/服务：</p><p>天气、获取帮助、使用技巧、3D 查看器、Office Hub、Microsoft Solitaire Collection、混合现实门户、OneNote、人脉、Store Purchase App、钱包、闹钟和时钟、日历、邮件、反馈中心、地图、Microsoft Store、Xbox、Xbox Game Bar、Groove音乐、电影和电视、Edge、Quick Assist等。</p><p>b. 禁用了下列应用/服务：</p><p>Cortana、Windows Defender、Administrative Shares、Fax、Windows Media Player、Windows Hello、远程桌面、Application Management、Connected User Experiences and Telemetry、Microsoft Account Sign-in Assistant、Netlogon、Performance Logs &amp; Alerts、Problem Reports and Solutions Control Panel Support、Remote Desktop Services UserMode Port Redirector、Windows Error Reporting Service、Windows 安全中心服务、Windows 许可证管理器服务等。</p><h2 id="新特性"><a href="#新特性" class="headerlink" title="新特性"></a>新特性</h2><p>Windows 10 神州网信政府版 V2022-L 和 V2020-L 采用同样的基础和架构，具有更多的新特性：</p><ol><li><p>集成自研“控制中心”，为系统激活、更新提供统一入口，同时提供系统信息查看及资源中心入口；</p></li><li><p>支持多种场景的统一激活客户端，包括：出厂预激活、存量设备激活、VDI激活、批量激活；</p></li><li><p>在“设置-&gt;更新和安全-&gt;激活”里集成“启动激活客户端”入口；</p></li><li><p>支持Intel 12代处理器；</p></li><li><p>集成自研CMGE累积更新离线安装工具CSUI；</p></li><li><p>优化系统功能更新，用户可选择推迟安装功能更新；</p></li><li><p>简化OOBE流程，只需完成用户账户设置便可直接进入系统；</p></li><li><p>可选功能在线、离线安装，包含.Net Framework 3.5等，详情请参见OPK_HOWTO。</p></li></ol><p><img src="https://img.lovestu.com/uploads/2022/07/20220716131837.webp"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://pan.quark.cn/s/092937f78818">https://pan.quark.cn/s/092937f78818</a></p><p><a href="https://www.123pan.com/s/HQeA-t61Sh">https://www.123pan.com/s/HQeA-t61Sh</a></p><p><a href="https://www.aliyundrive.com/s/zWJSt4mhpnP">https://www.aliyundrive.com/s/zWJSt4mhpnP</a></p><p><a href="https://cloud.189.cn/t/Yr6r2qF7jm6n">https://cloud.189.cn/t/Yr6r2qF7jm6n</a> (访问码:3rys)</p><p><a href="https://pan.baidu.com/s/1Du_taMfyr2U3EaHR44agPQ?pwd=ghxi">https://pan.baidu.com/s/1Du_taMfyr2U3EaHR44agPQ?pwd=ghxi</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Windows 10 神州网信政府版（以下简称CMGE）V2022-L是在 Windows 10 21H2的基础上，根据中国有关法律、法规、标准的规定，针对中国专业领域的需求，定制开发的一个操作系统版本。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;产品激活&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;CM</summary>
+      
+    
+    
+    
+    <category term="系统专区" scheme="http://byyuu.github.io/categories/%E7%B3%BB%E7%BB%9F%E4%B8%93%E5%8C%BA/"/>
+    
+    
+    <category term="Windows10系统" scheme="http://byyuu.github.io/tags/Windows10%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【不忘初心】Windows11(22000.593) 4合1纯净版</title>
+    <link href="http://byyuu.github.io/posts/Win11bwcx.html"/>
+    <id>http://byyuu.github.io/posts/Win11bwcx.html</id>
+    <published>2022-11-13T10:06:39.000Z</published>
+    <updated>2022-11-13T10:14:27.439Z</updated>
+    
+    <content type="html"><![CDATA[<p>此WIN11全新的UI界面出炉！可以说这一次Windows 11全新升级，无论是从Logo上还是UI界面设计，都有很大的变化！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！</p><p>适度精简版：映像包含专业版、企业版、教育版及专业工作站版。此版可正常更新补丁，保留XBOX组件，关闭按流量计费。</p><p>不可更新版：映像包含专业版、专业工作站版。不能更新补丁，使用全新的精简方案，体积更小、进程。</p><h2 id="系统特色"><a href="#系统特色" class="headerlink" title="系统特色"></a>系统特色</h2><ul><li>纯净无任何第三方软件。</li><li>追求稳定、没有过度优化，可以正常办公。</li><li>优化后台进程首次开机大约50个进程左右；</li><li>恢复Internet Explorer浏览器，开始菜单—所有应用 中可以打开。</li><li>提供恢复WIN10经典右键.cmd和 恢复WIN11原版右键.cmd</li><li>需要用到指纹和人脸识别的，请用自建账户，Admin原生不支持；</li><li>避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能。</li><li>提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可。</li><li>默认关闭7G预留空间。（如果有）</li><li>恢复要 “使用此计算机必须输入用户密码”的勾选框，原版给隐藏了。</li><li>IE主页默认设置为百度，原版是先打开微软再跳转百度。</li><li>提供Windows store商店安装包。</li><li>提供相机APP安装包。</li><li>提供 OneDrive程序安装包，其实网上也可以下载到。</li><li>更新补丁后如打开组策略错误和安全中心图标，用“不忘初心-精简版系统优化修复工具V1.1”修复即可！</li><li>右键添加：管理员取得所有权、复制文件路径、 复制文件夹路径、在此处打开命令行</li></ul><p>如需取消右键 管理员取得所有权 、复制文件路径 文件夹路径 请用CMD 运行以下命令即可删除：</p><pre><code>reg delete “HKEY_CLASSES_ROOT\*\shell\runas” /freg delete “HKEY_CLASSES_ROOT\Directory\shell\copypath” /freg delete “HKEY_CLASSES_ROOT\*\shell\copypath” /f</code></pre><p>如需取消右键 在此处打开命令行 请用CMD 运行以下命令即可删除：</p><pre><code>reg delete “HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCMDHere” /f</code></pre><h2 id="优化列表"><a href="#优化列表" class="headerlink" title="优化列表"></a>优化列表</h2><p>禁止 windows 聚焦锁屏<br>禁止 内置管埋员帐户批准模式<br>禁止 首次登录动画(自建账户版除外)<br>禁止 使用SmartScreen在线服务来检查IE中的网页内答<br>启用 在恢复时显示登录屏幕（从屏保恢复桌面）<br>禁止 CD烧录功能<br>禁止 使用 Smartscreen 在线服务检测Edge浏览器中的网员内答<br>禁止 偶尔在“开始”屏幕中显示建议<br>禁止 向Microsoft发送有关我的写作习惯的信息，以便在将来改进键入与写入功能<br>禁止 在锁屏界面获取更多的有趣元素、提示以及技巧<br>禁止 打开SmartScreen筛迭器，以检查Windows应用商店应用所使用的Web内容<br>禁止 收集写作文本（ink-墨迹）让Windows和小娜更好的了解你<br>禁止 收集通讯录让Windows和小娜更好的了解你<br>禁止 收集键入文本让和小娜更好的了解你<br>禁止 自动安装建议的应用<br>禁止 通过将用户的输入数据发送给Microsoft来个性化用户的语音输入、键盘输入和墨迹输入<br>禁用 系统还原将任务栏中的 Cortana 调整为隐藏（小娜版显示图标）<br>隐藏“任务视图”按钮<br>将用户账号（UAC）调整为从不通知<br>不允许在开始菜单中显示建议<br>关闭在应用商店中查找关联应用<br>关闭应用商品推广<br>关闭“使用Windows时获取技巧和建议”<br>关闭“突出显示新安装的程序”<br>禁止自动安装推荐的应用程序<br>关闭游戏录制工具 （游戏版开启）<br>登陆界面默认打开小键盘<br>打开资源管理器时显示“此电脑”<br>显示所有文件扩展名<br>隐藏可执行文件小盾牌<br>隐藏NTFS蓝色箭头压缩标识<br>创建快捷方式时不添加“快捷方式”文字<br>禁止自动播放<br>资源管理器窗口最小化时显示完整路径<br>快速访问不显示常用文件夹<br>快速访问不显示最近使用的文件<br>将语言栏隐藏到任务栏<br>隐藏语言栏上的帮助按钮<br>在桌面显示“此电脑”<br>在桌面显示“回收站”<br>在桌面显示“控制面板”<br>禁用可执行文件的“兼容性疑难解答”右键菜单<br>禁用磁盘的“以便携方式打开“右键菜单<br>禁用新建的“联系人”右键菜单<br>禁用文件、磁盘以及属性的“还原以前版本”右键菜单<br>禁用所有对象的“共享”右键菜单<br>禁用文件、目录、桌面、磁盘以及库的“授予访问权限”右键菜单<br>禁用目录、文件夹、所有对象的“始终脱机可用”右键菜单<br>禁用文件、目录、桌面、所有对象的“工作文件夹”右键菜单<br>Internet Explorer 其他程序从当前窗口的新选项卡打开链接<br>Internet Explorer 关闭建议的网站<br>Internet Explorer 跳过 IE 首次运行自定义设置<br>Internet Explorer 不保存附件的区域信息<br>Internet Explorer 锁定工具栏<br>Internet Explorer 将同时下载数目调整到 10<br>Internet Explorer 遇到弹出窗口时始终在新选项卡中打开弹出窗口<br>Internet Explorer 关闭自动更新<br>Internet Explorer 隐藏右上角的笑脸反馈按钮<br>微软拼音默认为英文输入<br>关闭微软拼音云计算<br>Windows 更新不包括驱动程序<br>Windows 更新不包括恶意软件删除工具<br>Windows 更新调整为“不检查更新”<br>记事本启用自动换行<br>记事本始终显示状态栏<br>关闭远程协助<br>禁用程序兼容性助手<br>禁用远程修改注册表<br>禁用错误报告<br>禁用家庭组<br>禁用客户体验改善计划<br>Windows Media Player 不显示首次使用对话框<br>启用 Windows 照片查看器<br>蓝屏时自动重启<br>关闭休眠<br>关闭快速启动<br>禁用组件堆栈<br>禁用账号登录日志报告</p><p><img src="https://s1.ax1x.com/2022/11/13/zFO7a8.jpg"></p><h2 id="校验信息"><a href="#校验信息" class="headerlink" title="校验信息"></a>校验信息</h2><p>文件名：【不忘初心】Windows11_22000.588_X64_可更新[纯净精简版][2.71G](2022.3.18).iso<br>文件大小: 2919071744 字节<br>MD5: C76D72394FC94EDDB9EF09DEE00963F1<br>SHA1: EAEEA74F805FF6AA8FD41177F671CAE5F81301A1<br>CRC32: C62A817A</p><p>文件名：【不忘初心】Windows11_22000.593_X64_无更新[深度精简版][1.37G](2022.4.2).esd<br>文件大小: 1471156574 字节<br>MD5: A6BE76D27D33FF49AF67D7656932DC51<br>SHA1: 8BBDAA410D12B70A2A0686D76EE08B0589BBAD51<br>CRC32: B5D95ECA</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://alywp.net/4KR39X">https://alywp.net/4KR39X</a></p><p><a href="https://pan.baidu.com/s/1vR_wh6wWtlgpxR-n5ChmCQ?pwd=ghxi">https://pan.baidu.com/s/1vR_wh6wWtlgpxR-n5ChmCQ?pwd=ghxi</a></p><p><a href="http://www.123pan.com/s/HQeA-PP1Sh">http://www.123pan.com/s/HQeA-PP1Sh</a></p><p><a href="https://cloud.189.cn/t/ARRvIb3iii6n">https://cloud.189.cn/t/ARRvIb3iii6n</a></p><p><a href="https://pan.quark.cn/s/b2069598074d">https://pan.quark.cn/s/b2069598074d</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;此WIN11全新的UI界面出炉！可以说这一次Windows 11全新升级，无论是从Logo上还是UI界面设计，都有很大的变化！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/</summary>
+      
+    
+    
+    
+    <category term="系统专区" scheme="http://byyuu.github.io/categories/%E7%B3%BB%E7%BB%9F%E4%B8%93%E5%8C%BA/"/>
+    
+    
+    <category term="Windows11系统" scheme="http://byyuu.github.io/tags/Windows11%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【朝气蓬勃】Win11 22H2 v22622.586 专业工作站优化版</title>
+    <link href="http://byyuu.github.io/posts/Win11zqpb.html"/>
+    <id>http://byyuu.github.io/posts/Win11zqpb.html</id>
+    <published>2022-11-13T09:52:56.000Z</published>
+    <updated>2022-11-13T10:09:37.100Z</updated>
+    
+    <content type="html"><![CDATA[<p>终于，22622上了22H2通道，比22000性能好很多也稳定很多，于是乎出一个优化微创版。如果这个作品合你心意，那么我感到荣幸至极。</p><h2 id="版本特点"><a href="#版本特点" class="headerlink" title="版本特点"></a>版本特点</h2><p>提供ISO镜像，带Administrator为无人值守版本（无人值守版本无WinRE），带RE为有恢复环境的版本，ESD镜像为不可打补丁和增删功能的WinSxS极限精简版</p><p>提供Windows目录下被修改/替换/删除的镜像原始文件和常用注册表恢复</p><p>如果你需要用到Hyper-V或WSL/WSA，那么请在reg_restore.zip恢复Exploit Protection，需要MPO、幽灵熔断防护等都可在此恢复。不希望看到多余的右键菜单，分享链接有提供火绒右键菜单管理单文件版，可自行关闭</p><p>不封装，保留原味驱动，保留绝大部分功能组件和附件，可更新</p><p>集成.NET 3.5框架<br>Win32计算器顶替UWP计算器并替换来自MDL的Metro皮肤<br>照片查看器顶替UWP图片并替换来自MDL的Metro皮肤<br>IE顶替Edge并在桌面显示图标<br>Notepad2顶替传统记事本并卸载UWP记事本<br>桌面右键新增传统个性化<br>桌面右键菜单添加上帝模式、控制面板、设备管理器、文件资源管理器选项、系统配置、注册表编辑器<br>此电脑右键添加”关闭显示器”菜单<br>新建菜单添加”注册表”、”批处理”<br>回收站右键”清除DNS缓存”、清空回收站“菜单置顶<br>打开剪贴板历史记录</p><p><img src="https://s1.ax1x.com/2022/11/13/zFOa8J.png"></p><h2 id="优化调整"><a href="#优化调整" class="headerlink" title="优化调整"></a>优化调整</h2><p>禁用 Microsoft 用于 Windows 更新保留的存储空间<br>关闭Windows 更新自动更新驱动（无人值守+RE版本仅未安装时更新驱动）<br>禁用自动下载并安装第三方应用<br>禁用自动执行 Windows 升级，将Windows 自动更新调整为手动更新，排除驱动程序，排除恶意软件删除工具<br>禁用 Windows 防火墙<br>关闭 Exploit Protection<br>禁用运行监视器、错误报告服务、远程协助、远程修改注册表、程序兼容性助手服务、”Windows 跟踪应用启动”等一系列信息收集服务<br>干翻遥测、”客户体验改善计划”、”体验共享”等相关隐私收集（如果觉得过分或者不够完美可以使用wpd.app和dl5.oo-software.com/files/ooshutup10/OOSU10.exe调整）<br>关闭MPO，防止GPU拖前台后腿<br>注册表和更新补丁携手帮扶打印机<br>注册表法关闭驱动签名验证<br>禁用超级预读取服务<br>微软拼音默认为英语输入<br>禁止应用”后台运行”<br>关闭”写入调试信息”、”写入系统日志”、禁止”C盘创建DumpStack”文件<br>关闭打开程序”安全警告”<br>关闭存储感知<br>关闭Store”自动更新”<br>打开剪贴板历史记录<br>打开自动登录选项<br>APPX开发人员模式<br>文件打开方式添加“记事本”<br>MSI 文件增加“解包”菜单<br>HTML 右键增加“编辑”菜单<br>Shift 右键添加“复制路径”菜单<br>Shift 右键添加”隐藏”功能<br>未知文件添加”用记事本打开”菜单<br>Shift 右键添加”在此处打开命令窗口”<br>恢复照片查看器<br>关闭防病毒软件监控<br>不加载多余的DLL文件<br>关闭幽灵熔断防护<br>禁止在重新启动时覆盖内存<br>网络连接设置为按流量计费<br>IE浏览器优化<br>关彻WD遗孤Exploit Protection<br>关闭鼠标加速<br>关闭体验反馈<br>UAC不提示并开启Administrator账户批准模式<br>禁止登录后创建成功登录报告功能<br>开启TSX<br>开启硬件优化<br>其他调整详见注册表文件</p><p><img src="https://s1.ax1x.com/2022/11/13/zFOt5F.png"></p><h2 id="精简列表"><a href="#精简列表" class="headerlink" title="精简列表"></a>精简列表</h2><p>（仅无人值守版精简此条）简体中文之外的其他语言和无用字体、Windows Media Player<br>精简并禁用 Windows Defender、移除安全中心、关闭”启用安全中心”通知、安全中心监视服务、SmartScreen、注册表开除SmartScreen进程<br>干翻遥测（Asimov）、”客户体验改善计划（CEIP）”、”体验共享”等相关隐私收集（如果觉得过分或者不够完美可以使用wpd.app和dl5.oo-software.com/files/ooshutup10/OOSU10.exe调整）<br>删除系统基本无用菜单<br>传统记事本顶替UWP记事本<br>清理Adobe Flash组件残留<br>Windows Media Player<br>游戏浏览器<br>语音识别和小娜、轻松访问相关组件<br>Windows TIFF IFilter（OCR）<br>Windows 系统评估工具(WinSAT)<br>Windows 邮件<br>WiFi 感知<br>Windows 错误报告<br>Windows 会员中心<br>OneDrive 桌面客户端<br>轻松传送<br>安全中心<br>指定访问锁定应用 – Windows 展台模式<br>Async Text 服务 – 人脉和地图应用的消息扩展<br>CBSPreview – 相机条形码扫描仪应用<br>Content Delivery Manager – 自动安装赞助或推广的应用、建议和广告<br>ECApp – 用于眼球运动控制的 Modern UI 对话框应用<br>Edge 经典浏览器<br>Edge 开发者工具客户端<br>地图控件<br>内容传递管理器<br>OOBE Network Captive Portal -强制网络门户<br>OOBE 网络连接流<br>People Experience 主机 – 人脉栏（People Hub）<br>零售演示内容<br>Secure Assessment Browser（Take Test 应用）<br>Skype ORTC<br>Webcam Experience<br>Windows 混合现实<br>Windows 阅读器 (PDF)<br>3D 查看器<br>Advertising Xaml广告商<br>闹钟和时钟<br>相机应用<br>反馈中心<br>电影和电视<br>获取帮助<br>Groove 音乐<br>地图应用<br>消息应用<br>Microsoft Pay<br>移动套餐<br>我的 Office<br>混合现实门户<br>OneNote<br>手机连接<br>照片<br>画图 3D<br>Print 3D<br>Services Store Engagement<br>Windows 应用商店应用<br>应用商店体验主机<br>Skype<br>便笺<br>Solitaire Collection<br>人脉<br>使用技巧<br>录音机应用<br>天气应用<br>小组件<br>家庭应用<br>Xbox相关（核心保留，可正常使用游戏优化等，可通过应用商店恢复。）</p><p>桌面壁纸来源：Pixiv画师banishment作品</p><p><img src="https://s1.ax1x.com/2022/11/13/zFOUC4.png"></p><h2 id="检验信息"><a href="#检验信息" class="headerlink" title="检验信息"></a>检验信息</h2><p>文件名称: Grace22622.586PW-22H2Beta-AdministratorOL.iso<br>文件大小: 3.79 GB (4,078,305,280 字节)<br>修改时间: 2022年08月28日，12:53:16<br>MD5: d229e7cab937bc77fd7ada94873e873f<br>SHA1: 0101a25f80dbf7509eb213aad63db04b2447a497</p><p>文件名称: Grace22622.586PW-22H2Beta-AdministratorSxSOpt.esd<br>文件大小: 1.57 GB (1,688,105,564 字节)<br>修改时间: 2022年08月28日，16:31:48<br>MD5: 10c3c5b555673e090f86d8b8476eca47<br>SHA1: 05ae82edfcdee4afcd7ca066c7af0fb00a5008b0</p><p>文件名称: Grace22622.586PW-22H2Beta-OptLite.iso<br>文件大小: 4.36 GB (4,682,219,520 字节)<br>修改时间: 2022年08月28日，10:18:10<br>MD5: eaaae7103a9b65da21227ee9efec38c5<br>SHA1: a08797c27872ca3c3be4b66b21d798c3f971c7c7</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>京服隧道：<a href="https://pan.huang1111.cn/s/YeMQIA">https://pan.huang1111.cn/s/YeMQIA</a></p><p>OneDrive国际版：<a href="https://liuxiane5-my.sharepoint.com/:f:/g/personal/zxgu183_e5_liuxianl_com/ErZsK-TYX81Og2C9GHcwu48BgAd7yXuOi0j5183OHRKtrg?e=OesUb7">点此跳转</a></p><p>百度网盘：<a href="https://pan.baidu.com/s/1XTG980-rieN8ILHjnzJxEw?pwd=ghxi">https://pan.baidu.com/s/1XTG980-rieN8ILHjnzJxEw?pwd=ghxi</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;终于，22622上了22H2通道，比22000性能好很多也稳定很多，于是乎出一个优化微创版。如果这个作品合你心意，那么我感到荣幸至极。&lt;/p&gt;
+&lt;h2 id=&quot;版本特点&quot;&gt;&lt;a href=&quot;#版本特点&quot; class=&quot;headerlink&quot; title=&quot;版本特点&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    <category term="系统专区" scheme="http://byyuu.github.io/categories/%E7%B3%BB%E7%BB%9F%E4%B8%93%E5%8C%BA/"/>
+    
+    
+    <category term="Windows11系统" scheme="http://byyuu.github.io/tags/Windows11%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>真有这么好听？原神 kawaii bass</title>
+    <link href="http://byyuu.github.io/posts/BV1Wy4y1i7AL.html"/>
+    <id>http://byyuu.github.io/posts/BV1Wy4y1i7AL.html</id>
+    <published>2022-11-13T03:13:27.000Z</published>
+    <updated>2022-11-13T03:26:27.184Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=800725850&amp;bvid=BV1Wy4y1i7AL&amp;cid=268240143&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"></iframe></div><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1805749729&amp;auto=0&amp;height=66"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=800725850&amp;</summary>
+      
+    
+    
+    
+    
+    <category term="视频专区" scheme="http://byyuu.github.io/tags/%E8%A7%86%E9%A2%91%E4%B8%93%E5%8C%BA/"/>
+    
+    <category term="音乐专区" scheme="http://byyuu.github.io/tags/%E9%9F%B3%E4%B9%90%E4%B8%93%E5%8C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WindowTabs(窗口标签化) v18.7.20 汉化版</title>
+    <link href="http://byyuu.github.io/posts/WindowTabs.html"/>
+    <id>http://byyuu.github.io/posts/WindowTabs.html</id>
+    <published>2022-11-13T02:52:24.000Z</published>
+    <updated>2022-11-13T02:56:55.365Z</updated>
+    
+    <content type="html"><![CDATA[<p>WindowTabs是一款窗口多标签页管理工具，当你在电脑中打开多个相同的窗口就会自动合并到一块，你也可以关闭自动组合功能，通过手动拖拽Tab来实现任意组合，通过鼠标点击即可切到自己需要使用的软件。</p><p>它可以把几乎所有的 Windows 程序统统都加上标签页，譬如资源管理器、Word、Excel、pdf阅读器、微信的窗口、浏览器什么的通通都没问题。</p><p>你可以自由地拖动标签、合并或是分离它们，操作非常快捷方便。</p><p>汉化@大眼仔</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/11/13/zF3TDs.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/mauricef/WindowTabs">https://github.com/mauricef/WindowTabs</a></p><p><a href="https://www.123pan.com/s/v0HKVv-xUDHH">https://www.123pan.com/s/v0HKVv-xUDHH</a></p><p><a href="https://pan.quark.cn/s/f5b9893d6e34">https://pan.quark.cn/s/f5b9893d6e34</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;WindowTabs是一款窗口多标签页管理工具，当你在电脑中打开多个相同的窗口就会自动合并到一块，你也可以关闭自动组合功能，通过手动拖拽Tab来实现任意组合，通过鼠标点击即可切到自己需要使用的软件。&lt;/p&gt;
+&lt;p&gt;它可以把几乎所有的 Windows 程序统统都加上标签页，譬</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《 鸡 你 太 美 官 方 M V 》</title>
+    <link href="http://byyuu.github.io/posts/BV178411Y7QB.html"/>
+    <id>http://byyuu.github.io/posts/BV178411Y7QB.html</id>
+    <published>2022-11-11T05:22:28.000Z</published>
+    <updated>2022-11-13T03:26:21.966Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=219590518&amp;bvid=BV178411Y7QB&amp;cid=874100617&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"></iframe></div><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1993698937&amp;auto=0&amp;height=66"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=219590518&amp;</summary>
+      
+    
+    
+    
+    <category term="视频专区" scheme="http://byyuu.github.io/categories/%E8%A7%86%E9%A2%91%E4%B8%93%E5%8C%BA/"/>
+    
+    
+    <category term="视频专区" scheme="http://byyuu.github.io/tags/%E8%A7%86%E9%A2%91%E4%B8%93%E5%8C%BA/"/>
+    
+    <category term="音乐专区" scheme="http://byyuu.github.io/tags/%E9%9F%B3%E4%B9%90%E4%B8%93%E5%8C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>金山毒霸青春版桌宠提取版 v2.1</title>
@@ -335,180 +514,6 @@
       
       
     <summary type="html">&lt;p&gt;Geek Uninstaller正式版是一款相当不错的单文件绿色卸载软件，它体积轻巧，反映迅速，并且完全免费，支持多国语言，完美支持支持32位与64位系统，并且它只有一个exe文件 (软件大小不到2M)，你不需要安装即可直接卸载软件、强制彻底清除软件残留垃圾文件或是查看某软</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>360小工具提取版合集</title>
-    <link href="http://byyuu.github.io/posts/360gjtq.html"/>
-    <id>http://byyuu.github.io/posts/360gjtq.html</id>
-    <published>2022-10-30T11:48:56.000Z</published>
-    <updated>2022-10-30T11:57:08.620Z</updated>
-    
-    <content type="html"><![CDATA[<p>不得不说360这些年做的工具都挺实用的，但是我们需要用到的工具往往只是其中一两个，对于不喜欢360卫士的同学来说，安装一个360是非常痛苦的一件事，这个提取版功能就能满足大部分人的需求了，根据自己需要的功能，下载相关的文件吧。</p><h2 id="提取文件列表"><a href="#提取文件列表" class="headerlink" title="提取文件列表"></a>提取文件列表</h2><p>360U盘鉴定器.rar</p><p>360U盘鉴定器独立版.exe</p><p>360主页修复 单文件独立版.7z</p><p>360任务管理器单文件版.rar</p><p>360密码安全鉴定器单文件版.exe</p><p>360小清新日历 单文件独立版.7z</p><p>360截图2.0.exe</p><p>360手机助手.exe</p><p>360文件恢复独立版.7z</p><p>360文件粉碎机单文件版.rar</p><p>360文件解锁独立版 疑似存在风险.7z</p><p>360电脑救援 单文件独立版.7z</p><p>360看图工具独立版.zip</p><p>360眼睛护士绿色版.7z</p><p>360补丁大师8.0.7z</p><p>360软件管家官方[独立版] v5.0.0.1130绿色提取版.rar</p><p>360隔离沙箱单文件版.exe</p><p>360驱动大师 v2.0.0.1230 单文件绿色版.7z</p><p>小鲁温度监控 v2.0.0.1001 单文件独立版.exe</p><p>360奇未儿童桌面.zip</p><p>360桌面助手（桌面整理）最新版.zip</p><p>360桌面老版本.rar</p><p>360CAD病毒专杀工具（单文件）.exe</p><p>360系统防黑加固.7z</p><p>360c盘搬家.zip</p><p>360右键菜单管理独立版.7z</p><p>360插件清理独立版.zip</p><p>360木马查杀独立版.zip</p><p>360注册表清理独立版.7z</p><p>360清理和优化独立版（内含大文件清理）.exe.zip</p><p>360漏洞修复.zip</p><p>360系统优化独立版(电脑清理开机优化加速).rar</p><p>360系统优化独立版+9.0.zip</p><p>360系统盘瘦身v10.1 最新绿色版.rar</p><p>360进程查看_独立版.7z</p><p>360 DNS优选.zip</p><p>360LSP修复 单文件独立版.7z</p><p>360加速球.7z</p><p>360加速球v9.7Beta.7z</p><p>360宽带测速器单文件绿色版.rar</p><p>360开机优化神器独立版.exe</p><p>360断网急救箱独立版 10.1.7z</p><p>360杀毒+上网加速.zip</p><p>360流量监控v10.2正式版提取.rar</p><p>360流量监控单文件版 疑似报毒.rar</p><p>360游戏优化_1.4.0.1081.zip</p><p>360网游加速器 v2.0.0.1030 单文件绿色版.7z</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/HQeA-381Sh">https://www.123pan.com/s/HQeA-381Sh</a></p><p><a href="https://pan.quark.cn/s/22721ad2ef54">https://pan.quark.cn/s/22721ad2ef54</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;不得不说360这些年做的工具都挺实用的，但是我们需要用到的工具往往只是其中一两个，对于不喜欢360卫士的同学来说，安装一个360是非常痛苦的一件事，这个提取版功能就能满足大部分人的需求了，根据自己需要的功能，下载相关的文件吧。&lt;/p&gt;
-&lt;h2 id=&quot;提取文件列表&quot;&gt;&lt;a </summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>360极速浏览器X v21.0.1120.0 便携版</title>
-    <link href="http://byyuu.github.io/posts/360BrowserXb.html"/>
-    <id>http://byyuu.github.io/posts/360BrowserXb.html</id>
-    <published>2022-10-30T11:37:56.000Z</published>
-    <updated>2022-10-31T01:25:54.278Z</updated>
-    
-    <content type="html"><![CDATA[<p>360极速浏览器X官方版是一款功能强大的网页浏览器软件，能够帮助用户轻松快速的浏览各种页面，提高大家的工作效率，让网页浏览更加轻松。软件采用了Chromium 95内核，支持各种网页协议，满足用户的各种网页极速浏览功能需求。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>来自果核网友@zzx 投稿</p><p>便携制作，添加了一些常用插件。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://p0.ssl.qhmsg.com/dr/750__100/t013896b979fef1f32f.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><ol><li>增加经典皮肤、经典暗黑皮肤</li><li>增加浏览器启动加速功能</li><li>修复第一次启动慢的问题</li><li>修复拖拽标签卡顿的bug</li><li>修复视频小窗口中不显示进度条的bug</li><li>修复无法打印的问题</li><li>修复特定网页游戏登录失败的bug</li><li>修复chrome内核漏洞200多个</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.feijix.com/s/ciDa962">https://www.feijix.com/s/ciDa962</a></p><p><a href="https://www.123pan.com/s/HQeA-a21Sh">https://www.123pan.com/s/HQeA-a21Sh</a></p><p><a href="https://pan.quark.cn/s/acd4643dbafd">https://pan.quark.cn/s/acd4643dbafd</a></p><p><a href="https://ghpym.lanzoui.com/b010xl8kj">https://ghpym.lanzoui.com/b010xl8kj</a> 密码: 71e7</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;360极速浏览器X官方版是一款功能强大的网页浏览器软件，能够帮助用户轻松快速的浏览各种页面，提高大家的工作效率，让网页浏览更加轻松。软件采用了Chromium 95内核，支持各种网页协议，满足用户的各种网页极速浏览功能需求。&lt;/p&gt;
-&lt;h2 id=&quot;修改说明&quot;&gt;&lt;a hre</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>360安全卫士极速版 v15.0.0.1001</title>
-    <link href="http://byyuu.github.io/posts/360safe.html"/>
-    <id>http://byyuu.github.io/posts/360safe.html</id>
-    <published>2022-10-30T11:23:52.000Z</published>
-    <updated>2022-11-06T13:29:28.387Z</updated>
-    
-    <content type="html"><![CDATA[<p>360安全卫士在去年被江苏消费者协会点名以后，就迅速推出极速版本，没有广告，没有弹窗，有火绒的味道了。在拦截方面，做得最好的确实还是360，错杀也不放过一个。</p><p><img src="https://s1.ax1x.com/2022/10/30/xIql7R.jpg"></p><h2 id="用户反馈"><a href="#用户反馈" class="headerlink" title="用户反馈"></a>用户反馈</h2><p>经用户反馈，软件会在用户不知情的情况下通过弹窗，下载器等静默安装此软件<br>详见：<a href="https://mp.weixin.qq.com/s/_YPX6vmCJbfWhZLbu_C16w">https://mp.weixin.qq.com/s/_YPX6vmCJbfWhZLbu_C16w</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://down.360safe.com/setupbeta_jisu.exe">https://down.360safe.com/setupbeta_jisu.exe</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;360安全卫士在去年被江苏消费者协会点名以后，就迅速推出极速版本，没有广告，没有弹窗，有火绒的味道了。在拦截方面，做得最好的确实还是360，错杀也不放过一个。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://s1.ax1x.com/2022/10/30/xIql7R.jp</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2345 好压 v6.4.0.11148 去广告绿色版</title>
-    <link href="http://byyuu.github.io/posts/2345haozip.html"/>
-    <id>http://byyuu.github.io/posts/2345haozip.html</id>
-    <published>2022-10-30T11:17:28.000Z</published>
-    <updated>2022-10-30T11:21:37.031Z</updated>
-    
-    <content type="html"><![CDATA[<p>2345 好压的用户量可以说是用亿来计算的，其本身也是一款非常好用的压缩软件，并且支持的格式多，还支持压缩包看图功能，还有就是界面真是吊打其他的软件，并且新版本的好压在UNACEV2.dll漏洞问题也得到了解决。奈何软件广告多得吓人，卵用没有的mini主页，时不时弹右下角推荐，还有后台常驻服务，好端端的软件，硬生生的给搞成垃圾软件。果核剥壳首发绿色去广告版本。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@果核剥壳</p><p>绿化制作</p><p>去除mini主页，更新模块，下载模块，卵用没有的服务</p><p><del>去多余菜单，反馈按钮</del></p><p>【第一次使用请用绿化卸载工具绿化(右键管理员权限)，自动关联文件，设置右键菜单】</p><p>杀毒软件可能会对绿化工具报毒，请放行。</p><p><img src="https://s1.ax1x.com/2022/10/30/xIbLTI.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-ERDHH">https://www.123pan.com/s/v0HKVv-ERDHH</a></p><p><a href="https://pan.quark.cn/s/aecd49b932af">https://pan.quark.cn/s/aecd49b932af</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;2345 好压的用户量可以说是用亿来计算的，其本身也是一款非常好用的压缩软件，并且支持的格式多，还支持压缩包看图功能，还有就是界面真是吊打其他的软件，并且新版本的好压在UNACEV2.dll漏洞问题也得到了解决。奈何软件广告多得吓人，卵用没有的mini主页，时不时弹右下角推</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PotPlayer(网络播放器) v1.7.21801 绿色版</title>
-    <link href="http://byyuu.github.io/posts/PotPlayerl.html"/>
-    <id>http://byyuu.github.io/posts/PotPlayerl.html</id>
-    <published>2022-10-30T09:59:11.000Z</published>
-    <updated>2022-10-30T10:06:29.063Z</updated>
-    
-    <content type="html"><![CDATA[<p>PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlayer 为 Delphi 编写。PotPlayer 是 Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由 KMPlayer 的原始作者姜龙喜进行后续开发。目前(1428以后版本)的 KMPlayer 由 PandoraTV 团队负责集体开发。应 PandoraTV 的要求，PotPlayer 不会加入在 KMPlayer 中一些受欢迎功能，但作者答应加入一些近似的功能。</p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@闻雷 @果核剥壳</p><p>绿色便携制作</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xIT3z4.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>新增58个皮肤，需要的请自行下载皮肤包，解压到程序skin目录即可</p><p><a href="https://www.123pan.com/s/HQeA-KN1Sh">https://www.123pan.com/s/HQeA-KN1Sh</a></p><p><a href="https://pan.quark.cn/s/41caea616795">https://pan.quark.cn/s/41caea616795</a></p><p><a href="https://www.lanzoui.com/b00zausmb">https://www.lanzoui.com/b00zausmb</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlaye</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>云萌 Windows 10 激活工具 v2.6.2.0</title>
-    <link href="http://byyuu.github.io/posts/cloudmoe-jihuo.html"/>
-    <id>http://byyuu.github.io/posts/cloudmoe-jihuo.html</id>
-    <published>2022-10-30T09:37:22.000Z</published>
-    <updated>2022-10-30T09:54:18.673Z</updated>
-    
-    <content type="html"><![CDATA[<p>云萌 Windows 10 激活工具，专门用于数字权利激活的软件。本软件是一款使用CSharp编写的 Windows 10 数字权利激活工具。</p><p>软件支持激活激活所有的版本进行激活，同时软件已经开源，任何人都能使用。</p><p><img src="https://s1.ax1x.com/2022/10/30/xIoyV0.jpg"></p><h2 id="使用自动模式激活-Windows-10"><a href="#使用自动模式激活-Windows-10" class="headerlink" title="使用自动模式激活 Windows 10"></a>使用自动模式激活 Windows 10</h2><h4 id="English-Version"><a href="#English-Version" class="headerlink" title="English Version"></a>English Version</h4><ol><li>Download release .exe file.</li><li>Run it.</li><li>Click Activate button.</li><li>Enjoy it :)</li></ol><h4 id="中文版"><a href="#中文版" class="headerlink" title="中文版"></a>中文版</h4><ol><li>下载 Releases 里的 .exe 发行文件。</li><li>运行它。</li><li>点按 Activate 按钮。</li><li>完成~</li></ol><h2 id="Advanced-进阶"><a href="#Advanced-进阶" class="headerlink" title="Advanced 进阶"></a>Advanced 进阶</h2><h4 id="在不同版本-Windows-10-之间转换"><a href="#在不同版本-Windows-10-之间转换" class="headerlink" title="在不同版本 Windows 10 之间转换"></a>在不同版本 Windows 10 之间转换</h4><ul><li>注意: 目前已知 Windows 10 的 专业版（Professional）、专业工作站版（ProfessionalWorkstation）、教育版（Education）、专业教育版（ProfessionalEducation）、企业版（Enterprise） 之间可以进行互相转换（N版本与LTSB版本除外），而这些版本与家庭版（Core）均不能一键转换，如需转换请使用 Windows设置 中的 更改产品密钥 功能进行升级。</li></ul><h4 id="Auto-Mode-自动模式"><a href="#Auto-Mode-自动模式" class="headerlink" title="Auto Mode 自动模式"></a>Auto Mode 自动模式</h4><ol><li>运行它。</li><li>选择 Auto Mode 。</li><li>在下拉列表中选择要升级到的版本。</li><li>点按 Convert Versions 按钮。</li><li>完成。</li></ol><h4 id="Manual-Mode-手动模式"><a href="#Manual-Mode-手动模式" class="headerlink" title="Manual Mode 手动模式"></a>Manual Mode 手动模式</h4><ol><li>运行它。</li><li>选择 Manual Mode 。</li><li>输入框中输入需要升级到的版本对应的OEM零售密钥（不需要产品包装上的激活密钥，而是微软官方分配的密钥，如专业版对应密钥为 VK7JG-NPHTM-C97JM-9MPGT-3V66T）。</li><li>点按 Activate 按钮。</li><li>完成。</li></ol><h4 id="通过-Manual-Mode-手动模式激活不在列表中的-Windows-10-版本"><a href="#通过-Manual-Mode-手动模式激活不在列表中的-Windows-10-版本" class="headerlink" title="通过 Manual Mode 手动模式激活不在列表中的 Windows 10 版本"></a>通过 Manual Mode 手动模式激活不在列表中的 Windows 10 版本</h4><ul><li>注意: 此方法不适用于某些版本的激活，如 专业教育版（ProfessionalEducation） ，即使你输入了对应的OEM零售密钥。</li></ul><ol><li>运行它。</li><li>选择 Manual Mode 。</li><li>输入框中输入需要升级到的版本对应的OEM零售密钥（不需要产品包装上的激活密钥，而是微软官方分配的密钥，如专业版对应密钥为 VK7JG-NPHTM-C97JM-9MPGT-3V66T）。</li><li>点按 Convert Versions 按钮。</li><li>完成。</li></ol><h2 id="Startup-Parameters-启动参数"><a href="#Startup-Parameters-启动参数" class="headerlink" title="Startup Parameters 启动参数"></a>Startup Parameters 启动参数</h2><pre><code>-?  --help            启动后弹出启动参数帮助对话框。-a  --auto            启动后自动激活系统。-e  --expact          自动激活系统时允许使用实验性方案。（需要与 -a 或 --auto 配合使用）-h  --hide            以隐藏模式启动，激活进度以通知形式显示。（需要与 -a 或 --auto 配合使用）</code></pre><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><ol><li>支持 ARM64 架构的 Windows 10/11（实验性）</li><li>增加了一键将核心版本 Windows 升级到完整版 Windows 的按钮（只会在核心版本 Windows 上可见）</li><li>“收集低级操作系统的激活状态” 模块升级到 AnyCPU 版本（现已支持ARM64处理器，但是可能会误报为病毒）</li><li>法语本地化语言文件更新（半成品）</li><li>依赖库升级到最新版（包含Newtonsoft.Json的安全漏洞修复）</li><li>UI 界面微调</li><li>优化代码</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/TGSAN/CMWTAT_Digital_Edition">https://github.com/TGSAN/CMWTAT_Digital_Edition</a></p><p><a href="https://tgsan.github.io/CMWTAT_Digital_Edition/CMWTAT_Digital_Release_2_6_3_0.exe">https://tgsan.github.io/CMWTAT_Digital_Edition/CMWTAT_Digital_Release_2_6_3_0.exe</a></p><p><a href="https://www.123pan.com/s/v0HKVv-jODHH">https://www.123pan.com/s/v0HKVv-jODHH</a></p><p><a href="https://pan.quark.cn/s/c48615d969d8">https://pan.quark.cn/s/c48615d969d8</a></p><p><a href="https://ghpym.lanzoui.com/b010dqd1a">https://ghpym.lanzoui.com/b010dqd1a</a> 密码:h3i0</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;云萌 Windows 10 激活工具，专门用于数字权利激活的软件。本软件是一款使用CSharp编写的 Windows 10 数字权利激活工具。&lt;/p&gt;
-&lt;p&gt;软件支持激活激活所有的版本进行激活，同时软件已经开源，任何人都能使用。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CleanFlashPlayer(第三方Flash) v34.0.0.267</title>
-    <link href="http://byyuu.github.io/posts/CleanFlashPlayer.html"/>
-    <id>http://byyuu.github.io/posts/CleanFlashPlayer.html</id>
-    <published>2022-10-30T09:29:52.000Z</published>
-    <updated>2022-10-30T09:33:48.665Z</updated>
-    
-    <content type="html"><![CDATA[<p>Adobe Flash Player不再受支持，也不再由Adobe inc.提供。Clean Flash Player是由darktohka维护的Flash Player的第三方版本，从Flash Plaver最新版本版本构建，删除广告组件。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://s1.ax1x.com/2022/10/30/xIImlj.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-VODHH">https://www.123pan.com/s/v0HKVv-VODHH</a></p><p><a href="https://pan.quark.cn/s/f6b042b766e0">https://pan.quark.cn/s/f6b042b766e0</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Adobe Flash Player不再受支持，也不再由Adobe inc.提供。Clean Flash Player是由darktohka维护的Flash Player的第三方版本，从Flash Plaver最新版本版本构建，删除广告组件。&lt;/p&gt;
-&lt;h2 id=&quot;软件截</summary>
       
     
     
