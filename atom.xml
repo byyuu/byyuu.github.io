@@ -6,7 +6,7 @@
   <link href="http://byyuu.github.io/atom.xml" rel="self"/>
   
   <link href="http://byyuu.github.io/"/>
-  <updated>2022-11-13T10:28:46.225Z</updated>
+  <updated>2022-11-14T13:39:26.784Z</updated>
   <id>http://byyuu.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>元气骑士PJ版</title>
+    <link href="http://byyuu.github.io/posts/yqqspj.html"/>
+    <id>http://byyuu.github.io/posts/yqqspj.html</id>
+    <published>2022-11-14T13:11:57.000Z</published>
+    <updated>2022-11-14T13:39:26.784Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="游戏介绍"><a href="#游戏介绍" class="headerlink" title="游戏介绍"></a>游戏介绍</h2><p>世界危在旦夕，你能否打败怪兽、守护魔法石、保护世界？<br>大家好，这里是超好玩的Roguelike像素地牢射击游戏《元气骑士》！</p><p>秋季版本上线，海量更新来袭！<br>气宗与恶魔术士习得新技能！<br>机械狂潮主题皮肤第二弹来袭！<br>单人无尽模式开启！<br>奇械城新领主机械皇帝，等你来战！<br>机械狂潮赛季优化更新，部分天赋调整、武器重做、皮肤特效焕然一新……海量精心优化内容诚意奉上！</p><h2 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h2><p><strong>【内容调整】</strong><br>优化了资源加载性能<br>调整了部分皮肤与武器的外观、名称等</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><strong>【会员专属】</strong><a href="/neice/yqqsxz">→→点这里下载←←</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;游戏介绍&quot;&gt;&lt;a href=&quot;#游戏介绍&quot; class=&quot;headerlink&quot; title=&quot;游戏介绍&quot;&gt;&lt;/a&gt;游戏介绍&lt;/h2&gt;&lt;p&gt;世界危在旦夕，你能否打败怪兽、守护魔法石、保护世界？&lt;br&gt;大家好，这里是超好玩的Roguelike像素地牢射击游戏《元气骑</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows 10 Pro 22H2(19045.2075) 优化精简版/极度精简版</title>
@@ -123,7 +147,7 @@
     <link href="http://byyuu.github.io/posts/BV1Wy4y1i7AL.html"/>
     <id>http://byyuu.github.io/posts/BV1Wy4y1i7AL.html</id>
     <published>2022-11-13T03:13:27.000Z</published>
-    <updated>2022-11-13T03:26:27.184Z</updated>
+    <updated>2022-11-13T11:43:45.254Z</updated>
     
     <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=800725850&amp;bvid=BV1Wy4y1i7AL&amp;cid=268240143&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"></iframe></div><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1805749729&amp;auto=0&amp;height=66"></iframe>]]></content>
     
@@ -498,30 +522,6 @@
     
     
     <category term="Android软件" scheme="http://byyuu.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Geek Uninstaller(卸载工具)v1.5.1.163 免费版</title>
-    <link href="http://byyuu.github.io/posts/Geek.html"/>
-    <id>http://byyuu.github.io/posts/Geek.html</id>
-    <published>2022-10-31T00:36:56.000Z</published>
-    <updated>2022-10-31T00:41:02.864Z</updated>
-    
-    <content type="html"><![CDATA[<p>Geek Uninstaller正式版是一款相当不错的单文件绿色卸载软件，它体积轻巧，反映迅速，并且完全免费，支持多国语言，完美支持支持32位与64位系统，并且它只有一个exe文件 (软件大小不到2M)，你不需要安装即可直接卸载软件、强制彻底清除软件残留垃圾文件或是查看某软件的注册表项目等等，让你的系统瞬间变得高速流畅。</p><h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><ul><li>界面简单，使用方便。这个软件只有一个主界面。windows中所有已安装的软件会全部显示在这里，而所有和卸载有关的功能都集中在右键菜单中。</li><li>单文件绿色版软件。在官网上下载后解压缩就可以使用，无需安装，更另人惊讶的是，这个软件只有一个文件哦。</li><li>“注册表条目”功能可以快速打开与之有关的注册表键值(注册表编辑器中显示)</li><li>带有强制删除功能。使用后，所有和这个软件有关的文件和注册表项都会被清理干净哦。</li><li>GeekUninstaller还可以把已安装软件列表导出成html格式。</li><li>体积小，只有1.65 MB。完美支持windowsWindows 7/8/XP/Vista/2003/2008操作系统。</li><li>GeekUninstaller 操作很简单，选择你要卸载的软件就OK，卸载完毕后会扫描注册表残留和安装目录，残留的文件基本上全删除。GeekUninstaller 除了程序卸载、注册表项目清理，还内置了搜索功能，可以通过Google搜索你不清楚的程序。</li></ul><p><img src="https://s1.ax1x.com/2022/10/31/xoKzdJ.png"></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.123pan.com/s/v0HKVv-YRDHH">https://www.123pan.com/s/v0HKVv-YRDHH</a></p><p><a href="https://pan.quark.cn/s/b27534c880cc">https://pan.quark.cn/s/b27534c880cc</a></p><p><a href="https://pan.baidu.com/s/1ASsMSHfSCuG4VwezrynDjQ">https://pan.baidu.com/s/1ASsMSHfSCuG4VwezrynDjQ</a> 提取码：wtjj</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Geek Uninstaller正式版是一款相当不错的单文件绿色卸载软件，它体积轻巧，反映迅速，并且完全免费，支持多国语言，完美支持支持32位与64位系统，并且它只有一个exe文件 (软件大小不到2M)，你不需要安装即可直接卸载软件、强制彻底清除软件残留垃圾文件或是查看某软</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
