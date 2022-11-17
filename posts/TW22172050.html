@@ -4,8 +4,9 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="归档: 2022/11, 樱桃网">
-    <meta name="description" content="樱桃网">
+    <meta name="keywords" content="这次微信更新10多项功能有点诚意，但是不完全有, 樱桃网">
+    <meta name="description" content="微信在小而美的道路上走着自己稳健的步伐，功能变动与增加也在快速迭代，每次更新都是热点话题，来看看具体上次介绍微信更新之后，又增加了哪些功能吧。
+1.朋友圈评论长文编辑前几个版本，微信在聊天框加入了：输入长文本编辑框会扩大的特性，让大家能更好">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -17,7 +18,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>归档: 2022/11 | 樱桃网</title>
+    <title>这次微信更新10多项功能有点诚意，但是不完全有 | 樱桃网</title>
     <link rel="icon" type="image/png" href="/favicon.png">
     
 
@@ -678,487 +679,742 @@
 
 </header>
 
-    <div class="bg-cover pd-header about-cover">
-    <div class="container">
-    <div class="row">
-    <div class="col s10 offset-s1 m8 offset-m2 l8 offset-l2">
-        <div class="brand">
-            <div class="title center-align">
-                
-                I meet you.
-                
-            </div>
-
-            <div class="description center-align">
-                
-                <span id="subtitle"></span>
-                <script src="/libs/typed/typed.js"></script>
-                <script>
-                    var typed = new Typed("#subtitle", {
-                        strings: [ 
-                            
-                                "从来没有真正的绝境, 只有心灵的迷途",
-                            
-                                "Never really desperate, only the lost of the soul",
-                            
-                        ],
-                        startDelay: 300,
-                        typeSpeed: 100,
-                        loop: true,
-                        backSpeed: 50,
-                        showCursor: true
-                    });
-                </script>
-                
-            </div>
-        </div>
-    </div>
-</div>
-
-
+    
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
 <script>
-    // 每天切换 banner 图.  Switch banner image every day.
-    var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
-    $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
+    (function() {
+        let pwd = '';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
 </script>
 
 
+
+
+<div class="bg-cover pd-header post-cover" style="background-image: url('https://img.lovestu.com/uploads/2022/11/wxfm20221117.webp')">
+    <div class="container" style="right: 0px;left: 0px;">
+        <div class="row">
+            <div class="col s12 m12 l12">
+                <div class="brand">
+                    <h1 class="description center-align post-title">这次微信更新10多项功能有点诚意，但是不完全有</h1>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
-<main class="content">
+
+
+
+<main class="post-container content">
 
     
-    <div class="container archive-calendar">
+    <div class="row">
+    <div id="main-content" class="col s12 m12 l9">
+        <!-- 文章内容详情 -->
+<div id="artDetail">
     <div class="card">
-        <div id="post-calendar" class="card-content"></div>
+        <div class="card-content article-info">
+            <div class="row tag-cate">
+                <div class="col s7">
+                    
+                    <div class="article-tag">
+                        
+                            <a href="/tags/%E7%B2%BE%E5%93%81%E6%8E%A8%E6%96%87/">
+                                <span class="chip bg-color">精品推文</span>
+                            </a>
+                        
+                    </div>
+                    
+                </div>
+                <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fas fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/%E6%8E%A8%E6%96%87%E4%B8%93%E5%8C%BA/" class="post-category">
+                                推文专区
+                            </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="post-info">
+                
+                <div class="post-date info-break-policy">
+                    <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
+                    2022-11-17
+                </div>
+                
+
+                
+
+                
+                <div class="info-break-policy">
+                    <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
+                    1.7k
+                </div>
+                
+
+                
+
+                
+            </div>
+        </div>
+        <hr class="clearfix">
+
+        
+        <!-- 是否加载使用自带的 prismjs. -->
+        <link rel="stylesheet" href="/libs/prism/prism.min.css">
+        
+
+        
+
+        <div class="card-content article-card-content">
+            <div id="articleContent">
+                <p>微信在小而美的道路上走着自己稳健的步伐，功能变动与增加也在快速迭代，每次更新都是热点话题，来看看具体上次介绍微信更新之后，又增加了哪些功能吧。</p>
+<h3 id="1-朋友圈评论长文编辑"><a href="#1-朋友圈评论长文编辑" class="headerlink" title="1.朋友圈评论长文编辑"></a>1.朋友圈评论长文编辑</h3><p>前几个版本，微信在聊天框加入了：输入长文本编辑框会扩大的特性，让大家能更好地编辑内容。像是下面这样，在有 3 行及 3 行以上内容的时候，会出现一个展开按钮，点开就能“全身心”地发表长篇大论。</p>
+<p>或者是直接长按打开。</p>
+<p>微信 8.0.30 在朋友圈评论也加入了类似的特性，显示的文本区域从 3 行变成了 6 行，足足翻了一倍，iOS上的范围更大。没有对话框那样单独新增展开按钮，可能是官方考虑到评论区需要精简一点，朋友圈评论一大堆文字也不太好，有共同好友的时候看着会头疼。</p>
+<h3 id="2-订阅号长按样式调整"><a href="#2-订阅号长按样式调整" class="headerlink" title="2.订阅号长按样式调整"></a>2.订阅号长按样式调整</h3><p>现在大家看公众号，主要用来接收每日的推送，很少有人是常去账号主页搜内容看的吧？加上现在的订阅号列表，会随着阅读者的感兴趣程度来进行调整，这更像是一个类似RSS的兴趣订阅功能。而且为了延长你的使用时间，在订阅消息滑到底部之后，还有花样繁多基于你喜好的推荐文章。</p>
+<p>如果你想像刷抖音一样，刷文章打发时间，也是很容易沉迷的事。而随着大家在这个信息列表的时间越来越多，微信也开始在这个界面集成更多的操作。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211173.webp"></p>
+<p>之前有加入浮窗，现在长按可以加入稍后再读（浮窗）.取消关注.以及删除时间线上的文章入口。这里一次只能加入一篇到稍后再读，在文章外长按是没有对应选项的。</p>
+<h3 id="3-搜一搜上线了竞价排名"><a href="#3-搜一搜上线了竞价排名" class="headerlink" title="3.搜一搜上线了竞价排名"></a>3.搜一搜上线了竞价排名</h3><p>在互联网的产品里面，只要涉及搜索与排序的地方，一般都有一点利益的成分在里面。根据微信搜索应用部负责人周颢的话来看：搜一搜的月活用户已超过7亿。</p>
+<p>这个数字里面意味着多少收益就不用多说了吧？结果就是搜一搜里面也被放入了付费广告。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211174.webp"></p>
+<p>现在搜索一些关键词的时候，就会看见一些带有“广告”二字的卡片。这个广告是智能化的，可以提前设定一个模糊的触发范围，就算你搜索的关键字看起来不像是能搜出广告的，也可以给你一个最相近的惊喜。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211175.webp"></p>
+<h3 id="4-状态界面调整"><a href="#4-状态界面调整" class="headerlink" title="4.状态界面调整"></a>4.状态界面调整</h3><p>这个调整可以让你更快表达自己的状态，不知道大家对别人的状态感不感兴趣，反正一般人也就那些状态吧？没啥好看的对不对？其实，这个状态更像是一个连接其他服务的入口。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211176.webp"></p>
+<p>在微信其他的不少活动里面，这个状态是有专属样式的，比如说微信读书.以及参加在朋友圈推荐广告里面里的公益项目等等，都可以让你获得一个相对特殊的状态。其他人看见之后，也想要的话，那就形成传播效应了。</p>
+<h3 id="5-好友备注界面调整"><a href="#5-好友备注界面调整" class="headerlink" title="5.好友备注界面调整"></a>5.好友备注界面调整</h3><p>现在的好友备注界面，可以添加多张图片，同时可以从聊天记录中选取。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211177.webp"></p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211178.webp"></p>
+<h3 id="6-帮助界面优化"><a href="#6-帮助界面优化" class="headerlink" title="6.帮助界面优化"></a>6.帮助界面优化</h3><p>在微信的设置页面里面，帮助界面的排版变得更加清晰了，同时加上了在线咨询的按钮。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211179.webp"></p>
+<p>值得一提的是，经过一年，企鹅已经注册到了“微信客服”的商标。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111710.webp"></p>
+<p>但是大家先不要高兴的太早，这并不是说就能直接联系上人工客服了，如果微信完全开放人工客服，那也需要很多人来支撑。上面说的微信客服实际上是一个提供给第三方用的客服平台。</p>
+<h3 id="7-声音锁界面调整"><a href="#7-声音锁界面调整" class="headerlink" title="7.声音锁界面调整"></a>7.声音锁界面调整</h3><p>新的界面优化。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111711.webp"></p>
+<h3 id="8-搜索页面调整"><a href="#8-搜索页面调整" class="headerlink" title="8.搜索页面调整"></a>8.搜索页面调整</h3><p>在消息列表点击搜索按钮之后，就能看到有一堆展示的东西：搜索范围.历史搜索记录.以及大家在搜，在很久以前是没有这么多内容的。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111712.webp"></p>
+<p>可以在下面的设置里关闭这些展示，新增的隐藏“搜索指定内容”，就可以还回清净了。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111713.webp"></p>
+<h3 id="9-在iOS上的调整"><a href="#9-在iOS上的调整" class="headerlink" title="9.在iOS上的调整"></a>9.在iOS上的调整</h3><p>在这次更新之后，调整了适用机型的范围，iPhone6S 以下不能升级，需要的系统版本范围也调整到了 iOS13 以上。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111714.webp"></p>
+<p>另外调整了消息显示的位置，避免出现与灵动岛重叠的问题。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111715.webp"></p>
+<h3 id="10-插件界面调整"><a href="#10-插件界面调整" class="headerlink" title="10.插件界面调整"></a>10.插件界面调整</h3><p>插件界面从黄色变成了与微信主题色一样的绿色，同时部分用户会看到多出来的微信键盘。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111716.webp"></p>
+<h3 id="11-直播彩排"><a href="#11-直播彩排" class="headerlink" title="11.直播彩排"></a>11.直播彩排</h3><p>在微信开始直播的时候，可以选择彩排选项，悄无声息地指定用户参与直播，在名单之外的人都不会有消息。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111717.webp"></p>
+<h3 id="12-笔记界面"><a href="#12-笔记界面" class="headerlink" title="12.笔记界面"></a>12.笔记界面</h3><p>在笔记界面增加了时间输入的按钮。这个功能在安卓上暂时还没有看见，不过这个功能可以用输入法打出时间.日期等关键字来快速输入。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111718.webp"></p>
+<h3 id="13-与QQ联动"><a href="#13-与QQ联动" class="headerlink" title="13.与QQ联动"></a>13.与QQ联动</h3><p>都说微信新增的功能就像是 QQ 早就有的功能，而在最近有消息说，微信和 QQ 真的“鬼混”在一起了，根据 Tech 星球的消息：</p>
+<p>QQ 正在小范围内测支持微信登录功能。该能力支持用户将微信号绑定 QQ 号，绑定成功后，可直接通过微信帐号授权登录并使用 QQ 。</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111719.webp"></p>
+<p>除了这些更新，前段时间还有的消息说：微信将支持撤回5分钟以内的消息，那其实是被误解的谣言，都是因为下面的这张流传的提示图片：</p>
+<p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111720.webp"></p>
+<p>看上去似乎有一点歧义，官方真正想表达的意思是：可以在五分钟内修改撤回的消息。</p>
+<p>微信就目前来说，功能肯定会越加越多的，大家期盼微信越来越精简是不太可能的了，反正总不整出一个微信极速版，不然整个人都尬住了。那么微信不再做减法后，不说电报和QQ里有的，大家还能想到有哪些大家都能普遍用上的好功能？</p>
+<p>又到了教小龙做微信的时间 👀</p>
+
+                
+            </div>
+            <hr/>
+
+            
+
+    <div class="reprint" id="reprint-statement">
+        
+            <div class="reprint__author">
+                <span class="reprint-meta" style="font-weight: bold;">
+                    <i class="fas fa-user">
+                        文章作者:
+                    </i>
+                </span>
+                <span class="reprint-info">
+                    <a href="/about" rel="external nofollow noreferrer">樱桃网</a>
+                </span>
+            </div>
+            <div class="reprint__type">
+                <span class="reprint-meta" style="font-weight: bold;">
+                    <i class="fas fa-link">
+                        文章链接:
+                    </i>
+                </span>
+                <span class="reprint-info">
+                    <a href="http://byyuu.github.io/posts/TW22172050.html">http://byyuu.github.io/posts/TW22172050.html</a>
+                </span>
+            </div>
+            <div class="reprint__notice">
+                <span class="reprint-meta" style="font-weight: bold;">
+                    <i class="fas fa-copyright">
+                        版权声明:
+                    </i>
+                </span>
+                <span class="reprint-info">
+                    本博客所有文章除特別声明外，均采用
+                    <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>
+                    许可协议。转载请注明来源
+                    <a href="/about" target="_blank">樱桃网</a>
+                    !
+                </span>
+            </div>
+        
+    </div>
+
+    <script async defer>
+      document.addEventListener("copy", function (e) {
+        let toastHTML = '<span>复制成功，请遵循本文的转载规则</span><button class="btn-flat toast-action" onclick="navToReprintStatement()" style="font-size: smaller">查看</a>';
+        M.toast({html: toastHTML})
+      });
+
+      function navToReprintStatement() {
+        $("html, body").animate({scrollTop: $("#reprint-statement").offset().top - 80}, 800);
+      }
+    </script>
+
+
+
+            <div class="tag_share" style="display: block;">
+                <div class="post-meta__tag-list" style="display: inline-block;">
+                    
+                        <div class="article-tag">
+                            
+                                <a href="/tags/%E7%B2%BE%E5%93%81%E6%8E%A8%E6%96%87/">
+                                    <span class="chip bg-color">精品推文</span>
+                                </a>
+                            
+                        </div>
+                    
+                </div>
+                <div class="post_share" style="zoom: 80%; width: fit-content; display: inline-block; float: right; margin: -0.15rem 0;">
+                    <link rel="stylesheet" type="text/css" href="/libs/share/css/share.min.css">
+<div id="article-share">
+
+    
+    <div class="social-share" data-sites="qq,wechat,qzone,weibo" data-wechat-qrcode-helper="<p>微信扫一扫即可分享！</p>"></div>
+    <script src="/libs/share/js/social-share.min.js"></script>
+    
+
+    
+
+</div>
+
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    
+
+    
+
+    
+
+    
+
+    
+        <style>
+    .valine-card {
+        margin: 1.5rem auto;
+    }
+
+    .valine-card .card-content {
+        padding: 20px 20px 5px 20px;
+    }
+
+    #vcomments textarea {
+        box-sizing: border-box;
+        background: url("/medias/comment_bg.png") 100% 100% no-repeat;
+    }
+
+    #vcomments p {
+        margin: 2px 2px 10px;
+        font-size: 1.05rem;
+        line-height: 1.78rem;
+    }
+
+    #vcomments blockquote p {
+        text-indent: 0.2rem;
+    }
+
+    #vcomments a {
+        padding: 0 2px;
+        color: #4cbf30;
+        font-weight: 500;
+        text-decoration: none;
+    }
+
+    #vcomments img {
+        max-width: 100%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    #vcomments ol li {
+        list-style-type: decimal;
+    }
+
+    #vcomments ol,
+    ul {
+        display: block;
+        padding-left: 2em;
+        word-spacing: 0.05rem;
+    }
+
+    #vcomments ul li,
+    ol li {
+        display: list-item;
+        line-height: 1.8rem;
+        font-size: 1rem;
+    }
+
+    #vcomments ul li {
+        list-style-type: disc;
+    }
+
+    #vcomments ul ul li {
+        list-style-type: circle;
+    }
+
+    #vcomments table, th, td {
+        padding: 12px 13px;
+        border: 1px solid #dfe2e5;
+    }
+
+    #vcomments table, th, td {
+        border: 0;
+    }
+
+    table tr:nth-child(2n), thead {
+        background-color: #fafafa;
+    }
+
+    #vcomments table th {
+        background-color: #f2f2f2;
+        min-width: 80px;
+    }
+
+    #vcomments table td {
+        min-width: 80px;
+    }
+
+    #vcomments h1 {
+        font-size: 1.85rem;
+        font-weight: bold;
+        line-height: 2.2rem;
+    }
+
+    #vcomments h2 {
+        font-size: 1.65rem;
+        font-weight: bold;
+        line-height: 1.9rem;
+    }
+
+    #vcomments h3 {
+        font-size: 1.45rem;
+        font-weight: bold;
+        line-height: 1.7rem;
+    }
+
+    #vcomments h4 {
+        font-size: 1.25rem;
+        font-weight: bold;
+        line-height: 1.5rem;
+    }
+
+    #vcomments h5 {
+        font-size: 1.1rem;
+        font-weight: bold;
+        line-height: 1.4rem;
+    }
+
+    #vcomments h6 {
+        font-size: 1rem;
+        line-height: 1.3rem;
+    }
+
+    #vcomments p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+
+    #vcomments hr {
+        margin: 12px 0;
+        border: 0;
+        border-top: 1px solid #ccc;
+    }
+
+    #vcomments blockquote {
+        margin: 15px 0;
+        border-left: 5px solid #42b983;
+        padding: 1rem 0.8rem 0.3rem 0.8rem;
+        color: #666;
+        background-color: rgba(66, 185, 131, .1);
+    }
+
+    #vcomments pre {
+        font-family: monospace, monospace;
+        padding: 1.2em;
+        margin: .5em 0;
+        background: #272822;
+        overflow: auto;
+        border-radius: 0.3em;
+        tab-size: 4;
+    }
+
+    #vcomments code {
+        font-family: monospace, monospace;
+        padding: 1px 3px;
+        font-size: 0.92rem;
+        color: #e96900;
+        background-color: #f8f8f8;
+        border-radius: 2px;
+    }
+
+    #vcomments pre code {
+        font-family: monospace, monospace;
+        padding: 0;
+        color: #e8eaf6;
+        background-color: #272822;
+    }
+
+    #vcomments pre[class*="language-"] {
+        padding: 1.2em;
+        margin: .5em 0;
+    }
+
+    #vcomments code[class*="language-"],
+    pre[class*="language-"] {
+        color: #e8eaf6;
+    }
+
+    #vcomments [type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+        position: inherit;
+        margin-left: -1.3rem;
+        margin-right: 0.4rem;
+        margin-top: -1px;
+        vertical-align: middle;
+        left: unset;
+        visibility: visible;
+    }
+
+    #vcomments b,
+    strong {
+        font-weight: bold;
+    }
+
+    #vcomments dfn {
+        font-style: italic;
+    }
+
+    #vcomments small {
+        font-size: 85%;
+    }
+
+    #vcomments cite {
+        font-style: normal;
+    }
+
+    #vcomments mark {
+        background-color: #fcf8e3;
+        padding: .2em;
+    }
+
+    #vcomments table, th, td {
+        padding: 12px 13px;
+        border: 1px solid #dfe2e5;
+    }
+
+    table tr:nth-child(2n), thead {
+        background-color: #fafafa;
+    }
+
+    #vcomments table th {
+        background-color: #f2f2f2;
+        min-width: 80px;
+    }
+
+    #vcomments table td {
+        min-width: 80px;
+    }
+
+    #vcomments [type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+        position: inherit;
+        margin-left: -1.3rem;
+        margin-right: 0.4rem;
+        margin-top: -1px;
+        vertical-align: middle;
+        left: unset;
+        visibility: visible;
+    }
+</style>
+
+<div class="card valine-card" data-aos="fade-up">
+    <div class="comment_headling" style="font-size: 20px; font-weight: 700; position: relative; padding-left: 20px; top: 15px; padding-bottom: 5px;">
+        <i class="fas fa-comments fa-fw" aria-hidden="true"></i>
+        <span>评论</span>
+    </div>
+    <div id="vcomments" class="card-content" style="display: grid">
     </div>
 </div>
 
-<script type="text/javascript" src="/libs/echarts/echarts.min.js"></script>
-<script type="text/javascript">
-    let myChart = echarts.init(document.getElementById('post-calendar'));
-
-    
-
-    let option = {
-        title: {
-            top: 0,
-            text: '文章日历',
-            left: 'center',
-            textStyle: {
-                color: '#3C4858'
-            }
-        },
-        tooltip: {
-            padding: 10,
-            backgroundColor: '#555',
-            borderColor: '#777',
-            borderWidth: 1,
-            formatter: function (obj) {
-                var value = obj.value;
-                return '<div style="font-size: 14px;">' + value[0] + '：' + value[1] + '</div>';
-            }
-        },
-        visualMap: {
-            show: true,
-            showLabel: true,
-            categories: [0, 1, 2, 3, 4],
-            calculable: true,
-            inRange: {
-                symbol: 'rect',
-                color: ['#ebedf0', '#c6e48b', '#7bc96f', '#239a3b', '#196127']
-            },
-            itemWidth: 12,
-            itemHeight: 12,
-            orient: 'horizontal',
-            left: 'center',
-            bottom: 0
-        },
-        calendar: [{
-            left: 'center',
-            range: ["2021-11-17", "2022-11-17"],
-            cellSize: [13, 13],
-            splitLine: {
-                show: false
-            },
-            itemStyle: {
-                color: '#196127',
-                borderColor: '#fff',
-                borderWidth: 2
-            },
-            yearLabel: {
-                show: false
-            },
-            monthLabel: {
-                nameMap: 'cn',
-                fontSize: 11
-            },
-            dayLabel: {
-                formatter: '{start}  1st',
-                nameMap: 'cn',
-                fontSize: 11
-            }
-        }],
-        series: [{
-            type: 'heatmap',
-            coordinateSystem: 'calendar',
-            calendarIndex: 0,
-            data: [["2021-11-17", 0], ["2021-11-18", 0], ["2021-11-19", 0], ["2021-11-20", 0], ["2021-11-21", 0], ["2021-11-22", 0], ["2021-11-23", 0], ["2021-11-24", 0], ["2021-11-25", 0], ["2021-11-26", 0], ["2021-11-27", 0], ["2021-11-28", 0], ["2021-11-29", 0], ["2021-11-30", 0], ["2021-12-01", 0], ["2021-12-02", 0], ["2021-12-03", 0], ["2021-12-04", 0], ["2021-12-05", 0], ["2021-12-06", 0], ["2021-12-07", 0], ["2021-12-08", 0], ["2021-12-09", 0], ["2021-12-10", 0], ["2021-12-11", 0], ["2021-12-12", 0], ["2021-12-13", 0], ["2021-12-14", 0], ["2021-12-15", 0], ["2021-12-16", 0], ["2021-12-17", 0], ["2021-12-18", 0], ["2021-12-19", 0], ["2021-12-20", 0], ["2021-12-21", 0], ["2021-12-22", 0], ["2021-12-23", 0], ["2021-12-24", 0], ["2021-12-25", 0], ["2021-12-26", 0], ["2021-12-27", 0], ["2021-12-28", 0], ["2021-12-29", 0], ["2021-12-30", 0], ["2021-12-31", 0], ["2022-01-01", 0], ["2022-01-02", 0], ["2022-01-03", 0], ["2022-01-04", 0], ["2022-01-05", 0], ["2022-01-06", 0], ["2022-01-07", 0], ["2022-01-08", 0], ["2022-01-09", 0], ["2022-01-10", 0], ["2022-01-11", 0], ["2022-01-12", 0], ["2022-01-13", 0], ["2022-01-14", 0], ["2022-01-15", 0], ["2022-01-16", 0], ["2022-01-17", 0], ["2022-01-18", 0], ["2022-01-19", 0], ["2022-01-20", 0], ["2022-01-21", 0], ["2022-01-22", 0], ["2022-01-23", 0], ["2022-01-24", 0], ["2022-01-25", 0], ["2022-01-26", 0], ["2022-01-27", 0], ["2022-01-28", 0], ["2022-01-29", 0], ["2022-01-30", 0], ["2022-01-31", 0], ["2022-02-01", 0], ["2022-02-02", 0], ["2022-02-03", 0], ["2022-02-04", 0], ["2022-02-05", 0], ["2022-02-06", 0], ["2022-02-07", 0], ["2022-02-08", 0], ["2022-02-09", 0], ["2022-02-10", 0], ["2022-02-11", 0], ["2022-02-12", 0], ["2022-02-13", 0], ["2022-02-14", 0], ["2022-02-15", 0], ["2022-02-16", 0], ["2022-02-17", 0], ["2022-02-18", 0], ["2022-02-19", 0], ["2022-02-20", 0], ["2022-02-21", 0], ["2022-02-22", 0], ["2022-02-23", 0], ["2022-02-24", 0], ["2022-02-25", 0], ["2022-02-26", 0], ["2022-02-27", 0], ["2022-02-28", 0], ["2022-03-01", 0], ["2022-03-02", 0], ["2022-03-03", 0], ["2022-03-04", 0], ["2022-03-05", 0], ["2022-03-06", 0], ["2022-03-07", 0], ["2022-03-08", 0], ["2022-03-09", 0], ["2022-03-10", 0], ["2022-03-11", 0], ["2022-03-12", 0], ["2022-03-13", 0], ["2022-03-14", 0], ["2022-03-15", 0], ["2022-03-16", 0], ["2022-03-17", 0], ["2022-03-18", 0], ["2022-03-19", 0], ["2022-03-20", 0], ["2022-03-21", 0], ["2022-03-22", 0], ["2022-03-23", 0], ["2022-03-24", 0], ["2022-03-25", 0], ["2022-03-26", 0], ["2022-03-27", 0], ["2022-03-28", 0], ["2022-03-29", 0], ["2022-03-30", 0], ["2022-03-31", 0], ["2022-04-01", 0], ["2022-04-02", 0], ["2022-04-03", 0], ["2022-04-04", 0], ["2022-04-05", 0], ["2022-04-06", 0], ["2022-04-07", 0], ["2022-04-08", 0], ["2022-04-09", 0], ["2022-04-10", 0], ["2022-04-11", 0], ["2022-04-12", 0], ["2022-04-13", 0], ["2022-04-14", 0], ["2022-04-15", 0], ["2022-04-16", 0], ["2022-04-17", 0], ["2022-04-18", 0], ["2022-04-19", 0], ["2022-04-20", 0], ["2022-04-21", 0], ["2022-04-22", 0], ["2022-04-23", 0], ["2022-04-24", 0], ["2022-04-25", 0], ["2022-04-26", 0], ["2022-04-27", 0], ["2022-04-28", 0], ["2022-04-29", 0], ["2022-04-30", 0], ["2022-05-01", 0], ["2022-05-02", 0], ["2022-05-03", 0], ["2022-05-04", 0], ["2022-05-05", 0], ["2022-05-06", 0], ["2022-05-07", 0], ["2022-05-08", 0], ["2022-05-09", 0], ["2022-05-10", 0], ["2022-05-11", 0], ["2022-05-12", 0], ["2022-05-13", 0], ["2022-05-14", 0], ["2022-05-15", 0], ["2022-05-16", 0], ["2022-05-17", 0], ["2022-05-18", 0], ["2022-05-19", 0], ["2022-05-20", 0], ["2022-05-21", 0], ["2022-05-22", 0], ["2022-05-23", 0], ["2022-05-24", 0], ["2022-05-25", 0], ["2022-05-26", 0], ["2022-05-27", 0], ["2022-05-28", 0], ["2022-05-29", 0], ["2022-05-30", 0], ["2022-05-31", 0], ["2022-06-01", 0], ["2022-06-02", 0], ["2022-06-03", 0], ["2022-06-04", 0], ["2022-06-05", 0], ["2022-06-06", 0], ["2022-06-07", 0], ["2022-06-08", 0], ["2022-06-09", 0], ["2022-06-10", 0], ["2022-06-11", 0], ["2022-06-12", 0], ["2022-06-13", 0], ["2022-06-14", 0], ["2022-06-15", 0], ["2022-06-16", 0], ["2022-06-17", 0], ["2022-06-18", 0], ["2022-06-19", 0], ["2022-06-20", 0], ["2022-06-21", 0], ["2022-06-22", 0], ["2022-06-23", 0], ["2022-06-24", 0], ["2022-06-25", 0], ["2022-06-26", 0], ["2022-06-27", 0], ["2022-06-28", 0], ["2022-06-29", 0], ["2022-06-30", 0], ["2022-07-01", 0], ["2022-07-02", 0], ["2022-07-03", 0], ["2022-07-04", 0], ["2022-07-05", 0], ["2022-07-06", 0], ["2022-07-07", 0], ["2022-07-08", 0], ["2022-07-09", 0], ["2022-07-10", 0], ["2022-07-11", 0], ["2022-07-12", 0], ["2022-07-13", 0], ["2022-07-14", 0], ["2022-07-15", 0], ["2022-07-16", 0], ["2022-07-17", 0], ["2022-07-18", 0], ["2022-07-19", 0], ["2022-07-20", 0], ["2022-07-21", 0], ["2022-07-22", 0], ["2022-07-23", 0], ["2022-07-24", 0], ["2022-07-25", 0], ["2022-07-26", 0], ["2022-07-27", 0], ["2022-07-28", 0], ["2022-07-29", 0], ["2022-07-30", 0], ["2022-07-31", 0], ["2022-08-01", 0], ["2022-08-02", 0], ["2022-08-03", 0], ["2022-08-04", 0], ["2022-08-05", 0], ["2022-08-06", 0], ["2022-08-07", 0], ["2022-08-08", 0], ["2022-08-09", 0], ["2022-08-10", 0], ["2022-08-11", 0], ["2022-08-12", 0], ["2022-08-13", 0], ["2022-08-14", 0], ["2022-08-15", 0], ["2022-08-16", 0], ["2022-08-17", 0], ["2022-08-18", 0], ["2022-08-19", 0], ["2022-08-20", 0], ["2022-08-21", 0], ["2022-08-22", 0], ["2022-08-23", 0], ["2022-08-24", 0], ["2022-08-25", 0], ["2022-08-26", 0], ["2022-08-27", 0], ["2022-08-28", 0], ["2022-08-29", 0], ["2022-08-30", 0], ["2022-08-31", 0], ["2022-09-01", 0], ["2022-09-02", 0], ["2022-09-03", 0], ["2022-09-04", 0], ["2022-09-05", 0], ["2022-09-06", 0], ["2022-09-07", 0], ["2022-09-08", 0], ["2022-09-09", 0], ["2022-09-10", 0], ["2022-09-11", 0], ["2022-09-12", 0], ["2022-09-13", 0], ["2022-09-14", 0], ["2022-09-15", 0], ["2022-09-16", 0], ["2022-09-17", 0], ["2022-09-18", 0], ["2022-09-19", 0], ["2022-09-20", 0], ["2022-09-21", 0], ["2022-09-22", 0], ["2022-09-23", 0], ["2022-09-24", 0], ["2022-09-25", 0], ["2022-09-26", 0], ["2022-09-27", 0], ["2022-09-28", 0], ["2022-09-29", 0], ["2022-09-30", 0], ["2022-10-01", 0], ["2022-10-02", 0], ["2022-10-03", 0], ["2022-10-04", 0], ["2022-10-05", 0], ["2022-10-06", 0], ["2022-10-07", 0], ["2022-10-08", 0], ["2022-10-09", 0], ["2022-10-10", 0], ["2022-10-11", 0], ["2022-10-12", 0], ["2022-10-13", 0], ["2022-10-14", 0], ["2022-10-15", 0], ["2022-10-16", 0], ["2022-10-17", 0], ["2022-10-18", 0], ["2022-10-19", 0], ["2022-10-20", 0], ["2022-10-21", 0], ["2022-10-22", 0], ["2022-10-23", 0], ["2022-10-24", 4], ["2022-10-25", 2], ["2022-10-26", 4], ["2022-10-27", 4], ["2022-10-28", 6], ["2022-10-29", 4], ["2022-10-30", 10], ["2022-10-31", 8], ["2022-11-01", 0], ["2022-11-02", 0], ["2022-11-03", 0], ["2022-11-04", 0], ["2022-11-05", 0], ["2022-11-06", 2], ["2022-11-07", 2], ["2022-11-08", 0], ["2022-11-09", 1], ["2022-11-10", 0], ["2022-11-11", 0], ["2022-11-12", 0], ["2022-11-13", 6], ["2022-11-14", 1], ["2022-11-15", 0], ["2022-11-16", 2], ["2022-11-17", 3]]
-        }]
-
-    };
-
-    myChart.setOption(option);
+<script src="/libs/valine/av-min.js"></script>
+<script src="/libs/valine/Valine.min.js"></script>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: 'msZYI9m8pWsS7oiJInTPaWFV-MdYXbMMI',
+        appKey: 'vQAouQLQqtqit5FLI8EW2pCX',
+        serverURLs: '',
+        notify: 'false' === 'true',
+        verify: 'true' === 'true',
+        visitor: 'true' === 'true',
+        avatar: 'monsterid',
+        pageSize: '10',
+        lang: 'zh-cn',
+        placeholder: 'just go go'
+    });
 </script>
 
+<!--酷Q推送-->
+
+
+    
+
     
 
     
 
-    <div id="cd-timeline" class="container">
+    
+
+    
+
+<article id="prenext-posts" class="prev-next articles">
+    <div class="row article-row">
         
-        <div class="cd-timeline-block">
-
-            
-            
-            
-            <div class="cd-timeline-img year" data-aos="zoom-in-up">
-                <a href="/archives/2022">2022</a>
-            </div>
-            
-
-            
-            
-            
-            <div class="cd-timeline-img month" data-aos="zoom-in-up">
-                <a href="/archives/2022/11">11</a>
-            </div>
-            
-
-            
-            <div class="cd-timeline-img day" data-aos="zoom-in-up">
-                <span>09</span>
-            </div>
-            <article class="cd-timeline-content" data-aos="fade-up">
-                <div class="article col s12 m6">
-                    <div class="card">
-                        <a href="/posts/dubazc.html">
-                            <div class="card-image">
-                                
-                                <img src="https://s1.ax1x.com/2022/11/09/zSRfbT.jpg" class="responsive-img" alt="金山毒霸青春版桌宠提取版 v2.1">
-                                
-                                <span class="card-title">金山毒霸青春版桌宠提取版 v2.1</span>
-                            </div>
-                        </a>
-                        <div class="card-content article-content">
-                            <div class="summary block-with-text">
-                                
-                                    金山毒霸也是国内的一款毒瘤，需要充值才能体验完整版，例如元气桌面就是他们旗下的软件，未经授权盗用别人的壁纸用于商业。
-最近，他们又搞出了一款金山毒霸青春版，和正常版没什么区别，唯一的区别就是增加了二次元形象和桌宠。
-使用教程1-1、先解压安
-                                
-                            </div>
-                            <div class="publish-info">
-                                <span class="publish-date">
-                                    <i class="far fa-clock fa-fw icon-date"></i>2022-11-09
-                                </span>
-                                <span class="publish-author">
-                                    
-                                    <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                    
-                                    <a href="/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/" class="post-category">
-                                    软件分享
-                                    </a>
-                                    
-                                    
-                                </span>
-                            </div>
-                        </div>
-
+        <div class="article col s12 m6" data-aos="fade-up">
+            <div class="article-badge left-badge text-color">
+                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+            <div class="card">
+                <a href="/posts/vmospro.html">
+                    <div class="card-image">
                         
-                        <div class="card-action article-tags">
+                        <img src="https://s1.ax1x.com/2022/11/17/zm6uee.png" class="responsive-img" alt="Android VMOS Pro(安卓虚拟机) v2.9.4 修改版 / VMOS助手 v3.2.4">
+                        
+                        <span class="card-title">Android VMOS Pro(安卓虚拟机) v2.9.4 修改版 / VMOS助手 v3.2.4</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
                             
-                            <a href="/tags/Windows%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">Windows软件</span></a>
-                            
-                        </div>
                         
                     </div>
+                    <div class="publish-info">
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2022-11-17
+                        </span>
+                        <span class="publish-author">
+                            
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/" class="post-category">
+                                    软件分享
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
                 </div>
-            </article>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/Android%E8%BD%AF%E4%BB%B6/">
+                        <span class="chip bg-color">Android软件</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
         </div>
         
-        <div class="cd-timeline-block">
-
-            
-            
-
-            
-            
-
-            
-            <div class="cd-timeline-img day" data-aos="zoom-in-up">
-                <span>07</span>
-            </div>
-            <article class="cd-timeline-content" data-aos="fade-up">
-                <div class="article col s12 m6">
-                    <div class="card">
-                        <a href="/posts/RustDesk.html">
-                            <div class="card-image">
-                                
-                                <img src="https://s1.ax1x.com/2022/11/07/xv2TRP.png" class="responsive-img" alt="RustDesk(免费开源远程桌面控制软件)v1.1.9">
-                                
-                                <span class="card-title">RustDesk(免费开源远程桌面控制软件)v1.1.9</span>
-                            </div>
-                        </a>
-                        <div class="card-content article-content">
-                            <div class="summary block-with-text">
-                                
-                                    远程操控类软件并不少，比如推荐过的 ToDesk，还有老牌的 TeamViewer、向日葵、微软远程桌面、AnyDesk 等，但这些工具大多数商业化、免费限制多，或服务器在国外连接卡顿不流畅。
-但如果你还是想找一款“免费开源”的远程控制软件
-                                
-                            </div>
-                            <div class="publish-info">
-                                <span class="publish-date">
-                                    <i class="far fa-clock fa-fw icon-date"></i>2022-11-07
-                                </span>
-                                <span class="publish-author">
-                                    
-                                    <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                    
-                                    <a href="/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/" class="post-category">
-                                    软件分享
-                                    </a>
-                                    
-                                    
-                                </span>
-                            </div>
-                        </div>
-
-                        
-                        <div class="card-action article-tags">
-                            
-                            <a href="/tags/Windows%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">Windows软件</span></a>
-                            
-                            <a href="/tags/Android%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">Android软件</span></a>
-                            
-                            <a href="/tags/ios%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">ios软件</span></a>
-                            
-                            <a href="/tags/Linux%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">Linux软件</span></a>
-                            
-                            <a href="/tags/Mac%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">Mac软件</span></a>
-                            
-                        </div>
-                        
-                    </div>
-                </div>
-            </article>
-        </div>
         
-        <div class="cd-timeline-block">
-
-            
-            
-
-            
-            
-
-            
-            <div class="cd-timeline-img day" data-aos="zoom-in-up">
-                <span>07</span>
+        <div class="article col s12 m6" data-aos="fade-up">
+            <div class="article-badge right-badge text-color">
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
-            <article class="cd-timeline-content" data-aos="fade-up">
-                <div class="article col s12 m6">
-                    <div class="card">
-                        <a href="/posts/ToDesk.html">
-                            <div class="card-image">
-                                
-                                <img src="https://s1.ax1x.com/2022/11/07/xvgPf0.png" class="responsive-img" alt="ToDesk(免费远程工具) v4.6.0.1 绿色版">
-                                
-                                <span class="card-title">ToDesk(免费远程工具) v4.6.0.1 绿色版</span>
-                            </div>
-                        </a>
-                        <div class="card-content article-content">
-                            <div class="summary block-with-text">
-                                
-                                    ToDesk是一款实用且流畅的远程协助软件，通过ToDesk用户可以快速对同样安装了这款软件的用户进行远程控制，利用ToDesk软件用户只需输入相应的码便可以轻松实现远程控制、文件传输等一系列操作，极大程度的提升用户工作生活的效率。
-软件特
-                                
-                            </div>
-                            <div class="publish-info">
-                                <span class="publish-date">
-                                    <i class="far fa-clock fa-fw icon-date"></i>2022-11-07
-                                </span>
-                                <span class="publish-author">
-                                    
-                                    <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                    
-                                    <a href="/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/" class="post-category">
-                                    软件分享
-                                    </a>
-                                    
-                                    
-                                </span>
-                            </div>
-                        </div>
-
+            <div class="card">
+                <a href="/posts/NEW2211172044.html">
+                    <div class="card-image">
                         
-                        <div class="card-action article-tags">
+                        
+                        <img src="/medias/featureimages/8.jpg" class="responsive-img" alt="苹果推出全新设计的 iCloud.com 网站，页面更加精简">
+                        
+                        <span class="card-title">苹果推出全新设计的 iCloud.com 网站，页面更加精简</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
                             
-                            <a href="/tags/Windows%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">Windows软件</span></a>
-                            
-                        </div>
                         
                     </div>
-                </div>
-            </article>
-        </div>
-        
-        <div class="cd-timeline-block">
-
-            
-            
-
-            
-            
-
-            
-            <div class="cd-timeline-img day" data-aos="zoom-in-up">
-                <span>06</span>
-            </div>
-            <article class="cd-timeline-content" data-aos="fade-up">
-                <div class="article col s12 m6">
-                    <div class="card">
-                        <a href="/posts/MusicFreea.html">
-                            <div class="card-image">
-                                
-                                <img src="https://s1.ax1x.com/2022/11/06/xX2WrQ.png" class="responsive-img" alt="Android MusicFree(音乐播放器) v0.0.1-alpha.7">
-                                
-                                <span class="card-title">Android MusicFree(音乐播放器) v0.0.1-alpha.7</span>
-                            </div>
-                        </a>
-                        <div class="card-content article-content">
-                            <div class="summary block-with-text">
-                                
-                                    一个插件化、定制化、无广告的免费音乐播放器，目前只支持Android和Harmony OS。
-软件特色插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件。这也就意味着，只要可以在互联
-                                
-                            </div>
-                            <div class="publish-info">
-                                <span class="publish-date">
-                                    <i class="far fa-clock fa-fw icon-date"></i>2022-11-06
-                                </span>
-                                <span class="publish-author">
-                                    
-                                    <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                    
-                                    <a href="/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/" class="post-category">
-                                    软件分享
-                                    </a>
-                                    
-                                    
-                                </span>
-                            </div>
-                        </div>
-
-                        
-                        <div class="card-action article-tags">
+                    <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2022-11-17
+                            </span>
+                        <span class="publish-author">
                             
-                            <a href="/tags/Android%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">Android软件</span></a>
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                        </div>
-                        
+                            <a href="/categories/%E7%B2%BE%E5%93%81%E6%96%B0%E9%97%BB/" class="post-category">
+                                    精品新闻
+                                </a>
+                            
+                            
+                        </span>
                     </div>
                 </div>
-            </article>
-        </div>
-        
-        <div class="cd-timeline-block">
-
-            
-            
-
-            
-            
-
-            
-            <div class="cd-timeline-img day" data-aos="zoom-in-up">
-                <span>06</span>
-            </div>
-            <article class="cd-timeline-content" data-aos="fade-up">
-                <div class="article col s12 m6">
-                    <div class="card">
-                        <a href="/posts/vmware.html">
-                            <div class="card-image">
-                                
-                                <img src="https://s1.ax1x.com/2022/11/06/xXgQtP.png" class="responsive-img" alt="VMware(VM虚拟机)多版本">
-                                
-                                <span class="card-title">VMware(VM虚拟机)多版本</span>
-                            </div>
-                        </a>
-                        <div class="card-content article-content">
-                            <div class="summary block-with-text">
-                                
-                                    VMware Workstation Pro v15 v16.2.4 官方版+激活密钥
-VMware Workstation Pro 是将多个操作系统作为虚拟机 (VM) 在单台 Linux 或 Windows PC 上运行的行业标准。为任
-                                
-                            </div>
-                            <div class="publish-info">
-                                <span class="publish-date">
-                                    <i class="far fa-clock fa-fw icon-date"></i>2022-11-06
-                                </span>
-                                <span class="publish-author">
-                                    
-                                    <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                    
-                                    <a href="/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/" class="post-category">
-                                    软件分享
-                                    </a>
-                                    
-                                    
-                                </span>
-                            </div>
-                        </div>
-
-                        
-                        <div class="card-action article-tags">
-                            
-                            <a href="/tags/Windows%E8%BD%AF%E4%BB%B6/"><span class="chip bg-color">Windows软件</span></a>
-                            
-                        </div>
-                        
-                    </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E5%9C%88%E5%86%85%E6%96%B0%E9%97%BB/">
+                        <span class="chip bg-color">圈内新闻</span>
+                    </a>
+                    
                 </div>
-            </article>
+                
+            </div>
         </div>
         
     </div>
+</article>
+
+</div>
+
+
+
+<!-- 代码块功能依赖 -->
+<script type="text/javascript" src="/libs/codeBlock/codeBlockFuction.js"></script>
+
+
+  <!-- 是否加载使用自带的 prismjs. -->
+  <script type="text/javascript" src="/libs/prism/prism.min.js"></script>
+
+
+<!-- 代码语言 -->
+
+<script type="text/javascript" src="/libs/codeBlock/codeLang.js"></script>
+
+
+<!-- 代码块复制 -->
+
+<script type="text/javascript" src="/libs/codeBlock/codeCopy.js"></script>
+
+
+<!-- 代码块收缩 -->
+
+<script type="text/javascript" src="/libs/codeBlock/codeShrink.js"></script>
+
+
+
+    </div>
+    <div id="toc-aside" class="expanded col l3 hide-on-med-and-down">
+        <div class="toc-widget card" style="background-color: white;">
+            <div class="toc-title"><i class="far fa-list-alt"></i>&nbsp;&nbsp;目录</div>
+            <div id="toc-content"></div>
+        </div>
+    </div>
+</div>
+
+<!-- TOC 悬浮按钮. -->
+
+<div id="floating-toc-btn" class="hide-on-med-and-down">
+    <a class="btn-floating btn-large bg-color">
+        <i class="fas fa-list-ul"></i>
+    </a>
+</div>
+
+
+<script src="/libs/tocbot/tocbot.min.js"></script>
+<script>
+    $(function () {
+        tocbot.init({
+            tocSelector: '#toc-content',
+            contentSelector: '#articleContent',
+            headingsOffset: -($(window).height() * 0.4 - 45),
+            collapseDepth: Number('0'),
+            headingSelector: 'h2, h3, h4'
+        });
+
+        // Set scroll toc fixed.
+        let tocHeight = parseInt($(window).height() * 0.4 - 64);
+        let $tocWidget = $('.toc-widget');
+        $(window).scroll(function () {
+            let scroll = $(window).scrollTop();
+            /* add post toc fixed. */
+            if (scroll > tocHeight) {
+                $tocWidget.addClass('toc-fixed');
+            } else {
+                $tocWidget.removeClass('toc-fixed');
+            }
+        });
+
+        
+        /* 修复文章卡片 div 的宽度. */
+        let fixPostCardWidth = function (srcId, targetId) {
+            let srcDiv = $('#' + srcId);
+            if (srcDiv.length === 0) {
+                return;
+            }
+
+            let w = srcDiv.width();
+            if (w >= 450) {
+                w = w + 21;
+            } else if (w >= 350 && w < 450) {
+                w = w + 18;
+            } else if (w >= 300 && w < 350) {
+                w = w + 16;
+            } else {
+                w = w + 14;
+            }
+            $('#' + targetId).width(w);
+        };
+
+        // 切换TOC目录展开收缩的相关操作.
+        const expandedClass = 'expanded';
+        let $tocAside = $('#toc-aside');
+        let $mainContent = $('#main-content');
+        $('#floating-toc-btn .btn-floating').click(function () {
+            if ($tocAside.hasClass(expandedClass)) {
+                $tocAside.removeClass(expandedClass).hide();
+                $mainContent.removeClass('l9');
+            } else {
+                $tocAside.addClass(expandedClass).show();
+                $mainContent.addClass('l9');
+            }
+            fixPostCardWidth('artDetail', 'prenext-posts');
+        });
+        
+    });
+</script>
+
+    
 
 </main>
-
-
-<div class="container paging">
-    <div class="row">
-        <div class="col s6 m4 l4">
-            
-            <a href="/archives/2022/11/"
-               class="left btn-floating btn-large waves-effect waves-light bg-color">
-                <i class="fas fa-angle-left"></i>
-            </a>
-            
-        </div>
-        <div class="page-info col m4 l4 hide-on-small-only">
-            <div class="center-align b-text-gray">2 / 2</div>
-        </div>
-        <div class="col s6 m4 l4">
-            
-            <a class="right btn-floating btn-large disabled">
-                <i class="fas fa-angle-right"></i>
-            </a>
-            
-        </div>
-    </div>
-</div>
 
 
 

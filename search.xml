@@ -4,6 +4,81 @@
   
     
     <entry>
+      <title>Android VMOS Pro(安卓虚拟机) v2.9.4 修改版 / VMOS助手 v3.2.4</title>
+      <link href="/posts/vmospro.html"/>
+      <url>/posts/vmospro.html</url>
+      
+        <content type="html"><![CDATA[<p>VMOS Pro是在原VMOS（虚拟大师）团队做出了颠覆性的更新。这次我们将会提供给用户自定义ROM的权限，将不再限制用户。我们将打造一个ROM平台，且鼓励用户自发的进行更改ROM，将用户的想象发挥至极限。自带 root 环境，可免 root 运行Xposed等模块；预装谷歌移动服务，支持所有应用浮窗化，可同屏操作两个应用，支持自定义修改分辨率。</p><h2 id="功能特色"><a href="#功能特色" class="headerlink" title="功能特色"></a>功能特色</h2><p><strong>VMOS Pro</strong></p><p>【安全防护】独立的虚拟手机系统，不受真机系统限制，能满足开发和测试的需求，不用担心病毒和系统崩溃的风险。</p><p>【root 权限】自带root权限，预装XP框架和谷歌移动服务，满足极客手机爱好者的各种需求。</p><p>【万物悬浮窗】支持任意应用浮窗化，可多应用同屏操作。</p><p>【应用双开】游戏双开，应用双开，边玩游戏边看直播，边玩游戏边聊天，比云手机更流畅，工作生活两不误。</p><p>【ROM平台】7.1、5.1版本的ROM系统版本。支持拥有多台虚拟机。</p><p>【操作便捷】拥有悬浮球功能，操作和切换简单便捷。</p><p>【息屏挂机】支持修改分辨率，可息屏后台运行。</p><p>【文件互传】文件中转站支持真机虚拟机应用文件相互克隆,免去繁琐的重复安装。</p><p><strong>VMOS助手</strong></p><p>1.激活流程优化，更简单<br>2.激活方式修改，仅需激活一次，重启后都无需再次激活（激活过一次后，小助手可能提示未激活，只要可以正常启动，不卡顿，后台运行不被清理，则不需要重新激活）<br>【对其他安卓版本不生效】</p><p><img src="https://s1.ax1x.com/2022/11/17/zm6KdH.jpg"></p><h2 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h2><p>@黑鹰</p><p>去除VIP会员限制，所有rom都能下载</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><p><strong>VMOS Pro 最近更新</strong></p><ol><li>本次更新我们取消了广告，还您清爽的使用体验。</li><li>修复了因为ROM升级而无法导入的问题</li><li>修复了部分已知问题。</li><li>优化了产品使用体验。</li></ol><p><strong>VMOS助手 最近更新</strong></p><p>兼容安卓12版本首发！需配合【VMOS助手】使用</p><ol><li>ROM市场功能上线，成为作者就能上传作品，有下载就有收益</li><li>新增创作中心功能，作者可发布、管理作品，并进行提现</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://www.coolapk.com/apk/com.vmos.pro">https://www.coolapk.com/apk/com.vmos.pro</a></p><p><a href="https://www.123pan.com/s/v0HKVv-KlDHH">https://www.123pan.com/s/v0HKVv-KlDHH</a></p><p><a href="https://pan.quark.cn/s/109bd514fdc8">https://pan.quark.cn/s/109bd514fdc8</a></p><p><a href="https://ghpym.lanzoui.com/b00zni45g">https://ghpym.lanzoui.com/b00zni45g</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Android软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这次微信更新10多项功能有点诚意，但是不完全有</title>
+      <link href="/posts/TW22172050.html"/>
+      <url>/posts/TW22172050.html</url>
+      
+        <content type="html"><![CDATA[<p>微信在小而美的道路上走着自己稳健的步伐，功能变动与增加也在快速迭代，每次更新都是热点话题，来看看具体上次介绍微信更新之后，又增加了哪些功能吧。</p><h3 id="1-朋友圈评论长文编辑"><a href="#1-朋友圈评论长文编辑" class="headerlink" title="1.朋友圈评论长文编辑"></a>1.朋友圈评论长文编辑</h3><p>前几个版本，微信在聊天框加入了：输入长文本编辑框会扩大的特性，让大家能更好地编辑内容。像是下面这样，在有 3 行及 3 行以上内容的时候，会出现一个展开按钮，点开就能“全身心”地发表长篇大论。</p><p>或者是直接长按打开。</p><p>微信 8.0.30 在朋友圈评论也加入了类似的特性，显示的文本区域从 3 行变成了 6 行，足足翻了一倍，iOS上的范围更大。没有对话框那样单独新增展开按钮，可能是官方考虑到评论区需要精简一点，朋友圈评论一大堆文字也不太好，有共同好友的时候看着会头疼。</p><h3 id="2-订阅号长按样式调整"><a href="#2-订阅号长按样式调整" class="headerlink" title="2.订阅号长按样式调整"></a>2.订阅号长按样式调整</h3><p>现在大家看公众号，主要用来接收每日的推送，很少有人是常去账号主页搜内容看的吧？加上现在的订阅号列表，会随着阅读者的感兴趣程度来进行调整，这更像是一个类似RSS的兴趣订阅功能。而且为了延长你的使用时间，在订阅消息滑到底部之后，还有花样繁多基于你喜好的推荐文章。</p><p>如果你想像刷抖音一样，刷文章打发时间，也是很容易沉迷的事。而随着大家在这个信息列表的时间越来越多，微信也开始在这个界面集成更多的操作。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211173.webp"></p><p>之前有加入浮窗，现在长按可以加入稍后再读（浮窗）.取消关注.以及删除时间线上的文章入口。这里一次只能加入一篇到稍后再读，在文章外长按是没有对应选项的。</p><h3 id="3-搜一搜上线了竞价排名"><a href="#3-搜一搜上线了竞价排名" class="headerlink" title="3.搜一搜上线了竞价排名"></a>3.搜一搜上线了竞价排名</h3><p>在互联网的产品里面，只要涉及搜索与排序的地方，一般都有一点利益的成分在里面。根据微信搜索应用部负责人周颢的话来看：搜一搜的月活用户已超过7亿。</p><p>这个数字里面意味着多少收益就不用多说了吧？结果就是搜一搜里面也被放入了付费广告。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211174.webp"></p><p>现在搜索一些关键词的时候，就会看见一些带有“广告”二字的卡片。这个广告是智能化的，可以提前设定一个模糊的触发范围，就算你搜索的关键字看起来不像是能搜出广告的，也可以给你一个最相近的惊喜。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211175.webp"></p><h3 id="4-状态界面调整"><a href="#4-状态界面调整" class="headerlink" title="4.状态界面调整"></a>4.状态界面调整</h3><p>这个调整可以让你更快表达自己的状态，不知道大家对别人的状态感不感兴趣，反正一般人也就那些状态吧？没啥好看的对不对？其实，这个状态更像是一个连接其他服务的入口。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211176.webp"></p><p>在微信其他的不少活动里面，这个状态是有专属样式的，比如说微信读书.以及参加在朋友圈推荐广告里面里的公益项目等等，都可以让你获得一个相对特殊的状态。其他人看见之后，也想要的话，那就形成传播效应了。</p><h3 id="5-好友备注界面调整"><a href="#5-好友备注界面调整" class="headerlink" title="5.好友备注界面调整"></a>5.好友备注界面调整</h3><p>现在的好友备注界面，可以添加多张图片，同时可以从聊天记录中选取。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211177.webp"></p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211178.webp"></p><h3 id="6-帮助界面优化"><a href="#6-帮助界面优化" class="headerlink" title="6.帮助界面优化"></a>6.帮助界面优化</h3><p>在微信的设置页面里面，帮助界面的排版变得更加清晰了，同时加上了在线咨询的按钮。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/202211179.webp"></p><p>值得一提的是，经过一年，企鹅已经注册到了“微信客服”的商标。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111710.webp"></p><p>但是大家先不要高兴的太早，这并不是说就能直接联系上人工客服了，如果微信完全开放人工客服，那也需要很多人来支撑。上面说的微信客服实际上是一个提供给第三方用的客服平台。</p><h3 id="7-声音锁界面调整"><a href="#7-声音锁界面调整" class="headerlink" title="7.声音锁界面调整"></a>7.声音锁界面调整</h3><p>新的界面优化。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111711.webp"></p><h3 id="8-搜索页面调整"><a href="#8-搜索页面调整" class="headerlink" title="8.搜索页面调整"></a>8.搜索页面调整</h3><p>在消息列表点击搜索按钮之后，就能看到有一堆展示的东西：搜索范围.历史搜索记录.以及大家在搜，在很久以前是没有这么多内容的。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111712.webp"></p><p>可以在下面的设置里关闭这些展示，新增的隐藏“搜索指定内容”，就可以还回清净了。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111713.webp"></p><h3 id="9-在iOS上的调整"><a href="#9-在iOS上的调整" class="headerlink" title="9.在iOS上的调整"></a>9.在iOS上的调整</h3><p>在这次更新之后，调整了适用机型的范围，iPhone6S 以下不能升级，需要的系统版本范围也调整到了 iOS13 以上。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111714.webp"></p><p>另外调整了消息显示的位置，避免出现与灵动岛重叠的问题。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111715.webp"></p><h3 id="10-插件界面调整"><a href="#10-插件界面调整" class="headerlink" title="10.插件界面调整"></a>10.插件界面调整</h3><p>插件界面从黄色变成了与微信主题色一样的绿色，同时部分用户会看到多出来的微信键盘。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111716.webp"></p><h3 id="11-直播彩排"><a href="#11-直播彩排" class="headerlink" title="11.直播彩排"></a>11.直播彩排</h3><p>在微信开始直播的时候，可以选择彩排选项，悄无声息地指定用户参与直播，在名单之外的人都不会有消息。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111717.webp"></p><h3 id="12-笔记界面"><a href="#12-笔记界面" class="headerlink" title="12.笔记界面"></a>12.笔记界面</h3><p>在笔记界面增加了时间输入的按钮。这个功能在安卓上暂时还没有看见，不过这个功能可以用输入法打出时间.日期等关键字来快速输入。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111718.webp"></p><h3 id="13-与QQ联动"><a href="#13-与QQ联动" class="headerlink" title="13.与QQ联动"></a>13.与QQ联动</h3><p>都说微信新增的功能就像是 QQ 早就有的功能，而在最近有消息说，微信和 QQ 真的“鬼混”在一起了，根据 Tech 星球的消息：</p><p>QQ 正在小范围内测支持微信登录功能。该能力支持用户将微信号绑定 QQ 号，绑定成功后，可直接通过微信帐号授权登录并使用 QQ 。</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111719.webp"></p><p>除了这些更新，前段时间还有的消息说：微信将支持撤回5分钟以内的消息，那其实是被误解的谣言，都是因为下面的这张流传的提示图片：</p><p><img src="https://img-cdn-cd.lovestu.com/2022/11/17/2022111720.webp"></p><p>看上去似乎有一点歧义，官方真正想表达的意思是：可以在五分钟内修改撤回的消息。</p><p>微信就目前来说，功能肯定会越加越多的，大家期盼微信越来越精简是不太可能的了，反正总不整出一个微信极速版，不然整个人都尬住了。那么微信不再做减法后，不说电报和QQ里有的，大家还能想到有哪些大家都能普遍用上的好功能？</p><p>又到了教小龙做微信的时间 👀</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 推文专区 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 精品推文 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>苹果推出全新设计的 iCloud.com 网站，页面更加精简</title>
+      <link href="/posts/NEW2211172044.html"/>
+      <url>/posts/NEW2211172044.html</url>
+      
+        <content type="html"><![CDATA[<p>11 月 17 日消息，经过几周的测试，苹果今天推出了全新设计的 iCloud.com 网站。</p><p>新的 iCloud.com 页面使用了一张彩色壁纸，上面贴有你的 Apple ID 账户和苹果应用（如照片、邮件、iCloud Drive、日历和备忘录）的磁贴。还有一个带有应用图标的磁贴，上面有 Find My、Pages、Numbers、Keynote 等应用。</p><p><img src="https://img.lovestu.com/uploads/2022/11/new202211170201.webp"></p><p>该页面可以定制，用户可以选择在每个磁贴中出现哪些应用程序，或者完全删除一个磁贴。页面底部显示用户的 iCloud 存储计划和使用情况，以及从 iCloud Drive 和其它应用程序恢复最近删除文件的链接。</p><p>在顶部的菜单栏中，用户可以点击或轻触加号来创建新的电子邮件、笔记、日历事件等。该菜单还提供了对 iCloud + 功能设置的访问，如隐藏我的电子邮件、iCloud 私人中继和 HomeKit 安全视频。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 精品新闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 圈内新闻 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Android 下饭影视 v1.0 纯净版</title>
       <link href="/posts/xfys.html"/>
       <url>/posts/xfys.html</url>
@@ -30,8 +105,8 @@
     
     <entry>
       <title>没网也能用！离线小爱同学2023年发布：支持唤醒、翻译</title>
-      <link href="/posts/News221116-2127.html"/>
-      <url>/posts/News221116-2127.html</url>
+      <link href="/posts/NEW2211162127.html"/>
+      <url>/posts/NEW2211162127.html</url>
       
         <content type="html"><![CDATA[<p>在今日举行的2022骁龙峰会上，高通正式推出第二代骁龙8移动旗舰平台，在AI、影像能力和游戏体验等方面进行升级。</p><p>此次峰会中，小米方面表示，基于第二代骁龙8的AI性能，小米预计在2023年推出离线小爱同学。</p><p><img src="https://img.lovestu.com/uploads/2022/11/new202211160201.webp"></p><p>从PPT来看，离线小爱同学将支持离线语音唤醒、离线语音识别、离线VAD、离线语义拒识、离线语义理解、离线语义匹配、离线对话生成、离线翻译、离线语音合成的特性。简单来说，即使手机处于无网状态，小爱同学也能够为用户提供离线语音服务。</p><p>据了解，第二代骁龙8内置全新Hexagon AI处理器，通过架构升级和更大的张量加速器加持，实现4.35倍的AI性能提升。同时，这也是首个支持INT4 AI精度格式的骁龙移动平台，传感器中枢集成两个AI处理器。</p><p>据悉，小米于去年12月发布MIUI 13系统，由此看来，MIUI 14可能会在今年年底或明年年初登场，而离线小爱同学有望成为MIUI 14的招牌功能之一，不过应该只有搭载第二代骁龙8的小米新机才能尝鲜。</p>]]></content>
       
@@ -1009,8 +1084,8 @@
     
     <entry>
       <title>特斯拉 CEO 马斯克完成 440 亿美元收购 Twitter 交易，多名高管遭解雇</title>
-      <link href="/posts/News221028-0900.html"/>
-      <url>/posts/News221028-0900.html</url>
+      <link href="/posts/NEW2210280900.html"/>
+      <url>/posts/NEW2210280900.html</url>
       
         <content type="html"><![CDATA[<p>据 CNBC 和华盛顿邮报报道，特斯拉 CEO 埃隆・马斯克（Elon Musk）完成以 440 亿美元（约 3176.8 亿元人民币）将推特私有化的交易。</p><p><img src="https://s1.ax1x.com/2022/10/31/xo0v38.jpg"></p><p>三位知情人士透露，马斯克首先解雇了几名 Twitter 高管。其中一位证实交易已经完成。Twitter 首席执行官 Parag Agrawal、首席财务官 Ned Segal，以及法律政策、信托和安全主管 Vijaya Gadde 均被解雇，三名 Twitter 高管被匆忙送出大楼。</p><p>一名知情人士还表示， Twitter 公司法律总顾问 Sean Edgett 也被解雇了。此前，马斯克曾在产品决策和内容审核方面公开批评 Twitter 即将离职的管理层。</p><p>今年 4 月，马斯克提出以每股 54.20 美元（约 384 元人民币）的价格收购 Twitter。10 月 27 日，银行开始发放 130 亿美元（约 933.4 亿元人民币）资金，支持马斯克对 Twitter 的收购。</p><p>纽约证券交易所网站 10 月 27 日显示，Twitter 公司的股票会在当地时间周五暂停交易，因为马斯克面临着法院规定的 10 月 28 日完成对 Twitter 440 亿美元收购的最后期限。</p>]]></content>
       
@@ -1184,8 +1259,8 @@
     
     <entry>
       <title>苹果称将遵守欧盟USB-C充电法:iPhone要告别Lightning接口了</title>
-      <link href="/posts/News221026-1030.html"/>
-      <url>/posts/News221026-1030.html</url>
+      <link href="/posts/NEW2210261030.html"/>
+      <url>/posts/NEW2210261030.html</url>
       
         <content type="html"><![CDATA[<p>最新报道显示，苹果全球营销高级副总裁格雷格·乔斯维亚克（Greg Joswiak）称，苹果将“不得不遵守”欧盟有关电子设备统一充电接口的规定。</p><p>据悉，欧洲理事会前两天已经正式批准新提案：自2024年起各类在欧盟范围内销售的手机、平板、数码相机等电子设备必须统一使用Type-C充电接口，笔记本电脑使用统一充电接口被允许有40个月的宽限期。</p><p>这也就意味着，苹果需要在明年9月份的iPhone 15全系统一使用Type-C接口，否者在2024年将无法在欧盟范围内进行销售。</p><p><img src="https://img.lovestu.com/uploads/2022/10/new202210260101.webp"></p><p>苹果此前曾强烈反对这个提议，称强制使用Type-C接口就是扼杀创新，损害消费者利益，同时还会产生更多的电子垃圾，因为会有更多Ligtning生态系统里的配件无法使用。</p><p>但苹果显然只是为了维护自己的利益，因为Ligtning生态中任何配件产品都需要通过MFi认证，每年能为苹果带来上百亿的收入。</p><p>而目前除了iPhone之外，其他几乎所有数码产品都在转向Type-C接口，包括安卓手机、笔记本电脑、数码相机等等。</p><p>基于Type-C接口能实现支持超高规格的协议，满足任何厂商对于快充、数据传输的需求。</p>]]></content>
       
@@ -1333,11 +1408,11 @@
     
     
     <entry>
-      <title>Listen1(多平台音乐播放) v2.26.2</title>
-      <link href="/posts/Listen1music.html"/>
-      <url>/posts/Listen1music.html</url>
+      <title>Microsoft Edge 多版本</title>
+      <link href="/posts/Edge.html"/>
+      <url>/posts/Edge.html</url>
       
-        <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="离线安装包-v107-0-1418-26"><a href="#离线安装包-v107-0-1418-26" class="headerlink" title="离线安装包 v107.0.1418.26"></a>离线安装包 v107.0.1418.26</h2><p>微软终于在浏览器上认输了？在用 Edge 取代多年的 IE 之后，如今 Edge 也低下了头颅，承认了 Chrome 的胜利。</p><p>Microsoft Edge 浏览器在 2015 年 1 月 21 日公布，并在 3 月 30 日发布了第一个预览版，并在之后成为 Windows 10 的默认浏览器，采用 EdgeHTML 渲染引擎并在体验上相比 IE 有着多项改进。但现在 Edge 默认浏览器的地位已经岌岌可危。</p><p>最终微软向谷妥协了，微软不再升级EDGE的内核了，转而edge团队开始使用谷歌Chromium开源内核，这意味着什么呢？</p><p>Chromium 是 Google 构建的 Chrome 浏览器背后的开源引擎，采用 Blink 内核。目前 Chrome 已经是全世界最受欢迎的浏览器，根据调研机构 StarCounter 的统计，Chrome 浏览器如今占据了全球浏览器市场 6 成以上的份额。</p><p>正式版已经出了，各种功能已经非常不错，有大厂风格，并且跑分超过了一堆国产浏览器！和谷歌浏览器相当。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>官方多版本下载：<a href="https://www.microsoftedgeinsider.com/zh-cn/download/">https://www.microsoftedgeinsider.com/zh-cn/download</a></p><p><strong>离线安装包</strong></p><p><a href="https://www.123pan.com/s/HQeA-W81Sh">https://www.123pan.com/s/HQeA-W81Sh</a></p><p><a href="https://pan.quark.cn/s/f85133a21020">https://pan.quark.cn/s/f85133a21020</a></p><p><a href="https://pan.baidu.com/s/1XsE02Pth7mtvrfBAq2AJkw">https://pan.baidu.com/s/1XsE02Pth7mtvrfBAq2AJkw</a> 提取码：ghxi</p><h2 id="便携增强版-v106-0-1370-52"><a href="#便携增强版-v106-0-1370-52" class="headerlink" title="便携增强版 v106.0.1370.52"></a>便携增强版 v106.0.1370.52</h2><p>新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"></p><h3 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h3><ol><li>基于不带更新组件及服务的官方版，删除了无用webit文件多语言pak</li><li>加入Chrome增强软件便携式劫持补丁edge++ 1.5.1 x64（version.dll）</li></ol><p><strong>edge++增强特点：</strong><br>├—双击关闭标签页<br>├—保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>├—鼠标悬停标签栏滚动<br>├—按住右键时滚轮滚动标签栏<br>├—移除flash锁区，移除2020年过期警告（下载加载flash需要你自己处理）<br>├—移除管理员运行警告<br>├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）<br>├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）<br>├—移除更新错误警告</p><p>启动软件app/msedge.exe，增强功能通过app/version.dll补丁实现。<br>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹。<br>注意：不要去删除或改动目录内 [说明.txt]，否则导致version.dll无效！</p><ol start="3"><li>加入MyChrome v3.8.35，解决便携数据Data换系统后不读取问题。</li></ol><p>说明1：安全软件会误报version.dll, MyChrome.exe威胁，请加入排除！<br>说明2：由于便携式的特殊性，不支持放系统盘%ProgramFiles%运行哦</p><h3 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h3><p>87.0.664.75为最后一个支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-LWDHH">https://www.123pan.com/s/v0HKVv-LWDHH</a><br><a href="https://pan.quark.cn/s/8be58bf7def4">https://pan.quark.cn/s/8be58bf7def4</a><br><a href="https://www.aliyundrive.com/s/JHLMLcYWpxh">https://www.aliyundrive.com/s/JHLMLcYWpxh</a></p><h2 id="RunningCheese-v106-0-1370-34"><a href="#RunningCheese-v106-0-1370-34" class="headerlink" title="RunningCheese v106.0.1370.34"></a>RunningCheese v106.0.1370.34</h2><p>多年以后，面对统计表，谷歌会回想起当年称霸浏览器市场的荣光。</p><p>2018年12月8日 微软宣布 Edge 浏览器放弃自家的 EdgeHTML 内核，转而使用谷歌的 Chromium 内核，表明了向自己的对手投降。时隔两年，微软终于推出了 Edge 浏览器正式版，那条搅动浏览器市场的“鲶鱼”也终于出现了。</p><p>RunningCheeseEdge为博主：奔跑的奶酪，专门定制的Edge浏览器增强版，集成了插件以及增强的功能。</p><h3 id="修改说明-1"><a href="#修改说明-1" class="headerlink" title="修改说明"></a>修改说明</h3><ol><li><p>最新 Chroium 内核，采用了 GreenChrome 的便携方式。</p></li><li><p>操作逻辑与之前的 Chrome、Firefox 定制版浏览器保持一致。</p></li><li><p>各项功能均已配置完成，可以用作日常使用。</p></li><li><p>便携版，不会与系统自身就有的 Edge 冲突。</p></li></ol><h3 id="数据迁移方法"><a href="#数据迁移方法" class="headerlink" title="数据迁移方法"></a>数据迁移方法</h3><p>Edge 和 Chrome 浏览器的数据通用，迁移配置文件夹下相应的数据就可以无损 转移到 Edge 上，比如：</p><p>书签数据：../Default/Bookmarks<br>书签图标：../Default/Favicons<br>历史记录：../Default/History<br>搜索引擎：../Default/Web Data</p><h3 id="下载地址-2"><a href="#下载地址-2" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-ds1Sh">https://www.123pan.com/s/HQeA-ds1Sh</a></p><p><a href="https://pan.quark.cn/s/cb174aa550ad">https://pan.quark.cn/s/cb174aa550ad</a></p><p><a href="https://cloud.189.cn/t/aANFRfrUbMz2">https://cloud.189.cn/t/aANFRfrUbMz2</a> (访问码:0kx9)</p>]]></content>
       
       
       <categories>
@@ -1358,11 +1433,11 @@
     
     
     <entry>
-      <title>Microsoft Edge 多版本</title>
-      <link href="/posts/Edge.html"/>
-      <url>/posts/Edge.html</url>
+      <title>Listen1(多平台音乐播放) v2.26.2</title>
+      <link href="/posts/Listen1music.html"/>
+      <url>/posts/Listen1music.html</url>
       
-        <content type="html"><![CDATA[<h2 id="离线安装包-v107-0-1418-26"><a href="#离线安装包-v107-0-1418-26" class="headerlink" title="离线安装包 v107.0.1418.26"></a>离线安装包 v107.0.1418.26</h2><p>微软终于在浏览器上认输了？在用 Edge 取代多年的 IE 之后，如今 Edge 也低下了头颅，承认了 Chrome 的胜利。</p><p>Microsoft Edge 浏览器在 2015 年 1 月 21 日公布，并在 3 月 30 日发布了第一个预览版，并在之后成为 Windows 10 的默认浏览器，采用 EdgeHTML 渲染引擎并在体验上相比 IE 有着多项改进。但现在 Edge 默认浏览器的地位已经岌岌可危。</p><p>最终微软向谷妥协了，微软不再升级EDGE的内核了，转而edge团队开始使用谷歌Chromium开源内核，这意味着什么呢？</p><p>Chromium 是 Google 构建的 Chrome 浏览器背后的开源引擎，采用 Blink 内核。目前 Chrome 已经是全世界最受欢迎的浏览器，根据调研机构 StarCounter 的统计，Chrome 浏览器如今占据了全球浏览器市场 6 成以上的份额。</p><p>正式版已经出了，各种功能已经非常不错，有大厂风格，并且跑分超过了一堆国产浏览器！和谷歌浏览器相当。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"></p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p>官方多版本下载：<a href="https://www.microsoftedgeinsider.com/zh-cn/download/">https://www.microsoftedgeinsider.com/zh-cn/download</a></p><p><strong>离线安装包</strong></p><p><a href="https://www.123pan.com/s/HQeA-W81Sh">https://www.123pan.com/s/HQeA-W81Sh</a></p><p><a href="https://pan.quark.cn/s/f85133a21020">https://pan.quark.cn/s/f85133a21020</a></p><p><a href="https://pan.baidu.com/s/1XsE02Pth7mtvrfBAq2AJkw">https://pan.baidu.com/s/1XsE02Pth7mtvrfBAq2AJkw</a> 提取码：ghxi</p><h2 id="便携增强版-v106-0-1370-52"><a href="#便携增强版-v106-0-1370-52" class="headerlink" title="便携增强版 v106.0.1370.52"></a>便携增强版 v106.0.1370.52</h2><p>新版本Microsoft Edge，基于谷歌Chromium内核，支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。</p><p><img src="https://s1.ax1x.com/2022/10/24/xRAEf1.png"></p><h3 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h3><ol><li>基于不带更新组件及服务的官方版，删除了无用webit文件多语言pak</li><li>加入Chrome增强软件便携式劫持补丁edge++ 1.5.1 x64（version.dll）</li></ol><p><strong>edge++增强特点：</strong><br>├—双击关闭标签页<br>├—保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）<br>├—鼠标悬停标签栏滚动<br>├—按住右键时滚轮滚动标签栏<br>├—移除flash锁区，移除2020年过期警告（下载加载flash需要你自己处理）<br>├—移除管理员运行警告<br>├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）<br>├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）<br>├—移除更新错误警告</p><p>启动软件app/msedge.exe，增强功能通过app/version.dll补丁实现。<br>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹。<br>注意：不要去删除或改动目录内 [说明.txt]，否则导致version.dll无效！</p><ol start="3"><li>加入MyChrome v3.8.35，解决便携数据Data换系统后不读取问题。</li></ol><p>说明1：安全软件会误报version.dll, MyChrome.exe威胁，请加入排除！<br>说明2：由于便携式的特殊性，不支持放系统盘%ProgramFiles%运行哦</p><h3 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h3><p>87.0.664.75为最后一个支持flash的版本</p><p><a href="https://www.123pan.com/s/v0HKVv-LWDHH">https://www.123pan.com/s/v0HKVv-LWDHH</a><br><a href="https://pan.quark.cn/s/8be58bf7def4">https://pan.quark.cn/s/8be58bf7def4</a><br><a href="https://www.aliyundrive.com/s/JHLMLcYWpxh">https://www.aliyundrive.com/s/JHLMLcYWpxh</a></p><h2 id="RunningCheese-v106-0-1370-34"><a href="#RunningCheese-v106-0-1370-34" class="headerlink" title="RunningCheese v106.0.1370.34"></a>RunningCheese v106.0.1370.34</h2><p>多年以后，面对统计表，谷歌会回想起当年称霸浏览器市场的荣光。</p><p>2018年12月8日 微软宣布 Edge 浏览器放弃自家的 EdgeHTML 内核，转而使用谷歌的 Chromium 内核，表明了向自己的对手投降。时隔两年，微软终于推出了 Edge 浏览器正式版，那条搅动浏览器市场的“鲶鱼”也终于出现了。</p><p>RunningCheeseEdge为博主：奔跑的奶酪，专门定制的Edge浏览器增强版，集成了插件以及增强的功能。</p><h3 id="修改说明-1"><a href="#修改说明-1" class="headerlink" title="修改说明"></a>修改说明</h3><ol><li><p>最新 Chroium 内核，采用了 GreenChrome 的便携方式。</p></li><li><p>操作逻辑与之前的 Chrome、Firefox 定制版浏览器保持一致。</p></li><li><p>各项功能均已配置完成，可以用作日常使用。</p></li><li><p>便携版，不会与系统自身就有的 Edge 冲突。</p></li></ol><h3 id="数据迁移方法"><a href="#数据迁移方法" class="headerlink" title="数据迁移方法"></a>数据迁移方法</h3><p>Edge 和 Chrome 浏览器的数据通用，迁移配置文件夹下相应的数据就可以无损 转移到 Edge 上，比如：</p><p>书签数据：../Default/Bookmarks<br>书签图标：../Default/Favicons<br>历史记录：../Default/History<br>搜索引擎：../Default/Web Data</p><h3 id="下载地址-2"><a href="#下载地址-2" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-ds1Sh">https://www.123pan.com/s/HQeA-ds1Sh</a></p><p><a href="https://pan.quark.cn/s/cb174aa550ad">https://pan.quark.cn/s/cb174aa550ad</a></p><p><a href="https://cloud.189.cn/t/aANFRfrUbMz2">https://cloud.189.cn/t/aANFRfrUbMz2</a> (访问码:0kx9)</p>]]></content>
+        <content type="html"><![CDATA[<p>Listen 1是一款非常不错的多平台音乐播放软件，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p><p>并且支持Win，Linux，MAC还有网页。</p><p><img src="https://s1.ax1x.com/2022/10/24/xR9d0A.jpg"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h4 id="功能改进"><a href="#功能改进" class="headerlink" title="功能改进"></a>功能改进</h4><p>1.增加 bilibili 视频音源搜索功能</p><h4 id="修复"><a href="#修复" class="headerlink" title="修复"></a>修复</h4><p>1.修复酷狗音乐的播放错误<br>2.修复酷狗音乐热门歌单加载更多时的错误<br>3.修复qq音乐歌手页的错误<br>4.修复咪咕音乐排行榜打开时的错误</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>本站只镜像Win版本，其他版本请前往官网下载</p><p>官网：<a href="https://listen1.github.io/listen1">https://listen1.github.io/listen1</a><br><a href="https://pan.quark.cn/s/8f925c93ff2b">https://pan.quark.cn/s/8f925c93ff2b</a><br><a href="https://ghpym.lanzoui.com/b00zx0mij">https://ghpym.lanzoui.com/b00zx0mij</a></p>]]></content>
       
       
       <categories>
