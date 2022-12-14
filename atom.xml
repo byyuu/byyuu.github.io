@@ -6,7 +6,7 @@
   <link href="http://byyuu.github.io/atom.xml" rel="self"/>
   
   <link href="http://byyuu.github.io/"/>
-  <updated>2022-11-23T13:51:29.647Z</updated>
+  <updated>2022-12-14T15:19:55.001Z</updated>
   <id>http://byyuu.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>百分浏览器(CentBrowser)v5.0.1002.276</title>
+    <link href="http://byyuu.github.io/posts/CentBrowser.html"/>
+    <id>http://byyuu.github.io/posts/CentBrowser.html</id>
+    <published>2022-12-14T15:00:40.000Z</published>
+    <updated>2022-12-14T15:19:55.001Z</updated>
+    
+    <content type="html"><![CDATA[<p>Cent Browser百分浏览器是一款追求速度、简约和安全的网络浏览器，几乎和谷歌浏览器一模一样。它内核内置了许多网友常用的实用功能，如：免插件自带关联迅雷、支持H5弹出播放、支持网页视频视下载、鼠标手势、超级拖拽、延迟加载、小号新标签、滚动标签栏、恢复关闭标签、多标签页选项、内存自动优化、隐私保护增强等等。它还可以在选项里设置自动更新Chrome内核及内置的Flash插件版本等。百分浏览器 – 追求速度、简约和安全的网络浏览器。Cent Browser百分浏览器是国内搞浏览器研发的技术团队百分工作室(Cent Studio)采用谷歌的开源Chromium开发者引擎系统编译的一款附加诸多实用功能的增强版网页浏览器，具备谷歌自主知识产权 Blink 极速浏览器内核，致力于让浏览器更加强大，方便和安全。</p><p><img src="https://s1.ax1x.com/2022/12/14/zI5OGn.png"></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><ol><li>内核升级至102.0.5005.167</li><li>重构新标签页和设置页</li><li>重构小号标签页（支持持久化）</li><li>重构视频下载功能</li><li>截图工具中增加模糊功能</li><li>添加菜单项”在新的小号标签中打开”</li><li>添加切换光标浏览等快捷键定制</li><li>添加选项：下载时默认覆盖同名文件</li><li>添加功能：重新加载已解压的扩展程序</li><li>下载对话框允许直接编辑路径</li><li>截图快捷键注册为全局热键</li><li>标签列表中显示标签组及小号标识</li><li>多列书签修改为整屏滚动</li><li>优化custom.css注入逻辑</li><li>[BUG修复]视频弹窗可能出现在屏幕可见区域之外</li><li>[BUG修复]App窗口关闭时可能发生崩溃</li><li>[BUG修复]安装包退出时未能清理产生的临时文件</li></ol><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><h4 id="官方下载"><a href="#官方下载" class="headerlink" title="官方下载"></a>官方下载</h4><p><a href="https://static.centbrowser.cn/win_stable/5.0.1002.275/centbrowser_5.0.1002.276_x64_portable.exe">[2022/11/10] 测试版-便携版【x64】</a></p><p><a href="https://static.centbrowser.cn/win_stable/5.0.1002.275/centbrowser_5.0.1002.276_x64.exe">[2022/11/10] 测试版-安装版【x64】</a></p><p><a href="https://static.centbrowser.cn/win_stable/5.0.1002.275/centbrowser_5.0.1002.276_portable.exe">[2022/11/10] 测试版-便携版【x86】</a></p><p><a href="https://static.centbrowser.cn/win_stable/5.0.1002.275/centbrowser_5.0.1002.276.exe">[2022/11/10] 测试版-安装版【x86】</a></p><p><a href="http://static.centbrowser.cn/win_stable/4.3.9.248/centbrowser_4.3.9.248_x64_portable.exe">[2021/01/06] 正式版-便携版【x64】</a></p><p><a href="http://static.centbrowser.cn/win_stable/4.3.9.248/centbrowser_4.3.9.248_x64.exe">[2021/01/06] 正式版-安装版【x64】</a></p><p><a href="http://static.centbrowser.cn/win_stable/4.3.9.248/centbrowser_4.3.9.248_portable.exe">[2021/01/06] 正式版-便携版【x86】</a></p><p><a href="http://static.centbrowser.cn/win_stable/4.3.9.248/centbrowser_4.3.9.248.exe">[2021/01/06] 正式版-安装版【x86】</a></p><h4 id="分流下载"><a href="#分流下载" class="headerlink" title="分流下载"></a>分流下载</h4><p><a href="https://www.123pan.com/s/HQeA-dj1Sh">https://www.123pan.com/s/HQeA-dj1Sh</a></p><p><a href="https://pan.quark.cn/s/0ebc3c793314">https://pan.quark.cn/s/0ebc3c793314</a></p><p><a href="https://www.lanzoui.com/b00zby4xi">https://www.lanzoui.com/b00zby4xi</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Cent Browser百分浏览器是一款追求速度、简约和安全的网络浏览器，几乎和谷歌浏览器一模一样。它内核内置了许多网友常用的实用功能，如：免插件自带关联迅雷、支持H5弹出播放、支持网页视频视下载、鼠标手势、超级拖拽、延迟加载、小号新标签、滚动标签栏、恢复关闭标签、多标签页</summary>
+      
+    
+    
+    
+    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>《原神》3.3版本前瞻直播11.25晚20点开启 更多激活码等你来拿！</title>
@@ -488,30 +512,6 @@
       
       
     <summary type="html">&lt;p&gt;夸克网盘电脑版（PC客户端）是夸克推出的一款云服务产品，提供网盘基础的资源备份、文件管理、影视播放能力。夸克网盘电脑版可轻松进行照片、视频、文档、音频等文件的在线备份、同步和分享。您只需要拖拽，就可以上传文件到夸克网盘中，也不用担心文件丢失。夸克网盘电脑版支持多端上传下载和</summary>
-      
-    
-    
-    
-    <category term="软件分享" scheme="http://byyuu.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="Windows软件" scheme="http://byyuu.github.io/tags/Windows%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>WPS Office 多版本</title>
-    <link href="http://byyuu.github.io/posts/WPS.html"/>
-    <id>http://byyuu.github.io/posts/WPS.html</id>
-    <published>2022-10-31T02:57:56.000Z</published>
-    <updated>2022-10-31T03:26:04.272Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="2019专业增强版-v11-8-2-11739"><a href="#2019专业增强版-v11-8-2-11739" class="headerlink" title="2019专业增强版 v11.8.2.11739"></a>2019专业增强版 v11.8.2.11739</h2><p>WPS Office是国产的软件的骄傲，由金山软件股份有限公司自主研发，兼顾文字、表格、演示等多种功能，内存占用低、运行快、插件强大、可阅读输出PDF、提供免费存储空间及模板。 兼容微软Office97-2010格式。</p><p>2019年版本的WPS，界面大改观，是有史以来所有版本最好看的一个了。</p><p>WPS专业增强版，并没有熟悉的金山广告全家桶，软件很纯净，关了就不会保留后台了，没有弹窗。WPS 2019专业版新增了流程图、思维导图、便签、PDF等功能，让用户可以体验一站式办公，不用在应用中来回切换，提供工作效率。</p><p><img src="https://s1.ax1x.com/2022/10/31/xoYsIO.jpg"><br><img src="https://s1.ax1x.com/2022/10/31/xoY6iD.jpg"></p><h3 id="使用提示"><a href="#使用提示" class="headerlink" title="使用提示"></a>使用提示</h3><p>用官方专业版安装包+VBA组件重新打包，即专业增强版<br>免激活，内置序列号，自定义安装配置文件启用内部参数<br>配置文件加入序列号：694BF-YUDBG-EAR69-BPRGB-ATQXH<br>去登陆中心、去WPS云服务和云盘、去WPS秀堂H5、WPS便签<br>安装程序解包以后，编辑oem.ini可以获得以下功能</p><p>Sn=xxxxxxxxxxxxxxxxx ;激活序列号<br>Support2016SN=true ;支持2016版序列号<br>XiuTang=false ;这个是不显示WPS秀堂H5<br>WeiboPlugin=false ;貌似是不启用微博插件<br>EnableAccount=false ;不显示账户登陆中心<br>EnableCloudDocs=false ;不显示WPS云文档<br>IntranetDrive=true ;不显示我的电脑WPS云盘<br>IntranetVersion=true ;不显示WPS便签启用内部企业版<br>EnterpriseDocpermission=true ;启用企业高级版特权的<br>EnablePlainWatermarkInfo=false ;不显示文件打印水印</p><p><strong>如果需要恢复云服务登陆中心的下载后解压</strong><br>1.打开安装配置文件（oem.ini）删除以下参数<br>├—EnableAccount=false ;不显示账户登陆中心<br>├—EnableCloudDocs=false ;不显示WPS云文档<br>2.然后运行安装包WPS2019ProSetup.exe安装完！</p><h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-Ur1Sh">https://www.123pan.com/s/HQeA-Ur1Sh</a></p><p><a href="https://pan.quark.cn/s/454d2672b1db">https://pan.quark.cn/s/454d2672b1db</a></p><p><a href="https://www.aliyundrive.com/s/77ofkGc1Yax">https://www.aliyundrive.com/s/77ofkGc1Yax</a></p><p><a href="https://pan.baidu.com/s/1-elM55W3LjmdS2cK4Sj_RQ">https://pan.baidu.com/s/1-elM55W3LjmdS2cK4Sj_RQ</a> 提取码：j166</p><h2 id="温州大学专业增强版-v11-8-2-10154"><a href="#温州大学专业增强版-v11-8-2-10154" class="headerlink" title="温州大学专业增强版 v11.8.2.10154"></a>温州大学专业增强版 v11.8.2.10154</h2><p>WPS2019温州大学版是一款定制的WPS企业专用版，无广告，免序列号正版授权。WPS Office – 国产免费办公软件套件，全面涵盖文字处理、电子表格，演示文稿、PDF以及云服务等功能。WPS2019办公套件，具备强大插件平台支持、免费提供了海量在线存储空间及文档模板、全面支持PDF文档、兼容所有微软Office格式，支持所有平台，支持跨设备云同步，成为一站式免费和收费的办公软件套件。</p><h3 id="版本特点"><a href="#版本特点" class="headerlink" title="版本特点"></a>版本特点</h3><p>– 定制序列号许可，无需激活，授权长期有效服务！</p><p>1、授权方面：个人版供个人免费使用，不可商业用途；专业版则可以。</p><p>2、功能方面：个人版无开发工具（VBA环境、宏功能）专业增强版最全。</p><p>3、体验方面：个人版（即免费基础版）有广告；专业版/专业增强版则无。</p><p>专业增强版功能最完整，相比专业版具备完整VBA组件，VBA宏功能更全！</p><h3 id="下载地址-1"><a href="#下载地址-1" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-yq1Sh">https://www.123pan.com/s/HQeA-yq1Sh</a></p><p><a href="https://pan.quark.cn/s/e4256b94a4cf">https://pan.quark.cn/s/e4256b94a4cf</a></p><h2 id="2019邮政企业专业版-v11-8-2-9022"><a href="#2019邮政企业专业版-v11-8-2-9022" class="headerlink" title="2019邮政企业专业版 v11.8.2.9022"></a>2019邮政企业专业版 v11.8.2.9022</h2><p>中国邮政集团公司联合金山共同定制开发的企业专用版，现被采购并广泛应用于中国邮政、邮储银行、中邮速递、中邮保险、中邮证券等单位。</p><p>永久自动激活无需序列号。和普通的WPS2016和2019两个版本对比，清爽无广告，内存占用更优，不会崩溃（普通版本通病）。享受线上专家一对一VIP服务，每日可免费领取稻壳模板，爽歪歪。</p><p>关闭360、QQ电脑管家等软件管理中的软件自动升级，避免被升级至其他版本。</p><p>吾爱@vtder888 分享</p><h3 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h3><p><img src="https://s1.ax1x.com/2022/10/31/xotCYF.png"></p><h3 id="下载地址-2"><a href="#下载地址-2" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.123pan.com/s/HQeA-et1Sh">https://www.123pan.com/s/HQeA-et1Sh</a></p><p><a href="https://pan.quark.cn/s/f1f44079174a">https://pan.quark.cn/s/f1f44079174a</a></p><h2 id="2019绿色精简版v3-v11-8-6-8697"><a href="#2019绿色精简版v3-v11-8-6-8697" class="headerlink" title="2019绿色精简版v3 v11.8.6.8697"></a>2019绿色精简版v3 v11.8.6.8697</h2><p>WPS是著名的办公软件，和office萝卜青菜各有所爱，这个精简版，进行大幅精简，体积缩小一半。<br>只保留et、wpp、wps，实现基本功能。无启动界面，无网络功能，作为office备用，或者轻量办公使用。</p><h3 id="修改说明"><a href="#修改说明" class="headerlink" title="修改说明"></a>修改说明</h3><p><strong>@c2y</strong></p><p>基于政府版本修改</p><p>极度精简组件，去除一切和办公无关的内容</p><p>体积缩小到70m左右</p><p><img src="https://s1.ax1x.com/2022/10/31/xot0pQ.jpg"></p><h3 id="特别提示"><a href="#特别提示" class="headerlink" title="特别提示"></a>特别提示</h3><p>需要运行库支持</p><h3 id="下载地址-3"><a href="#下载地址-3" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://www.aliyundrive.com/s/nY2oKf3aSL4">https://www.aliyundrive.com/s/nY2oKf3aSL4</a></p><h2 id="2019政府专业版-v11-8-2-10229"><a href="#2019政府专业版-v11-8-2-10229" class="headerlink" title="2019政府专业版 v11.8.2.10229"></a>2019政府专业版 v11.8.2.10229</h2><p>身边用 Office  的用户应该挺多！不过还是少部分人用 WPS，毕竟 WPS 比 Office 简单很多，只是个人不太喜欢 WPS，不过一直都为 WPS 点赞，因为出了 Linux 版本和一直都有免费带广告版本。</p><p>党政机关版本 WPS 是专业增强版本，没有广告，自带 VBA，并且不用激活，因为自带序列号，基本可以说是高级付费版了。</p><p>最新版本来自博湖县政府专用版，无需序列号激活。</p><h3 id="使用提示-1"><a href="#使用提示-1" class="headerlink" title="使用提示"></a>使用提示</h3><p>安装都是自动激活的。如果没有激活可以用下面的序列号</p><p>最新一年序列号：WD2GD-HJDTD-VXYC3-F6P8D-6M4YC</p><p>序列号1：9DP6T-9AGWG-KWV33-9MPC8-JDCVF</p><p>序列号2：THUV2-32HH7-6NMHN-PTX7Y-QQCTH</p><p>序列号3：R7AKQ-KLBXV-RNX3F-BPACQ-NQDGE</p><p>如果没有VBA，在解压后的根目录有WPSVBA.exe，可以自行安装</p><h3 id="下载地址-4"><a href="#下载地址-4" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://pan.baidu.com/s/1OVvrqmY_sYVq4KevH9ULzA">https://pan.baidu.com/s/1OVvrqmY_sYVq4KevH9ULzA</a> 提取码：ghxi</p><h2 id="2019教育考试专用版-v11-1-0-10009"><a href="#2019教育考试专用版-v11-1-0-10009" class="headerlink" title="2019教育考试专用版 v11.1.0.10009"></a>2019教育考试专用版 v11.1.0.10009</h2><p>国家2020年12月发布公告，全国计算机二级考试将加入WPS应用软件考试。所以WPS Office 2019 教育考试专用版正式与大家见面，贯彻了WPS一贯特色，特供版无广告。</p><p>软件使用流畅，默认无广告，可以作为个人长期使用版本。同时，软件提供了一些专属教育特权，一些在线模板，字体能免费使用。</p><h3 id="下载地址-5"><a href="#下载地址-5" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://pan.baidu.com/s/11I-IflUeUwQkTgZCa4bdcg">https://pan.baidu.com/s/11I-IflUeUwQkTgZCa4bdcg</a> 提取码：ghbk</p><h2 id="2019专业绿色版-v11-8-2-8875"><a href="#2019专业绿色版-v11-8-2-8875" class="headerlink" title="2019专业绿色版 v11.8.2.8875"></a>2019专业绿色版 v11.8.2.8875</h2><p>WPS2019是金山软件公司推出的最新办公系列产品，全新版本在界面上更加美观，易于操作，运行流畅，以其强大的功能和个性化的操作收到许多用户的青睐，是目前网络上广受好评的办公软件系列产品。<br>WPS2019在多个板块和功能上进行了加强和优化，包含：桌面图标从之前的三个变为一个，在搜索打开本地文件方面更为便捷，用户现在可以自由地管理标签，不再被组件类型所阻隔，以及提供多款全新的有个性的皮肤界面，加固了程序框架，使数据得到得到稳定可靠的保护，现在支持多人协同编辑，提高工作效率。</p><h3 id="修改说明-1"><a href="#修改说明-1" class="headerlink" title="修改说明"></a>修改说明</h3><p>@果核剥壳</p><p>去广告 去更新</p><p>基于专业版绿色制作，绿化后永久激活</p><p>去除所有云文档相关组件，不在我的电脑出现WPS文档文件夹，不能登录。</p><p>PDF阅读组件保留了，没有生成快捷方式，需要的去运行目录自行添加</p><p>使用前务必运行根目录下 “ 绿化.exe ”</p><h3 id="下载地址-6"><a href="#下载地址-6" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://cloud.189.cn/t/eaq2mqNzIjay">https://cloud.189.cn/t/eaq2mqNzIjay</a> (访问码:mnl5)</p><h2 id="2016极限精简版-v10-1-0-7698"><a href="#2016极限精简版-v10-1-0-7698" class="headerlink" title="2016极限精简版 v10.1.0.7698"></a>2016极限精简版 v10.1.0.7698</h2><p>WPS家的办公软件一直用起来挺不错的，对于国人使用起来很方便，该有的不该有的功能都有，在2016版本中，广告较多，所以被骂，好在网上有很多的绿色版本。而这个版本基于WPS2016的最后一个版本（个人版10.1.0.7698）制作，极度精简，体积仅仅30M，并且支持在PE下使用，无需额外安装运行库。</p><h3 id="修改说明-2"><a href="#修改说明-2" class="headerlink" title="修改说明"></a>修改说明</h3><p>@kkocdko</p><p>基于官方版WPS2016个人版的最后一个版本（v10.1.0.7698）极限精简而成<br>精简所有需联网功能、启动图片、PDF支持、VB开发工具支持等没啥用的东西<br>├—所有与联网相关的功能（包括但不限于广告、账户登陆、在线模板、多人协作）<br>├—WPS Api（第三方调用支持组件）、部分较少使用的格式支持（例如html编辑）<br>用空dll模块替换OpenSSL组件，大幅减小大小，删除了库模块，单独提供库模块</p><h3 id="下载地址-7"><a href="#下载地址-7" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="https://ghpym.lanzoui.com/b00zuqozg">https://ghpym.lanzoui.com/b00zuqozg</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;2019专业增强版-v11-8-2-11739&quot;&gt;&lt;a href=&quot;#2019专业增强版-v11-8-2-11739&quot; class=&quot;headerlink&quot; title=&quot;2019专业增强版 v11.8.2.11739&quot;&gt;&lt;/a&gt;2019专业增强版 v11.8.2</summary>
       
     
     
